@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>DOME SHOW</description>					
+			<description>GREAT BARRIER REEF 3D</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>Great Barrier Reef 3D</description>					
+			<description>SEASONS (SNS)</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:00 AM</description>					
+			<description>10:30 AM, 11:30 AM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>Seasons (SNS)</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>10:30 AM, 11:30 AM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
@@ -78,7 +78,7 @@
 								
 			<title>Grouped_Show3_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>IMAX MOVIE</description>					
+			<description>ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>12:30 PM, 1:30 PM</description>					
 								
 		</item>						
 								
@@ -102,7 +102,7 @@
 								
 			<title>Grouped_Show4_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>A Beautiful Planet 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM, 8:00 PM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>Ultimate Universe</description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:30 PM, 1:30 PM</description>					
+			<description>2:00 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -150,7 +150,7 @@
 								
 			<title>Grouped_Show6_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM, 8:00 PM</description>					
+			<description>2:30 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -174,7 +174,7 @@
 								
 			<title>Grouped_Show7_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>Volcanoes 3D</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>2:00 PM, 6:00 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>THE STORY OF EARTH 3D</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>2:30 PM, 4:30 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>Accidental Astronauts</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>6:45 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>The Story of Earth 3D</description>					
+			<description>ROCK THE DOME CLASSIC</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>Night Vision</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>6:45 PM</description>					
+			<description>9:00 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>Rock The Dome Classic</description>					
+			<description>ROCK THE DOME MODERN</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description>10:00 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description>Led Zeppelin</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description>9:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -342,7 +342,7 @@
 								
 			<title>Grouped_Show14_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -350,7 +350,7 @@
 								
 			<title>Grouped_Show15_TITLE</title>					
 								
-			<description>Rock The Dome Modern</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -358,7 +358,7 @@
 								
 			<title>Grouped_Show15_TIME</title>					
 								
-			<description>10:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -366,7 +366,7 @@
 								
 			<title>Grouped_Show15_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -710,53 +710,13 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>DOME SHOW</description>					
+			<description>GREAT BARRIER REEF 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show1_TIME</title>					
-								
-			<description>9:30 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_9:30 AM_TITLE</title>					
-								
-			<description>DOME SHOW</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_9:30 AM_THEATER</title>					
-								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show1_THEATER</title>					
-								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show2_TITLE</title>					
-								
-			<description>Great Barrier Reef 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show2_TIME</title>					
 								
 			<description>10:00 AM</description>					
 								
@@ -766,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>Great Barrier Reef 3D</description>					
+			<description>GREAT BARRIER REEF 3D</description>					
 								
 		</item>						
 								
@@ -774,29 +734,29 @@
 								
 			<title>Combined_10:00 AM_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show2_THEATER</title>					
+			<title>Combined_Show1_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show3_TITLE</title>					
-								
-			<description>Seasons (SNS)</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show3_TIME</title>					
+			<title>Combined_Show2_TITLE</title>					
+								
+			<description>SEASONS (SNS)</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show2_TIME</title>					
 								
 			<description>10:30 AM</description>					
 								
@@ -806,7 +766,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>Seasons (SNS)</description>					
+			<description>SEASONS (SNS)</description>					
 								
 		</item>						
 								
@@ -814,69 +774,29 @@
 								
 			<title>Combined_10:30 AM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show3_THEATER</title>					
+			<title>Combined_Show2_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show4_TITLE</title>					
-								
-			<description>IMAX MOVIE</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show4_TIME</title>					
+			<title>Combined_Show3_TITLE</title>					
 								
-			<description>11:00 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_11:00 AM_TITLE</title>					
-								
-			<description>IMAX MOVIE</description>					
+			<description>SKYWATCH 2ND and 3RD</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:00 AM_THEATER</title>					
-								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show4_THEATER</title>					
-								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show5_TITLE</title>					
-								
-			<description>Skywatch 2nd and 3rd</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show5_TIME</title>					
+			<title>Combined_Show3_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -886,7 +806,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>Skywatch 2nd and 3rd</description>					
+			<description>SKYWATCH 2ND and 3RD</description>					
 								
 		</item>						
 								
@@ -894,29 +814,29 @@
 								
 			<title>Combined_11:30 AM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show5_THEATER</title>					
+			<title>Combined_Show3_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show6_TITLE</title>					
-								
-			<description>A Beautiful Planet 3D</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show6_TIME</title>					
+			<title>Combined_Show4_TITLE</title>					
+								
+			<description>A BEAUTIFUL PLANET 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show4_TIME</title>					
 								
 			<description>12:00 PM</description>					
 								
@@ -926,7 +846,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>A Beautiful Planet 3D</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -934,29 +854,29 @@
 								
 			<title>Combined_12:00 PM_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show6_THEATER</title>					
+			<title>Combined_Show4_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show7_TITLE</title>					
-								
-			<description>Ultimate Universe</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show7_TIME</title>					
+			<title>Combined_Show5_TITLE</title>					
+								
+			<description>ULTIMATE UNIVERSE</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show5_TIME</title>					
 								
 			<description>12:30 PM</description>					
 								
@@ -966,7 +886,7 @@
 								
 			<title>Combined_12:30 PM_TITLE</title>					
 								
-			<description>Ultimate Universe</description>					
+			<description>ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -974,29 +894,29 @@
 								
 			<title>Combined_12:30 PM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show7_THEATER</title>					
+			<title>Combined_Show5_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show8_TITLE</title>					
-								
-			<description>Superpower Dogs 3D</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show8_TIME</title>					
+			<title>Combined_Show6_TITLE</title>					
+								
+			<description>SUPERPOWER DOGS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show6_TIME</title>					
 								
 			<description>1:00 PM</description>					
 								
@@ -1006,7 +926,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -1014,29 +934,29 @@
 								
 			<title>Combined_1:00 PM_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show8_THEATER</title>					
+			<title>Combined_Show6_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show9_TITLE</title>					
-								
-			<description>Ultimate Universe</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show9_TIME</title>					
+			<title>Combined_Show7_TITLE</title>					
+								
+			<description>ULTIMATE UNIVERSE</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show7_TIME</title>					
 								
 			<description>1:30 PM</description>					
 								
@@ -1046,7 +966,7 @@
 								
 			<title>Combined_1:30 PM_TITLE</title>					
 								
-			<description>Ultimate Universe</description>					
+			<description>ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1054,29 +974,29 @@
 								
 			<title>Combined_1:30 PM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show9_THEATER</title>					
+			<title>Combined_Show7_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show10_TITLE</title>					
-								
-			<description>Volcanoes 3D</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show10_TIME</title>					
+			<title>Combined_Show8_TITLE</title>					
+								
+			<description>VOLCANOES 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show8_TIME</title>					
 								
 			<description>2:00 PM</description>					
 								
@@ -1086,7 +1006,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>Volcanoes 3D</description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -1094,29 +1014,29 @@
 								
 			<title>Combined_2:00 PM_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show10_THEATER</title>					
+			<title>Combined_Show8_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show11_TITLE</title>					
-								
-			<description>Faster Than Light</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show11_TIME</title>					
+			<title>Combined_Show9_TITLE</title>					
+								
+			<description>FASTER THAN LIGHT</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show9_TIME</title>					
 								
 			<description>2:30 PM</description>					
 								
@@ -1126,7 +1046,7 @@
 								
 			<title>Combined_2:30 PM_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1134,29 +1054,29 @@
 								
 			<title>Combined_2:30 PM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show11_THEATER</title>					
+			<title>Combined_Show9_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show12_TITLE</title>					
-								
-			<description>Superpower Dogs 3D</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show12_TIME</title>					
+			<title>Combined_Show10_TITLE</title>					
+								
+			<description>SUPERPOWER DOGS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show10_TIME</title>					
 								
 			<description>3:00 PM</description>					
 								
@@ -1166,7 +1086,7 @@
 								
 			<title>Combined_3:00 PM_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -1174,29 +1094,29 @@
 								
 			<title>Combined_3:00 PM_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show12_THEATER</title>					
+			<title>Combined_Show10_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show13_TITLE</title>					
-								
-			<description>Accidental Astronauts</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show13_TIME</title>					
+			<title>Combined_Show11_TITLE</title>					
+								
+			<description>ACCIDENTAL ASTRONAUTS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show11_TIME</title>					
 								
 			<description>3:30 PM</description>					
 								
@@ -1206,7 +1126,7 @@
 								
 			<title>Combined_3:30 PM_TITLE</title>					
 								
-			<description>Accidental Astronauts</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -1214,29 +1134,29 @@
 								
 			<title>Combined_3:30 PM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show13_THEATER</title>					
+			<title>Combined_Show11_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TITLE</title>					
-								
-			<description>The Story of Earth 3D</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show14_TIME</title>					
+			<title>Combined_Show12_TITLE</title>					
+								
+			<description>THE STORY OF EARTH 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show12_TIME</title>					
 								
 			<description>4:00 PM</description>					
 								
@@ -1246,7 +1166,7 @@
 								
 			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>The Story of Earth 3D</description>					
+			<description>THE STORY OF EARTH 3D</description>					
 								
 		</item>						
 								
@@ -1254,29 +1174,29 @@
 								
 			<title>Combined_4:00 PM_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show14_THEATER</title>					
+			<title>Combined_Show12_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_TITLE</title>					
-								
-			<description>Faster Than Light</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show15_TIME</title>					
+			<title>Combined_Show13_TITLE</title>					
+								
+			<description>FASTER THAN LIGHT</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -1286,7 +1206,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1294,29 +1214,29 @@
 								
 			<title>Combined_4:30 PM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show15_THEATER</title>					
+			<title>Combined_Show13_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TITLE</title>					
-								
-			<description>Superpower Dogs 3D</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show16_TIME</title>					
+			<title>Combined_Show14_TITLE</title>					
+								
+			<description>SUPERPOWER DOGS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TIME</title>					
 								
 			<description>5:00 PM</description>					
 								
@@ -1326,7 +1246,7 @@
 								
 			<title>Combined_5:00 PM_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -1334,29 +1254,29 @@
 								
 			<title>Combined_5:00 PM_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show16_THEATER</title>					
+			<title>Combined_Show14_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TITLE</title>					
-								
-			<description>Volcanoes 3D</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show17_TIME</title>					
+			<title>Combined_Show15_TITLE</title>					
+								
+			<description>VOLCANOES 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -1366,7 +1286,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>Volcanoes 3D</description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -1374,31 +1294,31 @@
 								
 			<title>Combined_6:00 PM_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show17_THEATER</title>					
+			<title>Combined_Show15_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_TITLE</title>					
+								
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show18_TITLE</title>					
-								
-			<description>Night Vision</description>					
-								
-		</item>						
-								
-		<item>						
-			<title>Combined_Show18_TIME</title>					
+			<title>Combined_Show16_TIME</title>					
 								
 			<description>6:45 PM</description>					
-								
 								
 		</item>						
 								
@@ -1406,7 +1326,7 @@
 								
 			<title>Combined_6:45 PM_TITLE</title>					
 								
-			<description>Night Vision</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -1414,29 +1334,29 @@
 								
 			<title>Combined_6:45 PM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show18_THEATER</title>					
+			<title>Combined_Show16_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TITLE</title>					
-								
-			<description>Superpower Dogs 3D</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show19_TIME</title>					
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>SUPERPOWER DOGS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1446,7 +1366,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -1454,7 +1374,87 @@
 								
 			<title>Combined_7:00 PM_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_TITLE</title>					
+								
+			<description>ROCK THE DOME CLASSIC</description>					
+								
+		</item>						
+								
+		<item>						
+			<title>Combined_Show18_TIME</title>					
+								
+			<description>8:00 PM</description>					
+								
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_TITLE</title>					
+								
+			<description>ROCK THE DOME CLASSIC</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_TITLE</title>					
+								
+			<description>SUPERPOWER DOGS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_TIME</title>					
+								
+			<description>8:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_TITLE</title>					
+								
+			<description>SUPERPOWER DOGS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1462,7 +1462,7 @@
 								
 			<title>Combined_Show19_THEATER</title>					
 								
-			<description>Northrop Grumman IMAX Theater</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1470,93 +1470,13 @@
 								
 			<title>Combined_Show20_TITLE</title>					
 								
-			<description>Rock The Dome Classic</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show20_TIME</title>					
-								
-			<description>8:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_8:00 PM_TITLE</title>					
-								
-			<description>Rock The Dome Classic</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_8:00 PM_THEATER</title>					
-								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_THEATER</title>					
-								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_TITLE</title>					
-								
-			<description>Superpower Dogs 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_TIME</title>					
-								
-			<description>8:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_8:00 PM_TITLE</title>					
-								
-			<description>Superpower Dogs 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_8:00 PM_THEATER</title>					
-								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_THEATER</title>					
-								
-			<description>Northrop Grumman IMAX Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show22_TITLE</title>					
-								
-			<description>Led Zeppelin</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show22_TIME</title>					
 								
 			<description>9:00 PM</description>					
 								
@@ -1566,7 +1486,7 @@
 								
 			<title>Combined_9:00 PM_TITLE</title>					
 								
-			<description>Led Zeppelin</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -1574,29 +1494,29 @@
 								
 			<title>Combined_9:00 PM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show22_THEATER</title>					
+			<title>Combined_Show20_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show23_TITLE</title>					
-								
-			<description>Rock The Dome Modern</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show23_TIME</title>					
+			<title>Combined_Show21_TITLE</title>					
+								
+			<description>ROCK THE DOME MODERN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show21_TIME</title>					
 								
 			<description>10:00 PM</description>					
 								
@@ -1606,7 +1526,7 @@
 								
 			<title>Combined_10:00 PM_TITLE</title>					
 								
-			<description>Rock The Dome Modern</description>					
+			<description>ROCK THE DOME MODERN</description>					
 								
 		</item>						
 								
@@ -1614,7 +1534,87 @@
 								
 			<title>Combined_10:00 PM_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show21_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show22_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show22_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__THEATER</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show22_THEATER</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__THEATER</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
@@ -1622,7 +1622,7 @@
 								
 			<title>Combined_Show23_THEATER</title>					
 								
-			<description>Hansen Dome Theater</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>Great Barrier Reef 3D</description>					
+			<description>GREAT BARRIER REEF 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:00 AM_TITLE</title>					
 								
-			<description>Great Barrier Reef 3D</description>					
+			<description>GREAT BARRIER REEF 3D</description>					
 								
 		</item>						
 								
@@ -1894,37 +1894,13 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>IMAX MOVIE</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>IMAX_Show2_TIME</title>					
-								
-			<description>11:00 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_11:00 AM_TITLE</title>					
-								
-			<description>IMAX MOVIE</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show3_TITLE</title>					
-								
-			<description>A Beautiful Planet 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show3_TIME</title>					
 								
 			<description>12:00 PM</description>					
 								
@@ -1934,21 +1910,21 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>A Beautiful Planet 3D</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show4_TITLE</title>					
+			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show4_TIME</title>					
+			<title>IMAX_Show3_TIME</title>					
 								
 			<description>1:00 PM</description>					
 								
@@ -1958,21 +1934,21 @@
 								
 			<title>IMAX_1:00 PM_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show5_TITLE</title>					
+			<title>IMAX_Show4_TITLE</title>					
 								
-			<description>Volcanoes 3D</description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show5_TIME</title>					
+			<title>IMAX_Show4_TIME</title>					
 								
 			<description>2:00 PM</description>					
 								
@@ -1982,21 +1958,21 @@
 								
 			<title>IMAX_2:00 PM_TITLE</title>					
 								
-			<description>Volcanoes 3D</description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show6_TITLE</title>					
+			<title>IMAX_Show5_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show6_TIME</title>					
+			<title>IMAX_Show5_TIME</title>					
 								
 			<description>3:00 PM</description>					
 								
@@ -2006,21 +1982,21 @@
 								
 			<title>IMAX_3:00 PM_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show7_TITLE</title>					
+			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>The Story of Earth 3D</description>					
+			<description>THE STORY OF EARTH 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show7_TIME</title>					
+			<title>IMAX_Show6_TIME</title>					
 								
 			<description>4:00 PM</description>					
 								
@@ -2030,21 +2006,21 @@
 								
 			<title>IMAX_4:00 PM_TITLE</title>					
 								
-			<description>The Story of Earth 3D</description>					
+			<description>THE STORY OF EARTH 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show8_TITLE</title>					
+			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show8_TIME</title>					
+			<title>IMAX_Show7_TIME</title>					
 								
 			<description>5:00 PM</description>					
 								
@@ -2054,21 +2030,21 @@
 								
 			<title>IMAX_5:00 PM_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show9_TITLE</title>					
+			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>Volcanoes 3D</description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show9_TIME</title>					
+			<title>IMAX_Show8_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -2078,21 +2054,21 @@
 								
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description>Volcanoes 3D</description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show10_TITLE</title>					
+			<title>IMAX_Show9_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show10_TIME</title>					
+			<title>IMAX_Show9_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -2102,21 +2078,21 @@
 								
 			<title>IMAX_7:00 PM_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show11_TITLE</title>					
+			<title>IMAX_Show10_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show11_TIME</title>					
+			<title>IMAX_Show10_TIME</title>					
 								
 			<description>8:00 PM</description>					
 								
@@ -2126,7 +2102,31 @@
 								
 			<title>IMAX_8:00 PM_TITLE</title>					
 								
-			<description>Superpower Dogs 3D</description>					
+			<description>SUPERPOWER DOGS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show11_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show11_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX__TITLE</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
@@ -2566,37 +2566,13 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>DOME SHOW</description>					
+			<description>SEASONS (SNS)</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show1_TIME</title>					
-								
-			<description>9:30 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_9:30 AM_TITLE</title>					
-								
-			<description>DOME SHOW</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show2_TITLE</title>					
-								
-			<description>Seasons (SNS)</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show2_TIME</title>					
 								
 			<description>10:30 AM</description>					
 								
@@ -2606,21 +2582,21 @@
 								
 			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>Seasons (SNS)</description>					
+			<description>SEASONS (SNS)</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show3_TITLE</title>					
+			<title>Dome_Show2_TITLE</title>					
 								
-			<description>Skywatch 2nd and 3rd</description>					
+			<description>SKYWATCH 2ND and 3RD</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show3_TIME</title>					
+			<title>Dome_Show2_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -2630,21 +2606,21 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>Skywatch 2nd and 3rd</description>					
+			<description>SKYWATCH 2ND and 3RD</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show4_TITLE</title>					
+			<title>Dome_Show3_TITLE</title>					
 								
-			<description>Ultimate Universe</description>					
+			<description>ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show4_TIME</title>					
+			<title>Dome_Show3_TIME</title>					
 								
 			<description>12:30 PM</description>					
 								
@@ -2654,21 +2630,21 @@
 								
 			<title>Dome_12:30 PM_TITLE</title>					
 								
-			<description>Ultimate Universe</description>					
+			<description>ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show5_TITLE</title>					
+			<title>Dome_Show4_TITLE</title>					
 								
-			<description>Ultimate Universe</description>					
+			<description>ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show5_TIME</title>					
+			<title>Dome_Show4_TIME</title>					
 								
 			<description>1:30 PM</description>					
 								
@@ -2678,21 +2654,21 @@
 								
 			<title>Dome_1:30 PM_TITLE</title>					
 								
-			<description>Ultimate Universe</description>					
+			<description>ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show6_TITLE</title>					
+			<title>Dome_Show5_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show6_TIME</title>					
+			<title>Dome_Show5_TIME</title>					
 								
 			<description>2:30 PM</description>					
 								
@@ -2702,21 +2678,21 @@
 								
 			<title>Dome_2:30 PM_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show7_TITLE</title>					
+			<title>Dome_Show6_TITLE</title>					
 								
-			<description>Accidental Astronauts</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show7_TIME</title>					
+			<title>Dome_Show6_TIME</title>					
 								
 			<description>3:30 PM</description>					
 								
@@ -2726,21 +2702,21 @@
 								
 			<title>Dome_3:30 PM_TITLE</title>					
 								
-			<description>Accidental Astronauts</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show8_TITLE</title>					
+			<title>Dome_Show7_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show8_TIME</title>					
+			<title>Dome_Show7_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -2750,21 +2726,21 @@
 								
 			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show9_TITLE</title>					
+			<title>Dome_Show8_TITLE</title>					
 								
-			<description>Night Vision</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show9_TIME</title>					
+			<title>Dome_Show8_TIME</title>					
 								
 			<description>6:45 PM</description>					
 								
@@ -2774,21 +2750,21 @@
 								
 			<title>Dome_6:45 PM_TITLE</title>					
 								
-			<description>Night Vision</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show10_TITLE</title>					
+			<title>Dome_Show9_TITLE</title>					
 								
-			<description>Rock The Dome Classic</description>					
+			<description>ROCK THE DOME CLASSIC</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show10_TIME</title>					
+			<title>Dome_Show9_TIME</title>					
 								
 			<description>8:00 PM</description>					
 								
@@ -2798,21 +2774,21 @@
 								
 			<title>Dome_8:00 PM_TITLE</title>					
 								
-			<description>Rock The Dome Classic</description>					
+			<description>ROCK THE DOME CLASSIC</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show11_TITLE</title>					
+			<title>Dome_Show10_TITLE</title>					
 								
-			<description>Led Zeppelin</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show11_TIME</title>					
+			<title>Dome_Show10_TIME</title>					
 								
 			<description>9:00 PM</description>					
 								
@@ -2822,21 +2798,21 @@
 								
 			<title>Dome_9:00 PM_TITLE</title>					
 								
-			<description>Led Zeppelin</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show12_TITLE</title>					
+			<title>Dome_Show11_TITLE</title>					
 								
-			<description>Rock The Dome Modern</description>					
+			<description>ROCK THE DOME MODERN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show12_TIME</title>					
+			<title>Dome_Show11_TIME</title>					
 								
 			<description>10:00 PM</description>					
 								
@@ -2846,7 +2822,31 @@
 								
 			<title>Dome_10:00 PM_TITLE</title>					
 								
-			<description>Rock The Dome Modern</description>					
+			<description>ROCK THE DOME MODERN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show12_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show12_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome__TITLE</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
