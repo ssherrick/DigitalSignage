@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:30 PM, 2:30 PM, 4:30 PM, 6:45 PM</description>					
+			<description>12:30 PM, 2:30 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:30 PM, 5:30 PM</description>					
+			<description>1:30 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>ROCK THE DOME CLASSIC</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description>5:45 PM, 7:15 PM, 8:45 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>9:00 PM</description>					
+			<description>8:00 PM, 9:00 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>ROCK THE DOME MODERN</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
@@ -1238,21 +1238,21 @@
 								
 			<title>Combined_Show14_TIME</title>					
 								
-			<description>5:30 PM</description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:30 PM_TITLE</title>					
+			<title>Combined_5:45 PM_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:30 PM_THEATER</title>					
+			<title>Combined_5:45 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1310,53 +1310,13 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TIME</title>					
-								
-			<description>6:45 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:45 PM_TITLE</title>					
-								
-			<description>EXPEDITION REEF</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:45 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TITLE</title>					
-								
 			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show17_TIME</title>					
+			<title>Combined_Show16_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1380,7 +1340,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_THEATER</title>					
+			<title>Combined_Show16_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1388,9 +1348,49 @@
 								
 		<item>						
 								
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>MESMERICA</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
+								
+			<description>7:15 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:15 PM_TITLE</title>					
+								
+			<description>MESMERICA</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:15 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>ROCK THE DOME CLASSIC</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -1406,7 +1406,7 @@
 								
 			<title>Combined_8:00 PM_TITLE</title>					
 								
-			<description>ROCK THE DOME CLASSIC</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -1470,7 +1470,7 @@
 								
 			<title>Combined_Show20_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
@@ -1478,21 +1478,21 @@
 								
 			<title>Combined_Show20_TIME</title>					
 								
-			<description>9:00 PM</description>					
+			<description>8:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:00 PM_TITLE</title>					
+			<title>Combined_8:45 PM_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:00 PM_THEATER</title>					
+			<title>Combined_8:45 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1510,7 +1510,7 @@
 								
 			<title>Combined_Show21_TITLE</title>					
 								
-			<description>ROCK THE DOME MODERN</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -1518,21 +1518,21 @@
 								
 			<title>Combined_Show21_TIME</title>					
 								
-			<description>10:00 PM</description>					
+			<description>9:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:00 PM_TITLE</title>					
+			<title>Combined_9:00 PM_TITLE</title>					
 								
-			<description>ROCK THE DOME MODERN</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:00 PM_THEATER</title>					
+			<title>Combined_9:00 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1550,13 +1550,53 @@
 								
 			<title>Combined_Show22_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show22_TIME</title>					
+								
+			<description>10:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:00 PM_TITLE</title>					
+								
+			<description>LED ZEPPELIN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show22_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TITLE</title>					
+								
+			<description>DARK SIDE OF THE MOON</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TIME</title>					
 								
 			<description>11:00 PM</description>					
 								
@@ -1580,49 +1620,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show22_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show23_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show23_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show23_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
@@ -2718,15 +2718,15 @@
 								
 			<title>Dome_Show7_TIME</title>					
 								
-			<description>5:30 PM</description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_5:30 PM_TITLE</title>					
+			<title>Dome_5:45 PM_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description>6:45 PM</description>					
+			<description>7:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_6:45 PM_TITLE</title>					
+			<title>Dome_7:15 PM_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>ROCK THE DOME CLASSIC</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_8:00 PM_TITLE</title>					
 								
-			<description>ROCK THE DOME CLASSIC</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -2782,13 +2782,37 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>MESMERICA</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show10_TIME</title>					
+								
+			<description>8:45 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_8:45 PM_TITLE</title>					
+								
+			<description>MESMERICA</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show11_TITLE</title>					
+								
+			<description>NO SHOW</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show11_TIME</title>					
 								
 			<description>9:00 PM</description>					
 								
@@ -2798,21 +2822,21 @@
 								
 			<title>Dome_9:00 PM_TITLE</title>					
 								
+			<description>NO SHOW</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show12_TITLE</title>					
+								
 			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show11_TITLE</title>					
-								
-			<description>ROCK THE DOME MODERN</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show11_TIME</title>					
+			<title>Dome_Show12_TIME</title>					
 								
 			<description>10:00 PM</description>					
 								
@@ -2822,13 +2846,13 @@
 								
 			<title>Dome_10:00 PM_TITLE</title>					
 								
-			<description>ROCK THE DOME MODERN</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show12_TITLE</title>					
+			<title>Dome_Show13_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
 								
@@ -2836,7 +2860,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show12_TIME</title>					
+			<title>Dome_Show13_TIME</title>					
 								
 			<description>11:00 PM</description>					
 								
@@ -2847,30 +2871,6 @@
 			<title>Dome_11:00 PM_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show13_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show13_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
