@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:30 PM, 2:30 PM, 4:30 PM, 6:45 PM</description>					
+			<description>12:30 PM, 2:30 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>U2</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description>6:45 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>U2</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>9:00 PM</description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>10:00 PM</description>					
+			<description>9:00 PM</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>ROCK THE DOME</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>11:00 PM</description>					
+			<description>10:00 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -1326,7 +1326,7 @@
 								
 			<title>Combined_6:45 PM_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_6:45 PM_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
