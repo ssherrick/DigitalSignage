@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1230,13 +1230,53 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>SUPERPOWER DOGS 3D</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show14_TIME</title>					
+								
+			<description>5:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:30 PM_TITLE</title>					
+								
+			<description>FASTER THAN LIGHT</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:30 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_TITLE</title>					
+								
+			<description>SUPERPOWER DOGS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -1260,7 +1300,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show14_THEATER</title>					
+			<title>Combined_Show15_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1268,7 +1308,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show15_TITLE</title>					
+			<title>Combined_Show16_TITLE</title>					
 								
 			<description>NIGHT VISION</description>					
 								
@@ -1276,7 +1316,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show15_TIME</title>					
+			<title>Combined_Show16_TIME</title>					
 								
 			<description>6:45 PM</description>					
 								
@@ -1300,7 +1340,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show15_THEATER</title>					
+			<title>Combined_Show16_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1308,7 +1348,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show16_TITLE</title>					
+			<title>Combined_Show17_TITLE</title>					
 								
 			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
@@ -1316,7 +1356,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show16_TIME</title>					
+			<title>Combined_Show17_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1340,7 +1380,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show16_THEATER</title>					
+			<title>Combined_Show17_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1348,49 +1388,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_TITLE</title>					
-								
-			<description>U2</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TIME</title>					
-								
-			<description>8:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_8:00 PM_TITLE</title>					
-								
-			<description>U2</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_8:00 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>SECRETS OF THE UNIVERSE 3D</description>					
+			<description>U2</description>					
 								
 		</item>						
 								
@@ -1406,6 +1406,46 @@
 								
 			<title>Combined_8:00 PM_TITLE</title>					
 								
+			<description>U2</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_TITLE</title>					
+								
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_TIME</title>					
+								
+			<description>8:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_TITLE</title>					
+								
 			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
@@ -1420,7 +1460,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_THEATER</title>					
+			<title>Combined_Show19_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1428,7 +1468,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show19_TITLE</title>					
+			<title>Combined_Show20_TITLE</title>					
 								
 			<description>LED ZEPPELIN</description>					
 								
@@ -1436,7 +1476,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show19_TIME</title>					
+			<title>Combined_Show20_TIME</title>					
 								
 			<description>9:00 PM</description>					
 								
@@ -1460,7 +1500,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show19_THEATER</title>					
+			<title>Combined_Show20_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1468,7 +1508,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show20_TITLE</title>					
+			<title>Combined_Show21_TITLE</title>					
 								
 			<description>ROCK THE DOME</description>					
 								
@@ -1476,7 +1516,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show20_TIME</title>					
+			<title>Combined_Show21_TIME</title>					
 								
 			<description>10:00 PM</description>					
 								
@@ -1500,7 +1540,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show20_THEATER</title>					
+			<title>Combined_Show21_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1508,49 +1548,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show21_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show22_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -1558,23 +1558,23 @@
 								
 			<title>Combined_Show22_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_11:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_11:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1582,7 +1582,7 @@
 								
 			<title>Combined_Show22_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2710,13 +2710,37 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>NIGHT VISION</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show7_TIME</title>					
+								
+			<description>5:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_5:30 PM_TITLE</title>					
+								
+			<description>FASTER THAN LIGHT</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TITLE</title>					
+								
+			<description>NIGHT VISION</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TIME</title>					
 								
 			<description>6:45 PM</description>					
 								
@@ -2732,7 +2756,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show8_TITLE</title>					
+			<title>Dome_Show9_TITLE</title>					
 								
 			<description>U2</description>					
 								
@@ -2740,7 +2764,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show8_TIME</title>					
+			<title>Dome_Show9_TIME</title>					
 								
 			<description>8:00 PM</description>					
 								
@@ -2756,7 +2780,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show9_TITLE</title>					
+			<title>Dome_Show10_TITLE</title>					
 								
 			<description>LED ZEPPELIN</description>					
 								
@@ -2764,7 +2788,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show9_TIME</title>					
+			<title>Dome_Show10_TIME</title>					
 								
 			<description>9:00 PM</description>					
 								
@@ -2780,7 +2804,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show10_TITLE</title>					
+			<title>Dome_Show11_TITLE</title>					
 								
 			<description>ROCK THE DOME</description>					
 								
@@ -2788,7 +2812,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show10_TIME</title>					
+			<title>Dome_Show11_TIME</title>					
 								
 			<description>10:00 PM</description>					
 								
@@ -2804,33 +2828,9 @@
 								
 		<item>						
 								
-			<title>Dome_Show11_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show11_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Dome_Show12_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -2838,15 +2838,15 @@
 								
 			<title>Dome_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_11:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
