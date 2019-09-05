@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>8:00 AM</description>					
+			<description>8:00 AM, 12:00 AM</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description></description>					
+			<description>DOME CLOSED 9/6-9/9</description>					
 								
 		</item>						
 								
@@ -758,23 +758,23 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description></description>					
+			<description>12:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_12:00 AM_TITLE</title>					
 								
-			<description></description>					
+			<description>DOME CLOSED 9/6-9/9</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_12:00 AM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -782,7 +782,7 @@
 								
 			<title>Combined_Show2_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description></description>					
+			<description>DOME CLOSED 9/6-9/9</description>					
 								
 		</item>						
 								
@@ -2598,15 +2598,15 @@
 								
 			<title>Dome_Show2_TIME</title>					
 								
-			<description></description>					
+			<description>12:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_12:00 AM_TITLE</title>					
 								
-			<description></description>					
+			<description>DOME CLOSED 9/6-9/9</description>					
 								
 		</item>						
 								
