@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description> </description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description></description>					
+			<description>12:00 PM, 4:00 PM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description> </description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description></description>					
+			<description>1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM, 8:00 PM</description>					
 								
 		</item>						
 								
@@ -78,7 +78,7 @@
 								
 			<title>Grouped_Show3_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description> </description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description></description>					
+			<description>2:00 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -102,7 +102,7 @@
 								
 			<title>Grouped_Show4_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description></description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -798,23 +798,23 @@
 								
 			<title>Combined_Show3_TIME</title>					
 								
-			<description></description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_12:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -822,7 +822,7 @@
 								
 			<title>Combined_Show3_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -838,23 +838,23 @@
 								
 			<title>Combined_Show4_TIME</title>					
 								
-			<description></description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_1:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -862,7 +862,7 @@
 								
 			<title>Combined_Show4_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description></description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -878,23 +878,23 @@
 								
 			<title>Combined_Show5_TIME</title>					
 								
-			<description></description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_2:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -902,7 +902,7 @@
 								
 			<title>Combined_Show5_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -918,23 +918,23 @@
 								
 			<title>Combined_Show6_TIME</title>					
 								
-			<description></description>					
+			<description>3:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_3:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_3:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -942,7 +942,7 @@
 								
 			<title>Combined_Show6_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description></description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -958,23 +958,23 @@
 								
 			<title>Combined_Show7_TIME</title>					
 								
-			<description></description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_4:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -982,7 +982,7 @@
 								
 			<title>Combined_Show7_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -990,7 +990,7 @@
 								
 			<title>Combined_Show8_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -998,23 +998,23 @@
 								
 			<title>Combined_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>5:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_5:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_5:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1022,7 +1022,7 @@
 								
 			<title>Combined_Show8_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -1038,23 +1038,23 @@
 								
 			<title>Combined_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_6:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1062,7 +1062,7 @@
 								
 			<title>Combined_Show9_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -1078,23 +1078,23 @@
 								
 			<title>Combined_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_7:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1102,7 +1102,7 @@
 								
 			<title>Combined_Show10_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -1118,23 +1118,23 @@
 								
 			<title>Combined_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_8:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1142,7 +1142,7 @@
 								
 			<title>Combined_Show11_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description></description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -1878,15 +1878,15 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description></description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -1902,15 +1902,15 @@
 								
 			<title>IMAX_Show2_TIME</title>					
 								
-			<description></description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_1:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description></description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -1926,15 +1926,15 @@
 								
 			<title>IMAX_Show3_TIME</title>					
 								
-			<description></description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_2:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -1942,7 +1942,7 @@
 								
 			<title>IMAX_Show4_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -1950,15 +1950,15 @@
 								
 			<title>IMAX_Show4_TIME</title>					
 								
-			<description></description>					
+			<description>3:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_3:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -1966,7 +1966,7 @@
 								
 			<title>IMAX_Show5_TITLE</title>					
 								
-			<description></description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -1974,15 +1974,15 @@
 								
 			<title>IMAX_Show5_TIME</title>					
 								
-			<description></description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_4:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -1990,7 +1990,7 @@
 								
 			<title>IMAX_Show6_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -1998,15 +1998,15 @@
 								
 			<title>IMAX_Show6_TIME</title>					
 								
-			<description></description>					
+			<description>5:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_5:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description></description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -2022,15 +2022,15 @@
 								
 			<title>IMAX_Show7_TIME</title>					
 								
-			<description></description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -2046,15 +2046,15 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_7:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
