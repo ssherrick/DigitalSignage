@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>BUILDING CLOSED</description>					
+			<description>DOME CLOSED 9/6-9/9</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>8:00 AM, 12:00 AM</description>					
+			<description>12:00 AM, 12:00 AM</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>BUILDING CLOSED</description>					
+			<description>DOME CLOSED 9/6-9/9</description>					
 								
 		</item>						
 								
@@ -718,21 +718,21 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description>8:00 AM</description>					
+			<description>12:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 AM_TITLE</title>					
+			<title>Combined_12:00 AM_TITLE</title>					
 								
-			<description>BUILDING CLOSED</description>					
+			<description>DOME CLOSED 9/6-9/9</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 AM_THEATER</title>					
+			<title>Combined_12:00 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>BUILDING CLOSED</description>					
+			<description>DOME CLOSED 9/6-9/9</description>					
 								
 		</item>						
 								
@@ -2574,15 +2574,15 @@
 								
 			<title>Dome_Show1_TIME</title>					
 								
-			<description>8:00 AM</description>					
+			<description>12:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_8:00 AM_TITLE</title>					
+			<title>Dome_12:00 AM_TITLE</title>					
 								
-			<description>BUILDING CLOSED</description>					
+			<description>DOME CLOSED 9/6-9/9</description>					
 								
 		</item>						
 								
