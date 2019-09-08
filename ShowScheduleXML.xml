@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM, 8:00 PM</description>					
+			<description>1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>SECRETS OF THE UNIVERSE 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1078,23 +1078,23 @@
 								
 			<title>Combined_Show10_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>SECRETS OF THE UNIVERSE 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1102,7 +1102,7 @@
 								
 			<title>Combined_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2086,7 +2086,7 @@
 								
 			<title>IMAX_Show10_TITLE</title>					
 								
-			<description>SECRETS OF THE UNIVERSE 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2094,15 +2094,15 @@
 								
 			<title>IMAX_Show10_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_8:00 PM_TITLE</title>					
+			<title>IMAX__TITLE</title>					
 								
-			<description>SECRETS OF THE UNIVERSE 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
