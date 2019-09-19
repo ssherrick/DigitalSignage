@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 2ND AND 3RD</description>					
+			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:30 AM, 10:30 AM</description>					
+			<description>10:30 AM, 12:30 PM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>12:00 PM, 4:00 PM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>12:30 PM, 3:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
@@ -78,7 +78,7 @@
 								
 			<title>Grouped_Show3_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM</description>					
+			<description>1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM, 8:00 PM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:30 PM, 4:30 PM, 6:45 PM</description>					
+			<description>2:30 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>5:30 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description> </description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description> </description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>6:45 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description> </description>					
+			<description>U2</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description> </description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>9:00 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>ROCK THE DOME</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>10:00 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 2ND AND 3RD</description>					
+			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
 								
 		</item>						
 								
@@ -718,21 +718,21 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description>9:30 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:30 AM_TITLE</title>					
+			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 2ND AND 3RD</description>					
+			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:30 AM_THEATER</title>					
+			<title>Combined_10:30 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 2ND AND 3RD</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -758,23 +758,23 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_TITLE</title>					
+			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 2ND AND 3RD</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_THEATER</title>					
+			<title>Combined_11:00 AM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -782,7 +782,7 @@
 								
 			<title>Combined_Show2_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYSG)</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_12:30 PM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYSG)</description>					
 								
 		</item>						
 								
@@ -1230,53 +1230,13 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TIME</title>					
-								
-			<description>5:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_5:30 PM_TITLE</title>					
-								
-			<description>FASTER THAN LIGHT</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_5:30 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_TITLE</title>					
-								
 			<description>SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show15_TIME</title>					
+			<title>Combined_Show14_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -1300,7 +1260,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show15_THEATER</title>					
+			<title>Combined_Show14_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1308,15 +1268,15 @@
 								
 		<item>						
 								
-			<title>Combined_Show16_TITLE</title>					
+			<title>Combined_Show15_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show16_TIME</title>					
+			<title>Combined_Show15_TIME</title>					
 								
 			<description>6:45 PM</description>					
 								
@@ -1326,7 +1286,7 @@
 								
 			<title>Combined_6:45 PM_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -1340,7 +1300,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show16_THEATER</title>					
+			<title>Combined_Show15_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1348,7 +1308,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_TITLE</title>					
+			<title>Combined_Show16_TITLE</title>					
 								
 			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
@@ -1356,7 +1316,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_TIME</title>					
+			<title>Combined_Show16_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1380,7 +1340,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_THEATER</title>					
+			<title>Combined_Show16_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1388,33 +1348,73 @@
 								
 		<item>						
 								
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>U2</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
+								
+			<description>8:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_TITLE</title>					
+								
+			<description>U2</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_8:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1422,7 +1422,7 @@
 								
 			<title>Combined_Show18_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -1438,23 +1438,23 @@
 								
 			<title>Combined_Show19_TIME</title>					
 								
-			<description></description>					
+			<description>9:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_9:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_9:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1462,7 +1462,7 @@
 								
 			<title>Combined_Show19_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1470,7 +1470,7 @@
 								
 			<title>Combined_Show20_TITLE</title>					
 								
-			<description></description>					
+			<description>ROCK THE DOME</description>					
 								
 		</item>						
 								
@@ -1478,23 +1478,23 @@
 								
 			<title>Combined_Show20_TIME</title>					
 								
-			<description></description>					
+			<description>10:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_10:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>ROCK THE DOME</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_10:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1502,7 +1502,7 @@
 								
 			<title>Combined_Show20_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1870,13 +1870,37 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>IMAX_Show1_TIME</title>					
+								
+			<description>11:00 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_11:00 AM_TITLE</title>					
+								
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show2_TITLE</title>					
+								
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show2_TIME</title>					
 								
 			<description>12:00 PM</description>					
 								
@@ -1886,13 +1910,13 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show2_TITLE</title>					
+			<title>IMAX_Show3_TITLE</title>					
 								
 			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
@@ -1900,7 +1924,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show2_TIME</title>					
+			<title>IMAX_Show3_TIME</title>					
 								
 			<description>1:00 PM</description>					
 								
@@ -1916,7 +1940,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show3_TITLE</title>					
+			<title>IMAX_Show4_TITLE</title>					
 								
 			<description>SUPERPOWER DOGS 3D</description>					
 								
@@ -1924,7 +1948,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show3_TIME</title>					
+			<title>IMAX_Show4_TIME</title>					
 								
 			<description>2:00 PM</description>					
 								
@@ -1940,7 +1964,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show4_TITLE</title>					
+			<title>IMAX_Show5_TITLE</title>					
 								
 			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
@@ -1948,7 +1972,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show4_TIME</title>					
+			<title>IMAX_Show5_TIME</title>					
 								
 			<description>3:00 PM</description>					
 								
@@ -1964,7 +1988,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show5_TITLE</title>					
+			<title>IMAX_Show6_TITLE</title>					
 								
 			<description>VOLCANOES 3D</description>					
 								
@@ -1972,7 +1996,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show5_TIME</title>					
+			<title>IMAX_Show6_TIME</title>					
 								
 			<description>4:00 PM</description>					
 								
@@ -1988,7 +2012,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show6_TITLE</title>					
+			<title>IMAX_Show7_TITLE</title>					
 								
 			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
@@ -1996,7 +2020,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show6_TIME</title>					
+			<title>IMAX_Show7_TIME</title>					
 								
 			<description>5:00 PM</description>					
 								
@@ -2012,7 +2036,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show7_TITLE</title>					
+			<title>IMAX_Show8_TITLE</title>					
 								
 			<description>SUPERPOWER DOGS 3D</description>					
 								
@@ -2020,7 +2044,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show7_TIME</title>					
+			<title>IMAX_Show8_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -2036,7 +2060,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show8_TITLE</title>					
+			<title>IMAX_Show9_TITLE</title>					
 								
 			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
@@ -2044,7 +2068,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show8_TIME</title>					
+			<title>IMAX_Show9_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -2060,33 +2084,9 @@
 								
 		<item>						
 								
-			<title>IMAX_Show9_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show9_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>IMAX_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -2094,15 +2094,15 @@
 								
 			<title>IMAX_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SECRETS OF THE UNIVERSE 3D</description>					
 								
 		</item>						
 								
@@ -2566,37 +2566,13 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 2ND AND 3RD</description>					
+			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show1_TIME</title>					
-								
-			<description>9:30 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_9:30 AM_TITLE</title>					
-								
-			<description>SCHOOL SKYWATCH 2ND AND 3RD</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show2_TITLE</title>					
-								
-			<description>SCHOOL SKYWATCH 2ND AND 3RD</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show2_TIME</title>					
 								
 			<description>10:30 AM</description>					
 								
@@ -2606,21 +2582,21 @@
 								
 			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 2ND AND 3RD</description>					
+			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show3_TITLE</title>					
+			<title>Dome_Show2_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYSG)</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show3_TIME</title>					
+			<title>Dome_Show2_TIME</title>					
 								
 			<description>12:30 PM</description>					
 								
@@ -2630,13 +2606,13 @@
 								
 			<title>Dome_12:30 PM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYSG)</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show4_TITLE</title>					
+			<title>Dome_Show3_TITLE</title>					
 								
 			<description>ULTIMATE UNIVERSE</description>					
 								
@@ -2644,7 +2620,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show4_TIME</title>					
+			<title>Dome_Show3_TIME</title>					
 								
 			<description>1:30 PM</description>					
 								
@@ -2660,7 +2636,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show5_TITLE</title>					
+			<title>Dome_Show4_TITLE</title>					
 								
 			<description>EXPEDITION REEF</description>					
 								
@@ -2668,7 +2644,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show5_TIME</title>					
+			<title>Dome_Show4_TIME</title>					
 								
 			<description>2:30 PM</description>					
 								
@@ -2684,7 +2660,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show6_TITLE</title>					
+			<title>Dome_Show5_TITLE</title>					
 								
 			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
@@ -2692,7 +2668,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show6_TIME</title>					
+			<title>Dome_Show5_TIME</title>					
 								
 			<description>3:30 PM</description>					
 								
@@ -2708,7 +2684,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show7_TITLE</title>					
+			<title>Dome_Show6_TITLE</title>					
 								
 			<description>EXPEDITION REEF</description>					
 								
@@ -2716,7 +2692,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show7_TIME</title>					
+			<title>Dome_Show6_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -2732,39 +2708,15 @@
 								
 		<item>						
 								
-			<title>Dome_Show8_TITLE</title>					
+			<title>Dome_Show7_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show8_TIME</title>					
-								
-			<description>5:30 PM</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_5:30 PM_TITLE</title>					
-								
-			<description>FASTER THAN LIGHT</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show9_TITLE</title>					
-								
-			<description>EXPEDITION REEF</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show9_TIME</title>					
+			<title>Dome_Show7_TIME</title>					
 								
 			<description>6:45 PM</description>					
 								
@@ -2774,7 +2726,55 @@
 								
 			<title>Dome_6:45 PM_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>NIGHT VISION</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TITLE</title>					
+								
+			<description>U2</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TIME</title>					
+								
+			<description>8:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_8:00 PM_TITLE</title>					
+								
+			<description>U2</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TITLE</title>					
+								
+			<description>LED ZEPPELIN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TIME</title>					
+								
+			<description>9:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_9:00 PM_TITLE</title>					
+								
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>ROCK THE DOME</description>					
 								
 		</item>						
 								
@@ -2790,15 +2790,15 @@
 								
 			<title>Dome_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>10:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_10:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>ROCK THE DOME</description>					
 								
 		</item>						
 								
