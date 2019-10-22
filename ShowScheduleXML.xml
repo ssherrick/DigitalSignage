@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>10:30 AM, 11:30 AM</description>					
+			<description>10:30 AM, 3:30 PM</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 12:00 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL SEASONS (SNS)</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM, 4:00 PM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>SCHOOL EXTREME PLANETS</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:30 PM, 4:00 PM</description>					
+			<description>12:30 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>VOLCANOES 3D</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL SOLAR SYSTEM AND GRAVITY</description>					
+			<description>SCHOOL SEASONS (SNS)</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SOLAR SYSTEM AND GRAVITY</description>					
+			<description>SCHOOL SEASONS (SNS)</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>SCHOOL EXTREME PLANETS</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -966,7 +966,7 @@
 								
 			<title>Combined_12:30 PM_TITLE</title>					
 								
-			<description>SCHOOL EXTREME PLANETS</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>VOLCANOES 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SOLAR SYSTEM AND GRAVITY (SYG)</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>SCHOOL SOLAR SYSTEM AND GRAVITY</description>					
+			<description>SCHOOL SEASONS (SNS)</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SOLAR SYSTEM AND GRAVITY</description>					
+			<description>SCHOOL SEASONS (SNS)</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>SCHOOL EXTREME PLANETS</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -2654,7 +2654,7 @@
 								
 			<title>Dome_12:30 PM_TITLE</title>					
 								
-			<description>SCHOOL EXTREME PLANETS</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
