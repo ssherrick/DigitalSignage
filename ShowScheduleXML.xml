@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:30 AM, 11:30 AM</description>					
+			<description>9:30 AM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL SUPERPOWER DOGS 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>SCHOOL MOON PHASES AND ECLIPSES (MPE)</description>					
+			<description>SCHOOL EXTREME PLANETS</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL IMAX MOVIE</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL EXPEDITION REEF</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>11:30 AM, 12:30 PM, 3:30 PM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:30 PM, 3:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
@@ -150,7 +150,7 @@
 								
 			<title>Grouped_Show6_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM</description>					
+			<description>1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM, 8:00 PM</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>2:30 PM, 4:30 PM, 6:45 PM</description>					
+			<description>2:30 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description> </description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>6:45 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description> </description>					
+			<description>U2</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>9:00 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL SUPERPOWER DOGS 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL SUPERPOWER DOGS 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>SCHOOL MOON PHASES AND ECLIPSES (MPE)</description>					
+			<description>SCHOOL EXTREME PLANETS</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL MOON PHASES AND ECLIPSES (MPE)</description>					
+			<description>SCHOOL EXTREME PLANETS</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL IMAX MOVIE</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL IMAX MOVIE</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL DOME SHOW</description>					
+			<description>SCHOOL EXPEDITION REEF</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL DOME SHOW</description>					
+			<description>SCHOOL EXPEDITION REEF</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
 								
 		</item>						
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -1446,7 +1446,7 @@
 								
 			<title>Combined_6:45 PM_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -1510,7 +1510,7 @@
 								
 			<title>Combined_Show21_TITLE</title>					
 								
-			<description></description>					
+			<description>U2</description>					
 								
 		</item>						
 								
@@ -1518,23 +1518,23 @@
 								
 			<title>Combined_Show21_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>U2</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_8:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1542,7 +1542,7 @@
 								
 			<title>Combined_Show21_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1550,7 +1550,7 @@
 								
 			<title>Combined_Show22_TITLE</title>					
 								
-			<description></description>					
+			<description>BACK FROM THE BRINK 3D</description>					
 								
 		</item>						
 								
@@ -1558,23 +1558,23 @@
 								
 			<title>Combined_Show22_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BACK FROM THE BRINK 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_8:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1582,7 +1582,7 @@
 								
 			<title>Combined_Show22_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1590,7 +1590,7 @@
 								
 			<title>Combined_Show23_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -1598,23 +1598,23 @@
 								
 			<title>Combined_Show23_TIME</title>					
 								
-			<description></description>					
+			<description>9:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_9:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_9:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1622,7 +1622,7 @@
 								
 			<title>Combined_Show23_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>SCHOOL SUPERPOWER DOGS 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL SUPERPOWER DOGS 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL IMAX MOVIE</description>					
 								
 		</item>						
 								
@@ -1910,7 +1910,7 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
+			<description>SCHOOL IMAX MOVIE</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL JOURNEY TO SPACE 3D</description>					
 								
 		</item>						
 								
@@ -2110,7 +2110,7 @@
 								
 			<title>IMAX_Show11_TITLE</title>					
 								
-			<description></description>					
+			<description>BACK FROM THE BRINK 3D</description>					
 								
 		</item>						
 								
@@ -2118,15 +2118,15 @@
 								
 			<title>IMAX_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BACK FROM THE BRINK 3D</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>SCHOOL MOON PHASES AND ECLIPSES (MPE)</description>					
+			<description>SCHOOL EXTREME PLANETS</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL MOON PHASES AND ECLIPSES (MPE)</description>					
+			<description>SCHOOL EXTREME PLANETS</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>SCHOOL DOME SHOW</description>					
+			<description>SCHOOL EXPEDITION REEF</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL DOME SHOW</description>					
+			<description>SCHOOL EXPEDITION REEF</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -2798,7 +2798,7 @@
 								
 			<title>Dome_6:45 PM_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>NIGHT VISION</description>					
 								
 		</item>						
 								
@@ -2806,7 +2806,7 @@
 								
 			<title>Dome_Show11_TITLE</title>					
 								
-			<description></description>					
+			<description>U2</description>					
 								
 		</item>						
 								
@@ -2814,15 +2814,15 @@
 								
 			<title>Dome_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>U2</description>					
 								
 		</item>						
 								
@@ -2830,7 +2830,7 @@
 								
 			<title>Dome_Show12_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -2838,15 +2838,15 @@
 								
 			<title>Dome_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>9:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_9:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
