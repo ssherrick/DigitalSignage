@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description> </description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1550,7 +1550,7 @@
 								
 			<title>Combined_Show22_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -1558,23 +1558,23 @@
 								
 			<title>Combined_Show22_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_11:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_11:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1582,7 +1582,7 @@
 								
 			<title>Combined_Show22_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2830,7 +2830,7 @@
 								
 			<title>Dome_Show12_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -2838,15 +2838,15 @@
 								
 			<title>Dome_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_11:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
