@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>11:00 AM, 1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM, 8:00 PM</description>					
+			<description>11:00 AM, 1:00 PM, 3:00 PM, 5:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:30 PM, 4:30 PM</description>					
+			<description>2:30 PM, 4:30 PM, 6:45 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>DOME LIVE-LED ZEPPELIN FEAT. THE DISCOGRAPHERS</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>8:30 PM, 10:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -1310,13 +1310,53 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>THE EDGE: PLUTO AND BEYOND</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show16_TIME</title>					
+								
+			<description>6:45 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:45 PM_TITLE</title>					
+								
+			<description>THE EDGE: PLUTO AND BEYOND</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:45 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1340,46 +1380,6 @@
 								
 		<item>						
 								
-			<title>Combined_Show16_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TITLE</title>					
-								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TIME</title>					
-								
-			<description>8:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_8:00 PM_TITLE</title>					
-								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_8:00 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show17_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
@@ -1390,31 +1390,31 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>DOME LIVE-LED ZEPPELIN FEAT. THE DISCOGRAPHERS</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description>8:30 PM</description>					
+			<description></description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:30 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>DOME LIVE-LED ZEPPELIN FEAT. THE DISCOGRAPHERS</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:30 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1422,7 +1422,7 @@
 								
 			<title>Combined_Show18_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description>DOME LIVE-LED ZEPPELIN FEAT. THE DISCOGRAPHERS</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1438,23 +1438,23 @@
 								
 			<title>Combined_Show19_TIME</title>					
 								
-			<description>10:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>DOME LIVE-LED ZEPPELIN FEAT. THE DISCOGRAPHERS</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1462,7 +1462,7 @@
 								
 			<title>Combined_Show19_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2086,7 +2086,7 @@
 								
 			<title>IMAX_Show10_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2094,15 +2094,15 @@
 								
 			<title>IMAX_Show10_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_8:00 PM_TITLE</title>					
+			<title>IMAX__TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>DOME LIVE-LED ZEPPELIN FEAT. THE DISCOGRAPHERS</description>					
+			<description>THE EDGE: PLUTO AND BEYOND</description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description>8:30 PM</description>					
+			<description>6:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_8:30 PM_TITLE</title>					
+			<title>Dome_6:45 PM_TITLE</title>					
 								
-			<description>DOME LIVE-LED ZEPPELIN FEAT. THE DISCOGRAPHERS</description>					
+			<description>THE EDGE: PLUTO AND BEYOND</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>DOME LIVE-LED ZEPPELIN FEAT. THE DISCOGRAPHERS</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2766,15 +2766,15 @@
 								
 			<title>Dome_Show9_TIME</title>					
 								
-			<description>10:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_10:30 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>DOME LIVE-LED ZEPPELIN FEAT. THE DISCOGRAPHERS</description>					
+			<description></description>					
 								
 		</item>						
 								
