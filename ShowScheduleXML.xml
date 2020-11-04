@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>DINOSAURS OF ANTARCTICA 2D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>11:45 AM</description>					
+			<description>12:15 PM, 3:15 PM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 2D</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>12:15 PM, 3:15 PM</description>					
+			<description>1:15 PM, 4:15 PM</description>					
 								
 		</item>						
 								
@@ -78,7 +78,7 @@
 								
 			<title>Grouped_Show3_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>ASTEROID HUNTERS 2D</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>1:15 PM, 4:15 PM</description>					
+			<description>1:45 PM, 4:45 PM</description>					
 								
 		</item>						
 								
@@ -102,7 +102,7 @@
 								
 			<title>Grouped_Show4_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>ASTEROID HUNTERS 2D</description>					
+			<description>THE EDGE</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:45 PM, 4:45 PM</description>					
+			<description>2:45 PM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -150,7 +150,7 @@
 								
 			<title>Grouped_Show6_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -830,53 +830,13 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show4_TIME</title>					
-								
-			<description>11:45 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_11:45 AM_TITLE</title>					
-								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_11:45 AM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show4_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show5_TITLE</title>					
-								
 			<description>DINOSAURS OF ANTARCTICA 2D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show5_TIME</title>					
+			<title>Combined_Show4_TIME</title>					
 								
 			<description>12:15 PM</description>					
 								
@@ -900,7 +860,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show5_THEATER</title>					
+			<title>Combined_Show4_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -908,7 +868,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show6_TITLE</title>					
+			<title>Combined_Show5_TITLE</title>					
 								
 			<description>BIRTH OF PLANET EARTH</description>					
 								
@@ -916,7 +876,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show6_TIME</title>					
+			<title>Combined_Show5_TIME</title>					
 								
 			<description>1:15 PM</description>					
 								
@@ -940,7 +900,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show6_THEATER</title>					
+			<title>Combined_Show5_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -948,7 +908,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show7_TITLE</title>					
+			<title>Combined_Show6_TITLE</title>					
 								
 			<description>ASTEROID HUNTERS 2D</description>					
 								
@@ -956,7 +916,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show7_TIME</title>					
+			<title>Combined_Show6_TIME</title>					
 								
 			<description>1:45 PM</description>					
 								
@@ -980,7 +940,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show7_THEATER</title>					
+			<title>Combined_Show6_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -988,15 +948,15 @@
 								
 		<item>						
 								
-			<title>Combined_Show8_TITLE</title>					
+			<title>Combined_Show7_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>THE EDGE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show8_TIME</title>					
+			<title>Combined_Show7_TIME</title>					
 								
 			<description>2:45 PM</description>					
 								
@@ -1006,7 +966,7 @@
 								
 			<title>Combined_2:45 PM_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>THE EDGE</description>					
 								
 		</item>						
 								
@@ -1020,7 +980,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show8_THEATER</title>					
+			<title>Combined_Show7_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1028,7 +988,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_TITLE</title>					
+			<title>Combined_Show8_TITLE</title>					
 								
 			<description>DINOSAURS OF ANTARCTICA 2D</description>					
 								
@@ -1036,7 +996,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_TIME</title>					
+			<title>Combined_Show8_TIME</title>					
 								
 			<description>3:15 PM</description>					
 								
@@ -1060,7 +1020,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_THEATER</title>					
+			<title>Combined_Show8_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1068,7 +1028,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show10_TITLE</title>					
+			<title>Combined_Show9_TITLE</title>					
 								
 			<description>BIRTH OF PLANET EARTH</description>					
 								
@@ -1076,7 +1036,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show10_TIME</title>					
+			<title>Combined_Show9_TIME</title>					
 								
 			<description>4:15 PM</description>					
 								
@@ -1100,7 +1060,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show10_THEATER</title>					
+			<title>Combined_Show9_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1108,7 +1068,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show11_TITLE</title>					
+			<title>Combined_Show10_TITLE</title>					
 								
 			<description>ASTEROID HUNTERS 2D</description>					
 								
@@ -1116,7 +1076,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show11_TIME</title>					
+			<title>Combined_Show10_TIME</title>					
 								
 			<description>4:45 PM</description>					
 								
@@ -1140,9 +1100,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show11_THEATER</title>					
+			<title>Combined_Show10_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show11_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show11_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__THEATER</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show11_THEATER</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
@@ -2638,37 +2638,13 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show4_TIME</title>					
-								
-			<description>11:45 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_11:45 AM_TITLE</title>					
-								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show5_TITLE</title>					
-								
 			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show5_TIME</title>					
+			<title>Dome_Show4_TIME</title>					
 								
 			<description>1:15 PM</description>					
 								
@@ -2684,15 +2660,15 @@
 								
 		<item>						
 								
-			<title>Dome_Show6_TITLE</title>					
+			<title>Dome_Show5_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>THE EDGE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show6_TIME</title>					
+			<title>Dome_Show5_TIME</title>					
 								
 			<description>2:45 PM</description>					
 								
@@ -2702,13 +2678,13 @@
 								
 			<title>Dome_2:45 PM_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>THE EDGE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show7_TITLE</title>					
+			<title>Dome_Show6_TITLE</title>					
 								
 			<description>BIRTH OF PLANET EARTH</description>					
 								
@@ -2716,7 +2692,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show7_TIME</title>					
+			<title>Dome_Show6_TIME</title>					
 								
 			<description>4:15 PM</description>					
 								
@@ -2727,6 +2703,30 @@
 			<title>Dome_4:15 PM_TITLE</title>					
 								
 			<description>BIRTH OF PLANET EARTH</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show7_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show7_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome__TITLE</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
