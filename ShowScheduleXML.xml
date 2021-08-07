@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:30 PM, 4:00 PM</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:45 PM</description>					
+			<description>2:45 PM, 5:15 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>DANCE IN THE SKY SPECIAL EVENT</description>					
+			<description>U2</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>ROCK THE DOME</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>9:00 PM</description>					
+			<description>7:45 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>10:15 PM</description>					
+			<description>9:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description> </description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>10:15 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -1030,13 +1030,53 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show9_TIME</title>					
+								
+			<description>4:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:00 PM_TITLE</title>					
+								
+			<description>BIG ASTRONOMY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show9_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show10_TITLE</title>					
+								
+			<description>BBC EARTH: ANTARCTICA 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show10_TIME</title>					
 								
 			<description>4:45 PM</description>					
 								
@@ -1060,49 +1100,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show10_TITLE</title>					
-								
-			<description>DANCE IN THE SKY SPECIAL EVENT</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show10_TIME</title>					
-								
-			<description>6:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:00 PM_TITLE</title>					
-								
-			<description>DANCE IN THE SKY SPECIAL EVENT</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:00 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show10_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1110,13 +1110,53 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>ASTEROID HUNTERS 3D</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show11_TIME</title>					
+								
+			<description>5:15 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:15 PM_TITLE</title>					
+								
+			<description>BIRTH OF PLANET EARTH</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:15 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show11_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show12_TITLE</title>					
+								
+			<description>ASTEROID HUNTERS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show12_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -1140,7 +1180,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show11_THEATER</title>					
+			<title>Combined_Show12_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1148,7 +1188,47 @@
 								
 		<item>						
 								
-			<title>Combined_Show12_TITLE</title>					
+			<title>Combined_Show13_TITLE</title>					
+								
+			<description>U2</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_TIME</title>					
+								
+			<description>6:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_TITLE</title>					
+								
+			<description>U2</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -1156,7 +1236,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show12_TIME</title>					
+			<title>Combined_Show14_TIME</title>					
 								
 			<description>7:15 PM</description>					
 								
@@ -1180,7 +1260,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show12_THEATER</title>					
+			<title>Combined_Show14_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1188,7 +1268,47 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_TITLE</title>					
+			<title>Combined_Show15_TITLE</title>					
+								
+			<description>ROCK THE DOME</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_TIME</title>					
+								
+			<description>7:45 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:45 PM_TITLE</title>					
+								
+			<description>ROCK THE DOME</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:45 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_TITLE</title>					
 								
 			<description>LED ZEPPELIN</description>					
 								
@@ -1196,7 +1316,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_TIME</title>					
+			<title>Combined_Show16_TIME</title>					
 								
 			<description>9:00 PM</description>					
 								
@@ -1220,7 +1340,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_THEATER</title>					
+			<title>Combined_Show16_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1228,7 +1348,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show14_TITLE</title>					
+			<title>Combined_Show17_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
 								
@@ -1236,7 +1356,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show14_TIME</title>					
+			<title>Combined_Show17_TIME</title>					
 								
 			<description>10:15 PM</description>					
 								
@@ -1260,129 +1380,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show14_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show17_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_11:00 AM_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>DANCE IN THE SKY SPECIAL EVENT</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2670,15 +2670,15 @@
 								
 			<title>Dome_Show5_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_6:00 PM_TITLE</title>					
+			<title>Dome_4:00 PM_TITLE</title>					
 								
-			<description>DANCE IN THE SKY SPECIAL EVENT</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2686,13 +2686,85 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show6_TIME</title>					
+								
+			<description>5:15 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_5:15 PM_TITLE</title>					
+								
+			<description>BIRTH OF PLANET EARTH</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show7_TITLE</title>					
+								
+			<description>U2</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show7_TIME</title>					
+								
+			<description>6:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_6:30 PM_TITLE</title>					
+								
+			<description>U2</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TITLE</title>					
+								
+			<description>ROCK THE DOME</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TIME</title>					
+								
+			<description>7:45 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_7:45 PM_TITLE</title>					
+								
+			<description>ROCK THE DOME</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TITLE</title>					
+								
+			<description>LED ZEPPELIN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TIME</title>					
 								
 			<description>9:00 PM</description>					
 								
@@ -2708,7 +2780,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show7_TITLE</title>					
+			<title>Dome_Show10_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
 								
@@ -2716,7 +2788,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show7_TIME</title>					
+			<title>Dome_Show10_TIME</title>					
 								
 			<description>10:15 PM</description>					
 								
@@ -2727,78 +2799,6 @@
 			<title>Dome_10:15 PM_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show8_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show8_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show9_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show9_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show10_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show10_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
