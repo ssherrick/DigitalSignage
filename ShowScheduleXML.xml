@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL PERFECT LITTLE PLANET</description>					
+			<description>DINOSAURS OF ANTARCTICA 3D</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>11:00 AM, 3:30 PM</description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>U2</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>U2</description>					
+			<description>ROCK THE DOME</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>8:15 PM</description>					
+			<description>9:30 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>PINK FLOYD THE WALL</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>PINK FLOYD THE WALL</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -710,53 +710,13 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL PERFECT LITTLE PLANET</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show1_TIME</title>					
-								
-			<description>10:30 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_10:30 AM_TITLE</title>					
-								
-			<description>SCHOOL PERFECT LITTLE PLANET</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_10:30 AM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show1_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show2_TITLE</title>					
-								
 			<description>DINOSAURS OF ANTARCTICA 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show2_TIME</title>					
+			<title>Combined_Show1_TIME</title>					
 								
 			<description>11:00 AM</description>					
 								
@@ -780,9 +740,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show2_THEATER</title>					
+			<title>Combined_Show1_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show2_TITLE</title>					
+								
+			<description>ACCIDENTAL ASTRONAUTS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show2_TIME</title>					
+								
+			<description>11:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_11:30 AM_TITLE</title>					
+								
+			<description>ACCIDENTAL ASTRONAUTS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_11:30 AM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show2_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2574,15 +2574,15 @@
 								
 			<title>Dome_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_10:30 AM_TITLE</title>					
+			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
