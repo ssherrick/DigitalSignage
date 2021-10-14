@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA PREVIEW</description>					
+			<description>MOUNTAIN ADVENTURE: OUT OF BOUNDS 3D SCREENING</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:00 AM</description>					
+			<description>10:00 AM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:30 AM, 3:15 PM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>SCHOOL SLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM, 6:00 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D MEMBER ONLY</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:15 PM, 5:45 PM</description>					
+			<description>7:00 PM, 8:00 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA PREVIEW</description>					
+			<description>MOUNTAIN ADVENTURE: OUT OF BOUNDS 3D SCREENING</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA PREVIEW</description>					
+			<description>MOUNTAIN ADVENTURE: OUT OF BOUNDS 3D SCREENING</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL SLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL SLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>ASTEROID HUNTERS 3D</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>ASTEROID HUNTERS 3D</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -1310,13 +1310,53 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D MEMBER ONLY</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show16_TIME</title>					
+								
+			<description>7:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_TITLE</title>					
+								
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D MEMBER ONLY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>BIG ASTRONOMY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1340,7 +1380,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show16_THEATER</title>					
+			<title>Combined_Show17_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1348,73 +1388,33 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description></description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D MEMBER ONLY</description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D MEMBER ONLY</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_8:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1422,7 +1422,7 @@
 								
 			<title>Combined_Show18_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA PREVIEW</description>					
+			<description>MOUNTAIN ADVENTURE: OUT OF BOUNDS 3D SCREENING</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:00 AM_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA PREVIEW</description>					
+			<description>MOUNTAIN ADVENTURE: OUT OF BOUNDS 3D SCREENING</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SCHOOL SLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL SLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>ASTEROID HUNTERS 3D</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -2054,7 +2054,7 @@
 								
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description>ASTEROID HUNTERS 3D</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D MEMBER ONLY</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_7:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D MEMBER ONLY</description>					
 								
 		</item>						
 								
@@ -2086,7 +2086,7 @@
 								
 			<title>IMAX_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D MEMBER ONLY</description>					
 								
 		</item>						
 								
@@ -2094,15 +2094,15 @@
 								
 			<title>IMAX_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_8:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D MEMBER ONLY</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
