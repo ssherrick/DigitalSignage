@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:00 PM, 3:30 PM, 6:00 PM, 7:00 PM</description>					
+			<description>1:00 PM, 3:30 PM, 6:00 PM, 7:15 PM</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -1278,13 +1278,13 @@
 								
 			<title>Combined_Show15_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>7:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:00 PM_TITLE</title>					
+			<title>Combined_7:15 PM_TITLE</title>					
 								
 			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
@@ -1292,7 +1292,7 @@
 								
 		<item>						
 								
-			<title>Combined_7:00 PM_THEATER</title>					
+			<title>Combined_7:15 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -2030,7 +2030,7 @@
 								
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -2046,13 +2046,13 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>7:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_7:00 PM_TITLE</title>					
+			<title>IMAX_7:15 PM_TITLE</title>					
 								
 			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
