@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>SCHOOL ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>9:30 AM</description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>12:00 PM, 2:15 PM, 4:45 PM</description>					
+			<description>10:30 AM, 11:30 AM</description>					
 								
 		</item>						
 								
@@ -78,7 +78,7 @@
 								
 			<title>Grouped_Show3_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>SCHOOL HUBBLE 3D</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
@@ -102,7 +102,7 @@
 								
 			<title>Grouped_Show4_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
+			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:00 PM, 3:30 PM, 6:00 PM</description>					
+			<description>12:00 PM, 2:15 PM, 4:45 PM</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>EXPEDITION REEF</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:00 PM, 4:30 PM, 7:00 PM</description>					
+			<description>12:45 PM</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>3:15 PM, 5:45 PM</description>					
+			<description>1:00 PM, 3:30 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -174,7 +174,7 @@
 								
 			<title>Grouped_Show7_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description> </description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>2:00 PM, 4:30 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description> </description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>3:15 PM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,13 +710,133 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>SCHOOL ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show1_TIME</title>					
+								
+			<description>9:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_9:30 AM_TITLE</title>					
+								
+			<description>SCHOOL ULTIMATE UNIVERSE</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_9:30 AM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show1_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show2_TITLE</title>					
+								
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show2_TIME</title>					
+								
+			<description>10:00 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:00 AM_TITLE</title>					
+								
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:00 AM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show2_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show3_TITLE</title>					
+								
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show3_TIME</title>					
+								
+			<description>10:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:30 AM_TITLE</title>					
+								
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:30 AM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show3_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show4_TITLE</title>					
+								
+			<description>SCHOOL HUBBLE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show4_TIME</title>					
 								
 			<description>11:00 AM</description>					
 								
@@ -726,7 +846,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>SCHOOL HUBBLE 3D</description>					
 								
 		</item>						
 								
@@ -740,7 +860,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show1_THEATER</title>					
+			<title>Combined_Show4_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -748,15 +868,15 @@
 								
 		<item>						
 								
-			<title>Combined_Show2_TITLE</title>					
+			<title>Combined_Show5_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show2_TIME</title>					
+			<title>Combined_Show5_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -766,7 +886,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
 								
 		</item>						
 								
@@ -780,7 +900,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show2_THEATER</title>					
+			<title>Combined_Show5_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -788,7 +908,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show3_TITLE</title>					
+			<title>Combined_Show6_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -796,7 +916,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show3_TIME</title>					
+			<title>Combined_Show6_TIME</title>					
 								
 			<description>12:00 PM</description>					
 								
@@ -820,7 +940,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show3_THEATER</title>					
+			<title>Combined_Show6_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -828,7 +948,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show4_TITLE</title>					
+			<title>Combined_Show7_TITLE</title>					
 								
 			<description>EXPEDITION REEF</description>					
 								
@@ -836,7 +956,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show4_TIME</title>					
+			<title>Combined_Show7_TIME</title>					
 								
 			<description>12:45 PM</description>					
 								
@@ -860,7 +980,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show4_THEATER</title>					
+			<title>Combined_Show7_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -868,7 +988,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show5_TITLE</title>					
+			<title>Combined_Show8_TITLE</title>					
 								
 			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
@@ -876,7 +996,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show5_TIME</title>					
+			<title>Combined_Show8_TIME</title>					
 								
 			<description>1:00 PM</description>					
 								
@@ -900,7 +1020,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show5_THEATER</title>					
+			<title>Combined_Show8_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -908,7 +1028,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show6_TITLE</title>					
+			<title>Combined_Show9_TITLE</title>					
 								
 			<description>BIG ASTRONOMY</description>					
 								
@@ -916,7 +1036,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show6_TIME</title>					
+			<title>Combined_Show9_TIME</title>					
 								
 			<description>2:00 PM</description>					
 								
@@ -940,7 +1060,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show6_THEATER</title>					
+			<title>Combined_Show9_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -948,7 +1068,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show7_TITLE</title>					
+			<title>Combined_Show10_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -956,7 +1076,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show7_TIME</title>					
+			<title>Combined_Show10_TIME</title>					
 								
 			<description>2:15 PM</description>					
 								
@@ -980,7 +1100,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show7_THEATER</title>					
+			<title>Combined_Show10_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -988,7 +1108,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show8_TITLE</title>					
+			<title>Combined_Show11_TITLE</title>					
 								
 			<description>BIRTH OF PLANET EARTH</description>					
 								
@@ -996,7 +1116,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show8_TIME</title>					
+			<title>Combined_Show11_TIME</title>					
 								
 			<description>3:15 PM</description>					
 								
@@ -1020,7 +1140,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show8_THEATER</title>					
+			<title>Combined_Show11_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1028,7 +1148,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_TITLE</title>					
+			<title>Combined_Show12_TITLE</title>					
 								
 			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
@@ -1036,7 +1156,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_TIME</title>					
+			<title>Combined_Show12_TIME</title>					
 								
 			<description>3:30 PM</description>					
 								
@@ -1060,7 +1180,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_THEATER</title>					
+			<title>Combined_Show12_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1068,7 +1188,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show10_TITLE</title>					
+			<title>Combined_Show13_TITLE</title>					
 								
 			<description>BIG ASTRONOMY</description>					
 								
@@ -1076,7 +1196,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show10_TIME</title>					
+			<title>Combined_Show13_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -1100,7 +1220,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show10_THEATER</title>					
+			<title>Combined_Show13_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1108,7 +1228,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show11_TITLE</title>					
+			<title>Combined_Show14_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -1116,7 +1236,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show11_TIME</title>					
+			<title>Combined_Show14_TIME</title>					
 								
 			<description>4:45 PM</description>					
 								
@@ -1140,7 +1260,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show11_THEATER</title>					
+			<title>Combined_Show14_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1148,7 +1268,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show12_TITLE</title>					
+			<title>Combined_Show15_TITLE</title>					
 								
 			<description>BIRTH OF PLANET EARTH</description>					
 								
@@ -1156,7 +1276,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show12_TIME</title>					
+			<title>Combined_Show15_TIME</title>					
 								
 			<description>5:45 PM</description>					
 								
@@ -1180,7 +1300,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show12_THEATER</title>					
+			<title>Combined_Show15_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1188,7 +1308,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_TITLE</title>					
+			<title>Combined_Show16_TITLE</title>					
 								
 			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
@@ -1196,7 +1316,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_TIME</title>					
+			<title>Combined_Show16_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -1220,7 +1340,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_THEATER</title>					
+			<title>Combined_Show16_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1228,7 +1348,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show14_TITLE</title>					
+			<title>Combined_Show17_TITLE</title>					
 								
 			<description>BIG ASTRONOMY</description>					
 								
@@ -1236,7 +1356,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show14_TIME</title>					
+			<title>Combined_Show17_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1260,129 +1380,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show14_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show17_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1870,13 +1870,37 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>IMAX_Show1_TIME</title>					
+								
+			<description>10:00 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_10:00 AM_TITLE</title>					
+								
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show2_TITLE</title>					
+								
+			<description>SCHOOL HUBBLE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show2_TIME</title>					
 								
 			<description>11:00 AM</description>					
 								
@@ -1886,13 +1910,13 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>SCHOOL HUBBLE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show2_TITLE</title>					
+			<title>IMAX_Show3_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -1900,7 +1924,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show2_TIME</title>					
+			<title>IMAX_Show3_TIME</title>					
 								
 			<description>12:00 PM</description>					
 								
@@ -1916,7 +1940,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show3_TITLE</title>					
+			<title>IMAX_Show4_TITLE</title>					
 								
 			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
@@ -1924,7 +1948,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show3_TIME</title>					
+			<title>IMAX_Show4_TIME</title>					
 								
 			<description>1:00 PM</description>					
 								
@@ -1940,7 +1964,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show4_TITLE</title>					
+			<title>IMAX_Show5_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -1948,7 +1972,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show4_TIME</title>					
+			<title>IMAX_Show5_TIME</title>					
 								
 			<description>2:15 PM</description>					
 								
@@ -1964,7 +1988,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show5_TITLE</title>					
+			<title>IMAX_Show6_TITLE</title>					
 								
 			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
@@ -1972,7 +1996,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show5_TIME</title>					
+			<title>IMAX_Show6_TIME</title>					
 								
 			<description>3:30 PM</description>					
 								
@@ -1988,7 +2012,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show6_TITLE</title>					
+			<title>IMAX_Show7_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -1996,7 +2020,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show6_TIME</title>					
+			<title>IMAX_Show7_TIME</title>					
 								
 			<description>4:45 PM</description>					
 								
@@ -2012,7 +2036,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show7_TITLE</title>					
+			<title>IMAX_Show8_TITLE</title>					
 								
 			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
@@ -2020,7 +2044,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show7_TIME</title>					
+			<title>IMAX_Show8_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -2031,30 +2055,6 @@
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
 			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show8_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show8_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
@@ -2566,13 +2566,61 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show1_TIME</title>					
+								
+			<description>9:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_9:30 AM_TITLE</title>					
+								
+			<description>SCHOOL ULTIMATE UNIVERSE</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show2_TITLE</title>					
+								
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show2_TIME</title>					
+								
+			<description>10:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_10:30 AM_TITLE</title>					
+								
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show3_TITLE</title>					
+								
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show3_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -2582,13 +2630,13 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show2_TITLE</title>					
+			<title>Dome_Show4_TITLE</title>					
 								
 			<description>EXPEDITION REEF</description>					
 								
@@ -2596,7 +2644,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show2_TIME</title>					
+			<title>Dome_Show4_TIME</title>					
 								
 			<description>12:45 PM</description>					
 								
@@ -2612,54 +2660,6 @@
 								
 		<item>						
 								
-			<title>Dome_Show3_TITLE</title>					
-								
-			<description>BIG ASTRONOMY</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show3_TIME</title>					
-								
-			<description>2:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_2:00 PM_TITLE</title>					
-								
-			<description>BIG ASTRONOMY</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show4_TITLE</title>					
-								
-			<description>BIRTH OF PLANET EARTH</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show4_TIME</title>					
-								
-			<description>3:15 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_3:15 PM_TITLE</title>					
-								
-			<description>BIRTH OF PLANET EARTH</description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Dome_Show5_TITLE</title>					
 								
 			<description>BIG ASTRONOMY</description>					
@@ -2670,13 +2670,13 @@
 								
 			<title>Dome_Show5_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_4:30 PM_TITLE</title>					
+			<title>Dome_2:00 PM_TITLE</title>					
 								
 			<description>BIG ASTRONOMY</description>					
 								
@@ -2694,13 +2694,13 @@
 								
 			<title>Dome_Show6_TIME</title>					
 								
-			<description>5:45 PM</description>					
+			<description>3:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_5:45 PM_TITLE</title>					
+			<title>Dome_3:15 PM_TITLE</title>					
 								
 			<description>BIRTH OF PLANET EARTH</description>					
 								
@@ -2718,13 +2718,13 @@
 								
 			<title>Dome_Show7_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_7:00 PM_TITLE</title>					
+			<title>Dome_4:30 PM_TITLE</title>					
 								
 			<description>BIG ASTRONOMY</description>					
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description></description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_5:45 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2766,15 +2766,15 @@
 								
 			<title>Dome_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
