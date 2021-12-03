@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:00 PM, 4:30 PM, 7:00 PM, 8:00 PM, 9:00 PM</description>					
+			<description>2:00 PM, 7:00 PM, 8:00 PM, 9:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>SNAP SPECIAL EVENT:</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>4:30 PM, 5:30 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description> </description>					
+			<description>SNAP SPECIAL EVENT:</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>4:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
