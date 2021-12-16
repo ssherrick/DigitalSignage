@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>12:00 PM, 2:15 PM, 4:45 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>2:15 PM, 4:45 PM</description>					
+			<description>3:15 PM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>3:15 PM, 5:45 PM</description>					
+			<description>3:30 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:30 PM, 6:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
