@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>SCHOOL BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>10:30 AM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>DINOSAURS OF ANTARCTICA 3D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>12:00 PM, 3:30 PM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
@@ -78,7 +78,7 @@
 								
 			<title>Grouped_Show3_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>EXPEDITION REEF</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
@@ -102,7 +102,7 @@
 								
 			<title>Grouped_Show4_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>5:45 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -710,13 +710,53 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+			<description>SCHOOL BIG ASTRONOMY</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show1_TIME</title>					
+								
+			<description>10:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:30 AM_TITLE</title>					
+								
+			<description>SCHOOL BIG ASTRONOMY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:30 AM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show1_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show2_TITLE</title>					
+								
+			<description>DINOSAURS OF ANTARCTICA 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show2_TIME</title>					
 								
 			<description>11:00 AM</description>					
 								
@@ -740,7 +780,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show1_THEATER</title>					
+			<title>Combined_Show2_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -748,15 +788,15 @@
 								
 		<item>						
 								
-			<title>Combined_Show2_TITLE</title>					
+			<title>Combined_Show3_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show2_TIME</title>					
+			<title>Combined_Show3_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -766,7 +806,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -780,7 +820,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show2_THEATER</title>					
+			<title>Combined_Show3_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -788,15 +828,15 @@
 								
 		<item>						
 								
-			<title>Combined_Show3_TITLE</title>					
+			<title>Combined_Show4_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show3_TIME</title>					
+			<title>Combined_Show4_TIME</title>					
 								
 			<description>12:00 PM</description>					
 								
@@ -806,7 +846,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -820,49 +860,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show3_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show4_TITLE</title>					
-								
-			<description>EXPEDITION REEF</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show4_TIME</title>					
-								
-			<description>12:45 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_12:45 PM_TITLE</title>					
-								
-			<description>EXPEDITION REEF</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_12:45 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show4_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -1910,7 +1910,7 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -2566,13 +2566,37 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL BIG ASTRONOMY</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show1_TIME</title>					
+								
+			<description>10:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_10:30 AM_TITLE</title>					
+								
+			<description>SCHOOL BIG ASTRONOMY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show2_TITLE</title>					
+								
+			<description>PERFECT LITTLE PLANET</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show2_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -2582,31 +2606,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show2_TITLE</title>					
-								
-			<description>EXPEDITION REEF</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show2_TIME</title>					
-								
-			<description>12:45 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_12:45 PM_TITLE</title>					
-								
-			<description>EXPEDITION REEF</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
