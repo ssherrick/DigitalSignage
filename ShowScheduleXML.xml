@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>8:00 AM, 9:00 AM</description>					
+			<description>8:00 AM, 9:00 AM, 11:15 AM</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description></description>					
+			<description>IMAX CLOSED FOR MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -798,23 +798,23 @@
 								
 			<title>Combined_Show3_TIME</title>					
 								
-			<description></description>					
+			<description>11:15 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_11:15 AM_TITLE</title>					
 								
-			<description></description>					
+			<description>IMAX CLOSED FOR MAINTENANCE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_11:15 AM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -822,7 +822,7 @@
 								
 			<title>Combined_Show3_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description></description>					
+			<description>IMAX CLOSED FOR MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1902,15 +1902,15 @@
 								
 			<title>IMAX_Show2_TIME</title>					
 								
-			<description></description>					
+			<description>11:15 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_11:15 AM_TITLE</title>					
 								
-			<description></description>					
+			<description>IMAX CLOSED FOR MAINTENANCE</description>					
 								
 		</item>						
 								
