@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:00 PM, 4:30 PM, 7:00 PM</description>					
+			<description>2:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description> </description>					
+			<description>NO SHOW - DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>NO SHOW - DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1166,7 +1166,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>NO SHOW - DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>NO SHOW - DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>NO SHOW - DOME MAINTENANCE</description>					
 								
 		</item>						
 								
