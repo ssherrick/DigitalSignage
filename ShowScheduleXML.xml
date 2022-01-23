@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>12:00 PM, 2:15 PM, 4:45 PM</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM</description>					
+			<description>12:45 PM, 4:30 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX PREP</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:00 PM, 3:00 PM, 4:15 PM, 4:15 PM, 5:15 PM, 6:45 PM, 7:00 PM</description>					
+			<description>2:00 PM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -150,7 +150,7 @@
 								
 			<title>Grouped_Show6_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>3:15 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description>3:30 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX PREP</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX PREP</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -934,7 +934,7 @@
 								
 			<title>Combined_2:00 PM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -942,7 +942,7 @@
 								
 			<title>Combined_Show6_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -958,23 +958,23 @@
 								
 			<title>Combined_Show7_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>2:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_2:00 PM_TITLE</title>					
+			<title>Combined_2:15 PM_TITLE</title>					
 								
-			<description>BIG ASTRONOMY</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_2:00 PM_THEATER</title>					
+			<title>Combined_2:15 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -982,7 +982,7 @@
 								
 			<title>Combined_Show7_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -990,7 +990,7 @@
 								
 			<title>Combined_Show8_TITLE</title>					
 								
-			<description>TRIUMPH GROUP DOME PREP</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -998,21 +998,21 @@
 								
 			<title>Combined_Show8_TIME</title>					
 								
-			<description>3:00 PM</description>					
+			<description>3:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_3:00 PM_TITLE</title>					
+			<title>Combined_3:15 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP DOME PREP</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_3:00 PM_THEATER</title>					
+			<title>Combined_3:15 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX DVD</description>					
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -1038,21 +1038,21 @@
 								
 			<title>Combined_Show9_TIME</title>					
 								
-			<description>4:15 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:15 PM_TITLE</title>					
+			<title>Combined_3:30 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX DVD</description>					
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:15 PM_THEATER</title>					
+			<title>Combined_3:30 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -1078,21 +1078,21 @@
 								
 			<title>Combined_Show10_TIME</title>					
 								
-			<description>4:15 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:15 PM_TITLE</title>					
+			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:15 PM_THEATER</title>					
+			<title>Combined_4:30 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -1118,23 +1118,23 @@
 								
 			<title>Combined_Show11_TIME</title>					
 								
-			<description>5:15 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:15 PM_TITLE</title>					
+			<title>Combined_4:45 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:15 PM_THEATER</title>					
+			<title>Combined_4:45 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1142,7 +1142,7 @@
 								
 			<title>Combined_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX DVD</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -1158,23 +1158,23 @@
 								
 			<title>Combined_Show12_TIME</title>					
 								
-			<description>6:45 PM</description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:45 PM_TITLE</title>					
+			<title>Combined_5:45 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX DVD</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:45 PM_THEATER</title>					
+			<title>Combined_5:45 PM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1182,7 +1182,7 @@
 								
 			<title>Combined_Show12_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1190,13 +1190,53 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show13_TIME</title>					
+								
+			<description>6:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:00 PM_TITLE</title>					
+								
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TITLE</title>					
+								
+			<description>WORLDS BEYOND EARTH</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1206,53 +1246,13 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_7:00 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show13_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TITLE</title>					
-								
-			<description>LED ZEPPELIN</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TIME</title>					
-								
-			<description>9:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_9:30 PM_TITLE</title>					
-								
-			<description>LED ZEPPELIN</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_9:30 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1278,23 +1278,23 @@
 								
 			<title>Combined_Show15_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:45 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:45 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1302,7 +1302,7 @@
 								
 			<title>Combined_Show15_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1942,7 +1942,7 @@
 								
 			<title>IMAX_Show4_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX PREP</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -1950,15 +1950,15 @@
 								
 			<title>IMAX_Show4_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>2:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_2:00 PM_TITLE</title>					
+			<title>IMAX_2:15 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX PREP</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -1966,7 +1966,7 @@
 								
 			<title>IMAX_Show5_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX DVD</description>					
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -1974,15 +1974,15 @@
 								
 			<title>IMAX_Show5_TIME</title>					
 								
-			<description>4:15 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_4:15 PM_TITLE</title>					
+			<title>IMAX_3:30 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX DVD</description>					
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -1990,7 +1990,7 @@
 								
 			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX DVD</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -1998,15 +1998,15 @@
 								
 			<title>IMAX_Show6_TIME</title>					
 								
-			<description>6:45 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_6:45 PM_TITLE</title>					
+			<title>IMAX_4:45 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP IMAX DVD</description>					
+			<description>ANGKOR: LOST EMPIRE OF CAMBODIA 3D</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description></description>					
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -2022,15 +2022,15 @@
 								
 			<title>IMAX_Show7_TIME</title>					
 								
-			<description></description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>MOUNTAIN ADVENTURE OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>TRIUMPH GROUP DOME PREP</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2646,15 +2646,15 @@
 								
 			<title>Dome_Show4_TIME</title>					
 								
-			<description>3:00 PM</description>					
+			<description>3:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_3:00 PM_TITLE</title>					
+			<title>Dome_3:15 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP DOME PREP</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -2670,15 +2670,15 @@
 								
 			<title>Dome_Show5_TIME</title>					
 								
-			<description>4:15 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_4:15 PM_TITLE</title>					
+			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2694,15 +2694,15 @@
 								
 			<title>Dome_Show6_TIME</title>					
 								
-			<description>5:15 PM</description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_5:15 PM_TITLE</title>					
+			<title>Dome_5:45 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>BIG ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>TRIUMPH GROUP ROCK THE DOME</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_9:30 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2766,15 +2766,15 @@
 								
 			<title>Dome_Show9_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_10:45 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description></description>					
 								
 		</item>						
 								
