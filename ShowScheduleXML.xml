@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -1230,53 +1230,13 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>GUEST SPEAKER - PAUL RICKETS UOFU</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TIME</title>					
-								
-			<description>6:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:00 PM_TITLE</title>					
-								
-			<description>GUEST SPEAKER - PAUL RICKETS UOFU</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:00 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_TITLE</title>					
-								
 			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show15_TIME</title>					
+			<title>Combined_Show14_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1300,9 +1260,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show15_THEATER</title>					
+			<title>Combined_Show14_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_TITLE</title>					
+								
+			<description>GUEST SPEAKER - PAUL RICKETS UOFU</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_TIME</title>					
+								
+			<description>7:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_TITLE</title>					
+								
+			<description>GUEST SPEAKER - PAUL RICKETS UOFU</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2046,13 +2046,13 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_6:00 PM_TITLE</title>					
+			<title>IMAX_7:00 PM_TITLE</title>					
 								
 			<description>GUEST SPEAKER - PAUL RICKETS UOFU</description>					
 								
