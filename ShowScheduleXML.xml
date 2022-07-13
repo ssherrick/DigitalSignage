@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>JAMES WEBB: FIRST IMAGES</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>8:30 AM, 3:30 PM, 4:00 PM</description>					
+			<description>9:30 AM</description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:00 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>EARTH, MOON AND SUN</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM, 2:15 PM</description>					
+			<description>12:00 PM, 2:15 PM, 4:45 PM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM, 6:00 PM</description>					
+			<description>1:00 PM, 3:30 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>JAMES WEBB: FIRST IMAGES</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -718,23 +718,23 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description>8:30 AM</description>					
+			<description>9:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:30 AM_TITLE</title>					
+			<title>Combined_9:30 AM_TITLE</title>					
 								
-			<description>JAMES WEBB: FIRST IMAGES</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:30 AM_THEATER</title>					
+			<title>Combined_9:30 AM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -742,7 +742,7 @@
 								
 			<title>Combined_Show1_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -758,23 +758,23 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>10:00 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:00 AM_TITLE</title>					
+			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:00 AM_THEATER</title>					
+			<title>Combined_10:30 AM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -782,7 +782,7 @@
 								
 			<title>Combined_Show2_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>EARTH, MOON AND SUN</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>EARTH, MOON AND SUN</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>IMAX PRE-SHOW PREPARATION</description>					
+			<description>INTO AMERICAS WILD 3D</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_3:30 PM_TITLE</title>					
 								
-			<description>IMAX PRE-SHOW PREPARATION</description>					
+			<description>INTO AMERICAS WILD 3D</description>					
 								
 		</item>						
 								
@@ -1150,53 +1150,13 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>JAMES WEBB: FIRST IMAGES</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show12_TIME</title>					
-								
-			<description>4:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_4:00 PM_TITLE</title>					
-								
-			<description>JAMES WEBB: FIRST IMAGES</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_4:00 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show12_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show13_TITLE</title>					
-								
 			<description>THE EDGE: PLUTO AND BEYOND</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show13_TIME</title>					
+			<title>Combined_Show12_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -1220,9 +1180,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_THEATER</title>					
+			<title>Combined_Show12_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_TITLE</title>					
+								
+			<description>OCEAN ODYSSEY 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_TIME</title>					
+								
+			<description>4:45 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:45 PM_TITLE</title>					
+								
+			<description>OCEAN ODYSSEY 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:45 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1870,61 +1870,13 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>JAMES WEBB: FIRST IMAGES</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show1_TIME</title>					
-								
-			<description>8:30 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_8:30 AM_TITLE</title>					
-								
-			<description>JAMES WEBB: FIRST IMAGES</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show2_TITLE</title>					
-								
-			<description>SCHOOL HUBBLE 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show2_TIME</title>					
-								
-			<description>10:00 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_10:00 AM_TITLE</title>					
-								
-			<description>SCHOOL HUBBLE 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show3_TITLE</title>					
-								
 			<description>DINOSAURS OF ANTARCTICA 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show3_TIME</title>					
+			<title>IMAX_Show1_TIME</title>					
 								
 			<description>11:00 AM</description>					
 								
@@ -1940,6 +1892,54 @@
 								
 		<item>						
 								
+			<title>IMAX_Show2_TITLE</title>					
+								
+			<description>OCEAN ODYSSEY 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show2_TIME</title>					
+								
+			<description>12:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_12:00 PM_TITLE</title>					
+								
+			<description>OCEAN ODYSSEY 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show3_TITLE</title>					
+								
+			<description>INTO AMERICAS WILD 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show3_TIME</title>					
+								
+			<description>1:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_1:00 PM_TITLE</title>					
+								
+			<description>INTO AMERICAS WILD 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
 			<title>IMAX_Show4_TITLE</title>					
 								
 			<description>OCEAN ODYSSEY 3D</description>					
@@ -1950,13 +1950,13 @@
 								
 			<title>IMAX_Show4_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>2:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_12:00 PM_TITLE</title>					
+			<title>IMAX_2:15 PM_TITLE</title>					
 								
 			<description>OCEAN ODYSSEY 3D</description>					
 								
@@ -1974,13 +1974,13 @@
 								
 			<title>IMAX_Show5_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_1:00 PM_TITLE</title>					
+			<title>IMAX_3:30 PM_TITLE</title>					
 								
 			<description>INTO AMERICAS WILD 3D</description>					
 								
@@ -1998,13 +1998,13 @@
 								
 			<title>IMAX_Show6_TIME</title>					
 								
-			<description>2:15 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_2:15 PM_TITLE</title>					
+			<title>IMAX_4:45 PM_TITLE</title>					
 								
 			<description>OCEAN ODYSSEY 3D</description>					
 								
@@ -2014,61 +2014,13 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>IMAX PRE-SHOW PREPARATION</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show7_TIME</title>					
-								
-			<description>3:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_3:30 PM_TITLE</title>					
-								
-			<description>IMAX PRE-SHOW PREPARATION</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show8_TITLE</title>					
-								
-			<description>JAMES WEBB: FIRST IMAGES</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show8_TIME</title>					
-								
-			<description>4:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_4:00 PM_TITLE</title>					
-								
-			<description>JAMES WEBB: FIRST IMAGES</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show9_TITLE</title>					
-								
 			<description>INTO AMERICAS WILD 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show9_TIME</title>					
+			<title>IMAX_Show7_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -2079,6 +2031,54 @@
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
 			<description>INTO AMERICAS WILD 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show8_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show8_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX__TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show9_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show9_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX__TITLE</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
@@ -2566,13 +2566,61 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show1_TIME</title>					
+								
+			<description>9:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_9:30 AM_TITLE</title>					
+								
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show2_TITLE</title>					
+								
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show2_TIME</title>					
+								
+			<description>10:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_10:30 AM_TITLE</title>					
+								
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show3_TITLE</title>					
+								
+			<description>EARTH, MOON AND SUN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show3_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -2582,13 +2630,13 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>EARTH, MOON AND SUN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show2_TITLE</title>					
+			<title>Dome_Show4_TITLE</title>					
 								
 			<description>WORLDS BEYOND EARTH</description>					
 								
@@ -2596,7 +2644,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show2_TIME</title>					
+			<title>Dome_Show4_TIME</title>					
 								
 			<description>12:45 PM</description>					
 								
@@ -2612,7 +2660,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show3_TITLE</title>					
+			<title>Dome_Show5_TITLE</title>					
 								
 			<description>DESTINATION MARS</description>					
 								
@@ -2620,7 +2668,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show3_TIME</title>					
+			<title>Dome_Show5_TIME</title>					
 								
 			<description>2:00 PM</description>					
 								
@@ -2636,7 +2684,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show4_TITLE</title>					
+			<title>Dome_Show6_TITLE</title>					
 								
 			<description>BIRTH OF PLANET EARTH</description>					
 								
@@ -2644,7 +2692,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show4_TIME</title>					
+			<title>Dome_Show6_TIME</title>					
 								
 			<description>3:15 PM</description>					
 								
@@ -2660,7 +2708,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show5_TITLE</title>					
+			<title>Dome_Show7_TITLE</title>					
 								
 			<description>THE EDGE: PLUTO AND BEYOND</description>					
 								
@@ -2668,7 +2716,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show5_TIME</title>					
+			<title>Dome_Show7_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -2684,7 +2732,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show6_TITLE</title>					
+			<title>Dome_Show8_TITLE</title>					
 								
 			<description>DESTINATION MARS</description>					
 								
@@ -2692,7 +2740,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show6_TIME</title>					
+			<title>Dome_Show8_TIME</title>					
 								
 			<description>5:45 PM</description>					
 								
@@ -2708,7 +2756,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show7_TITLE</title>					
+			<title>Dome_Show9_TITLE</title>					
 								
 			<description>THE EDGE: PLUTO AND BEYOND</description>					
 								
@@ -2716,7 +2764,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show7_TIME</title>					
+			<title>Dome_Show9_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -2727,54 +2775,6 @@
 			<title>Dome_7:00 PM_TITLE</title>					
 								
 			<description>THE EDGE: PLUTO AND BEYOND</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show8_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show8_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show9_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show9_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
