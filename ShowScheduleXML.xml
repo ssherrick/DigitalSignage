@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>DOME MAINTENANCE AND PROGRAMMING</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>8:00 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>EARTH, MOON AND SUN</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>INTO AMERICAS WILD 3D</description>					
+			<description>ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>1:00 PM, 3:30 PM, 6:00 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>DESTINATION MARS</description>					
+			<description>INTO AMERICAS WILD 3D</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>5:45 PM</description>					
+			<description>3:30 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description> </description>					
+			<description>DESTINATION MARS</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>DOME MAINTENANCE AND PROGRAMMING</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -718,21 +718,21 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description>8:00 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 AM_TITLE</title>					
+			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>DOME MAINTENANCE AND PROGRAMMING</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 AM_THEATER</title>					
+			<title>Combined_10:30 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>EARTH, MOON AND SUN</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>EARTH, MOON AND SUN</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>INTO AMERICAS WILD 3D</description>					
+			<description>ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>INTO AMERICAS WILD 3D</description>					
+			<description>ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>INTO AMERICAS WILD 3D</description>					
+			<description>ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_1:00 PM_TITLE</title>					
 								
-			<description>INTO AMERICAS WILD 3D</description>					
+			<description>ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>DOME MAINTENANCE AND PROGRAMMING</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -2574,15 +2574,15 @@
 								
 			<title>Dome_Show1_TIME</title>					
 								
-			<description>8:00 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_8:00 AM_TITLE</title>					
+			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>DOME MAINTENANCE AND PROGRAMMING</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>EARTH, MOON AND SUN</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>EARTH, MOON AND SUN</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
