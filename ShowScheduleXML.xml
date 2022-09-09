@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>DOME CLOSURE MAINTENANCE</description>					
+			<description>IMAX CLOSED FOR MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>8:00 AM, 8:00 AM</description>					
+			<description>8:00 AM</description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description> </description>					
+			<description>EARTH, MOON AND SUN</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description></description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description> </description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description></description>					
+			<description>12:45 PM, 3:15 PM</description>					
 								
 		</item>						
 								
@@ -78,7 +78,7 @@
 								
 			<title>Grouped_Show3_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description> </description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description></description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
@@ -102,7 +102,7 @@
 								
 			<title>Grouped_Show4_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>DOME CLOSURE MAINTENANCE</description>					
+			<description>IMAX CLOSED FOR MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_8:00 AM_TITLE</title>					
 								
-			<description>DOME CLOSURE MAINTENANCE</description>					
+			<description>IMAX CLOSED FOR MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -734,7 +734,7 @@
 								
 			<title>Combined_8:00 AM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -742,7 +742,7 @@
 								
 			<title>Combined_Show1_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>IMAX MAINTENANCE - BUILDING CLOSED</description>					
+			<description>EARTH, MOON AND SUN</description>					
 								
 		</item>						
 								
@@ -758,23 +758,23 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>8:00 AM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 AM_TITLE</title>					
+			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>IMAX MAINTENANCE - BUILDING CLOSED</description>					
+			<description>EARTH, MOON AND SUN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 AM_THEATER</title>					
+			<title>Combined_11:30 AM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -782,7 +782,7 @@
 								
 			<title>Combined_Show2_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description></description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -798,23 +798,23 @@
 								
 			<title>Combined_Show3_TIME</title>					
 								
-			<description></description>					
+			<description>12:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_12:45 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_12:45 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -822,7 +822,7 @@
 								
 			<title>Combined_Show3_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description></description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -838,23 +838,23 @@
 								
 			<title>Combined_Show4_TIME</title>					
 								
-			<description></description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_2:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -862,7 +862,7 @@
 								
 			<title>Combined_Show4_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description></description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -878,23 +878,23 @@
 								
 			<title>Combined_Show5_TIME</title>					
 								
-			<description></description>					
+			<description>3:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_3:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_3:15 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -902,7 +902,7 @@
 								
 			<title>Combined_Show5_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>IMAX MAINTENANCE - BUILDING CLOSED</description>					
+			<description>IMAX CLOSED FOR MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_8:00 AM_TITLE</title>					
 								
-			<description>IMAX MAINTENANCE - BUILDING CLOSED</description>					
+			<description>IMAX CLOSED FOR MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>DOME CLOSURE MAINTENANCE</description>					
+			<description>EARTH, MOON AND SUN</description>					
 								
 		</item>						
 								
@@ -2574,15 +2574,15 @@
 								
 			<title>Dome_Show1_TIME</title>					
 								
-			<description>8:00 AM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_8:00 AM_TITLE</title>					
+			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>DOME CLOSURE MAINTENANCE</description>					
+			<description>EARTH, MOON AND SUN</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description></description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -2598,15 +2598,15 @@
 								
 			<title>Dome_Show2_TIME</title>					
 								
-			<description></description>					
+			<description>12:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_12:45 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description></description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -2622,15 +2622,15 @@
 								
 			<title>Dome_Show3_TIME</title>					
 								
-			<description></description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description></description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -2646,15 +2646,15 @@
 								
 			<title>Dome_Show4_TIME</title>					
 								
-			<description></description>					
+			<description>3:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_3:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
