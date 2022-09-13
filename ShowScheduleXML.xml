@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>2:00 PM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -1150,13 +1150,53 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>INTO AMERICAS WILD 3D</description>					
+			<description>SATURN: JEWEL OF THE HEAVENS</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show12_TIME</title>					
+								
+			<description>5:45 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:45 PM_TITLE</title>					
+								
+			<description>SATURN: JEWEL OF THE HEAVENS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:45 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show12_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_TITLE</title>					
+								
+			<description>INTO AMERICAS WILD 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -1180,7 +1220,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show12_THEATER</title>					
+			<title>Combined_Show13_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1188,7 +1228,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_TITLE</title>					
+			<title>Combined_Show14_TITLE</title>					
 								
 			<description>THE ISS EXPERIENCE</description>					
 								
@@ -1196,7 +1236,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_TIME</title>					
+			<title>Combined_Show14_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1220,49 +1260,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show14_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2686,13 +2686,37 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>THE ISS EXPERIENCE</description>					
+			<description>SATURN: JEWEL OF THE HEAVENS</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show6_TIME</title>					
+								
+			<description>5:45 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_5:45 PM_TITLE</title>					
+								
+			<description>SATURN: JEWEL OF THE HEAVENS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show7_TITLE</title>					
+								
+			<description>THE ISS EXPERIENCE</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show7_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -2703,30 +2727,6 @@
 			<title>Dome_7:00 PM_TITLE</title>					
 								
 			<description>THE ISS EXPERIENCE</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show7_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show7_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
