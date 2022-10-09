@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>12:00 PM, 3:30 PM, 7:15 PM</description>					
+			<description>12:00 PM, 3:30 PM</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM, 3:15 PM</description>					
+			<description>12:45 PM, 3:15 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:00 PM, 4:45 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>LECTURE: DR. JAMES KARNER - METEOR RESEARCH</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>5:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>7:00 PM, 9:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>U2</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>8:15 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>PINK FLOYD THE WALL</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>LECTURE: DR. JAMES KARNER - METEOR RESEARCH</description>					
+			<description>OCEAN ODYSSEY 3D</description>					
 								
 		</item>						
 								
@@ -1118,21 +1118,21 @@
 								
 			<title>Combined_Show11_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_TITLE</title>					
+			<title>Combined_4:45 PM_TITLE</title>					
 								
-			<description>LECTURE: DR. JAMES KARNER - METEOR RESEARCH</description>					
+			<description>OCEAN ODYSSEY 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_THEATER</title>					
+			<title>Combined_4:45 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>MYSTERIES OF EGYPT</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1278,23 +1278,23 @@
 								
 			<title>Combined_Show15_TIME</title>					
 								
-			<description>7:15 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:15 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>MYSTERIES OF EGYPT</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:15 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1302,7 +1302,7 @@
 								
 			<title>Combined_Show15_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>U2</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1318,23 +1318,23 @@
 								
 			<title>Combined_Show16_TIME</title>					
 								
-			<description>8:15 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:15 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>U2</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:15 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1342,7 +1342,7 @@
 								
 			<title>Combined_Show16_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1358,23 +1358,23 @@
 								
 			<title>Combined_Show17_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:30 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:30 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1382,7 +1382,7 @@
 								
 			<title>Combined_Show17_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1390,31 +1390,31 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>PINK FLOYD THE WALL</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:45 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>PINK FLOYD THE WALL</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:45 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1422,7 +1422,7 @@
 								
 			<title>Combined_Show18_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1990,7 +1990,7 @@
 								
 			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>LECTURE: DR. JAMES KARNER - METEOR RESEARCH</description>					
+			<description>OCEAN ODYSSEY 3D</description>					
 								
 		</item>						
 								
@@ -1998,15 +1998,15 @@
 								
 			<title>IMAX_Show6_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_5:00 PM_TITLE</title>					
+			<title>IMAX_4:45 PM_TITLE</title>					
 								
-			<description>LECTURE: DR. JAMES KARNER - METEOR RESEARCH</description>					
+			<description>OCEAN ODYSSEY 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>MYSTERIES OF EGYPT</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2046,15 +2046,15 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description>7:15 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_7:15 PM_TITLE</title>					
+			<title>IMAX__TITLE</title>					
 								
-			<description>MYSTERIES OF EGYPT</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>U2</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description>8:15 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_8:15 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>U2</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2766,15 +2766,15 @@
 								
 			<title>Dome_Show9_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_9:30 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>PINK FLOYD THE WALL</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2790,15 +2790,15 @@
 								
 			<title>Dome_Show10_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_10:45 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>PINK FLOYD THE WALL</description>					
+			<description></description>					
 								
 		</item>						
 								
