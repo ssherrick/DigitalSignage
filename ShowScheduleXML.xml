@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:45 PM</description>					
+			<description>12:45 PM, 3:15 PM, 5:45 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>MOUNTAIN ADVENTURE 3D: OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>3:15 PM, 5:45 PM, 7:00 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>MOUNTAIN ADVENTURE 3D: OUT OF BOUNDS</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>OCEAN ODYSSEY 3D</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>OCEAN ODYSSEY 3D</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>4:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_12:45 PM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_12:45 PM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
 								
 		</item>						
 								
