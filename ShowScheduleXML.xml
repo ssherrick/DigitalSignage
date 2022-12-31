@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:30 PM, 7:15 PM</description>					
+			<description>3:30 PM, 7:15 PM, 8:30 PM</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>NEW YEAR'S EVE</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>MOUNTAIN ADVENTURE 3D: OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -1358,7 +1358,47 @@
 								
 			<title>Combined_Show17_TIME</title>					
 								
+			<description>8:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:30 PM_TITLE</title>					
+								
+			<description>MOUNTAIN ADVENTURE 3D: OUT OF BOUNDS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:30 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_TITLE</title>					
+								
+			<description>ROCK THE DOME</description>					
+								
+		</item>						
+								
+		<item>						
+			<title>Combined_Show18_TIME</title>					
+								
 			<description>9:30 PM</description>					
+								
 								
 		</item>						
 								
@@ -1380,7 +1420,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_THEATER</title>					
+			<title>Combined_Show18_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1388,17 +1428,17 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_TITLE</title>					
+			<title>Combined_Show19_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>NEW YEAR'S EVE</description>					
 								
 		</item>						
 								
 		<item>						
-			<title>Combined_Show18_TIME</title>					
+								
+			<title>Combined_Show19_TIME</title>					
 								
 			<description>10:45 PM</description>					
-								
 								
 		</item>						
 								
@@ -1406,7 +1446,7 @@
 								
 			<title>Combined_10:45 PM_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>NEW YEAR'S EVE</description>					
 								
 		</item>						
 								
@@ -1420,49 +1460,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show19_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>MOUNTAIN ADVENTURE 3D: OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>8:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_8:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>MOUNTAIN ADVENTURE 3D: OUT OF BOUNDS</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>NEW YEAR'S EVE</description>					
 								
 		</item>						
 								
@@ -2798,7 +2798,7 @@
 								
 			<title>Dome_10:45 PM_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>NEW YEAR'S EVE</description>					
 								
 		</item>						
 								
