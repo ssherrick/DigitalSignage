@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:00 PM, 4:45 PM</description>					
+			<description>2:00 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -1078,23 +1078,23 @@
 								
 			<title>Combined_Show10_TIME</title>					
 								
-			<description>4:45 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:45 PM_TITLE</title>					
+			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:45 PM_THEATER</title>					
+			<title>Combined_4:30 PM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1102,7 +1102,7 @@
 								
 			<title>Combined_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>WORLDS BEYOND EARTH</description>					
+			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_4:45 PM_TITLE</title>					
 								
-			<description>WORLDS BEYOND EARTH</description>					
+			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -1134,7 +1134,7 @@
 								
 			<title>Combined_4:45 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1142,7 +1142,7 @@
 								
 			<title>Combined_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2670,13 +2670,13 @@
 								
 			<title>Dome_Show5_TIME</title>					
 								
-			<description>4:45 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_4:45 PM_TITLE</title>					
+			<title>Dome_4:30 PM_TITLE</title>					
 								
 			<description>WORLDS BEYOND EARTH</description>					
 								
