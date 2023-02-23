@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:30 AM, 10:30 AM</description>					
+			<description>9:30 AM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL BORN TO BE WILD 3D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:00 AM</description>					
+			<description>10:00 AM, 11:00 AM</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>10:30 AM, 11:30 AM</description>					
 								
 		</item>						
 								
@@ -78,7 +78,7 @@
 								
 			<title>Grouped_Show3_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>SCHOOL THE EDGE</description>					
+			<description>SCHOOL DEEP SEA 3D</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
@@ -102,7 +102,7 @@
 								
 			<title>Grouped_Show4_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>WORLDS OF ICE</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>12:45 PM, 3:15 PM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>WORLDS OF ICE</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:45 PM, 3:15 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
@@ -150,7 +150,7 @@
 								
 			<title>Grouped_Show6_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>2:00 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -174,7 +174,7 @@
 								
 			<title>Grouped_Show7_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>WINGS OVER WATER 3D</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>2:00 PM, 4:30 PM</description>					
+			<description>2:15 PM, 4:45 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>WINGS OVER WATER 3D</description>					
+			<description>INTO AMERICAS WILD 3D</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>2:15 PM, 4:45 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>INTO AMERICAS WILD 3D</description>					
+			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>CANCELED/STORM WORLDS OF ICE</description>					
+			<description>SPACE EXPLORERS: THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>5:45 PM, 6:00 PM, 7:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL BORN TO BE WILD 3D</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL BORN TO BE WILD 3D</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL BORN TO BE WILD 3D</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL BORN TO BE WILD 3D</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL THE EDGE</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL THE EDGE</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>SCHOOL DEEP SEA 3D</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>SCHOOL DEEP SEA 3D</description>					
 								
 		</item>						
 								
@@ -990,7 +990,7 @@
 								
 			<title>Combined_Show8_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -1006,7 +1006,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>CANCELED/STORM WORLDS OF ICE</description>					
+			<description>WORLDS OF ICE</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:45 PM_TITLE</title>					
 								
-			<description>CANCELED/STORM WORLDS OF ICE</description>					
+			<description>WORLDS OF ICE</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>CANCELED/STORM ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -1326,7 +1326,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>CANCELED/STORM ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>CANCELED/STORM SPACE EXPLORERS: THE ISS EXPERIENCE</description>					
+			<description>SPACE EXPLORERS: THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>CANCELED/STORM SPACE EXPLORERS: THE ISS EXPERIENCE</description>					
+			<description>SPACE EXPLORERS: THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL BORN TO BE WILD 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL BORN TO BE WILD 3D</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL BORN TO BE WILD 3D</description>					
 								
 		</item>						
 								
@@ -1910,7 +1910,7 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL BORN TO BE WILD 3D</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>SCHOOL DEEP SEA 3D</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>SCHOOL DEEP SEA 3D</description>					
 								
 		</item>						
 								
@@ -1942,7 +1942,7 @@
 								
 			<title>IMAX_Show4_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -1958,7 +1958,7 @@
 								
 			<title>IMAX_1:00 PM_TITLE</title>					
 								
-			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>CANCELED/STORM ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -2054,7 +2054,7 @@
 								
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description>CANCELED/STORM ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
+			<description>ANGKOR 3D: LOST EMPIRE OF CAMBODIA</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>SCHOOL THE EDGE</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL THE EDGE</description>					
+			<description>SCHOOL PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>CANCELED/STORM WORLDS OF ICE</description>					
+			<description>WORLDS OF ICE</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_5:45 PM_TITLE</title>					
 								
-			<description>CANCELED/STORM WORLDS OF ICE</description>					
+			<description>WORLDS OF ICE</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>CANCELED/STORM SPACE EXPLORERS: THE ISS EXPERIENCE</description>					
+			<description>SPACE EXPLORERS: THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>CANCELED/STORM SPACE EXPLORERS: THE ISS EXPERIENCE</description>					
+			<description>SPACE EXPLORERS: THE ISS EXPERIENCE</description>					
 								
 		</item>						
 								
