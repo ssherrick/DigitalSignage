@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>8:45 AM, 7:30 PM</description>					
+			<description>8:45 AM</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON - MEMBER EVENT</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1358,23 +1358,23 @@
 								
 			<title>Combined_Show17_TIME</title>					
 								
-			<description>7:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:30 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON - MEMBER EVENT</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:30 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1382,7 +1382,7 @@
 								
 			<title>Combined_Show17_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON - MEMBER EVENT</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2766,15 +2766,15 @@
 								
 			<title>Dome_Show9_TIME</title>					
 								
-			<description>7:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_7:30 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON - MEMBER EVENT</description>					
+			<description></description>					
 								
 		</item>						
 								
