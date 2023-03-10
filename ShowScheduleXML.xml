@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>WOMEN IN ENGINEERING EVENT</description>					
+			<description>WOMEN IN STEM - SPECIAL EVENT</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -1190,53 +1190,13 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>WOMEN IN ENGINEERING EVENT</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show13_TIME</title>					
-								
-			<description>5:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_5:00 PM_TITLE</title>					
-								
-			<description>WOMEN IN ENGINEERING EVENT</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_5:00 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show13_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TITLE</title>					
-								
 			<description>WORLDS OF ICE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show14_TIME</title>					
+			<title>Combined_Show13_TIME</title>					
 								
 			<description>5:45 PM</description>					
 								
@@ -1260,9 +1220,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show14_THEATER</title>					
+			<title>Combined_Show13_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TITLE</title>					
+								
+			<description>WOMEN IN STEM - SPECIAL EVENT</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TIME</title>					
+								
+			<description>7:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_TITLE</title>					
+								
+			<description>WOMEN IN STEM - SPECIAL EVENT</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1990,7 +1990,7 @@
 								
 			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>WOMEN IN ENGINEERING EVENT</description>					
+			<description>WOMEN IN STEM - SPECIAL EVENT</description>					
 								
 		</item>						
 								
@@ -1998,15 +1998,15 @@
 								
 			<title>IMAX_Show6_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_5:00 PM_TITLE</title>					
+			<title>IMAX_7:00 PM_TITLE</title>					
 								
-			<description>WOMEN IN ENGINEERING EVENT</description>					
+			<description>WOMEN IN STEM - SPECIAL EVENT</description>					
 								
 		</item>						
 								
