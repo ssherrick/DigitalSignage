@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL BIG ASTRONOMY</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
+			<description>BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>SECRET OF THE CARDBOARD ROCKET</description>					
+			<description>MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:30 AM, 12:45 PM, 2:00 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>WORLDS OF ICE</description>					
+			<description>WINGS OVER WATER 3D</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:45 PM, 3:15 PM, 5:45 PM</description>					
+			<description>1:00 PM, 3:30 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>WINGS OVER WATER 3D</description>					
+			<description>WORLDS OF ICE</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>1:00 PM, 3:30 PM, 6:00 PM</description>					
+			<description>3:15 PM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -150,7 +150,7 @@
 								
 			<title>Grouped_Show6_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:00 PM, 4:30 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL BIG ASTRONOMY</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL BIG ASTRONOMY</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
+			<description>BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
+			<description>BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>SECRET OF THE CARDBOARD ROCKET</description>					
+			<description>MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>SECRET OF THE CARDBOARD ROCKET</description>					
+			<description>MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>WORLDS OF ICE</description>					
+			<description>MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_12:45 PM_TITLE</title>					
 								
-			<description>WORLDS OF ICE</description>					
+			<description>MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>PRIVATE EVENT RENTAL</description>					
 								
 		</item>						
 								
@@ -966,7 +966,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>PRIVATE EVENT RENTAL</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
+			<description>BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
+			<description>BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL BIG ASTRONOMY</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL BIG ASTRONOMY</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>SECRET OF THE CARDBOARD ROCKET</description>					
+			<description>MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>SECRET OF THE CARDBOARD ROCKET</description>					
+			<description>MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>WORLDS OF ICE</description>					
+			<description>MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_12:45 PM_TITLE</title>					
 								
-			<description>WORLDS OF ICE</description>					
+			<description>MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>PRIVATE EVENT RENTAL</description>					
 								
 		</item>						
 								
@@ -2654,7 +2654,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>PRIVATE EVENT RENTAL</description>					
 								
 		</item>						
 								
