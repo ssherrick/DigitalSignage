@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL EXPEDITION REEF</description>					
+			<description>SCHOOL EARTH, MOON, AND SUN</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>9:30 AM</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL EXPEDITION REEF</description>					
+			<description>SCHOOL EARTH, MOON, AND SUN</description>					
 								
 		</item>						
 								
@@ -718,21 +718,21 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>9:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_TITLE</title>					
+			<title>Combined_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL EXPEDITION REEF</description>					
+			<description>SCHOOL EARTH, MOON, AND SUN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_THEATER</title>					
+			<title>Combined_9:30 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL EXPEDITION REEF</description>					
+			<description>SCHOOL EARTH, MOON, AND SUN</description>					
 								
 		</item>						
 								
@@ -2574,15 +2574,15 @@
 								
 			<title>Dome_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>9:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_10:30 AM_TITLE</title>					
+			<title>Dome_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL EXPEDITION REEF</description>					
+			<description>SCHOOL EARTH, MOON, AND SUN</description>					
 								
 		</item>						
 								
