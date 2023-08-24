@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM, 3:15 PM, 5:45 PM</description>					
+			<description>12:45 PM, 3:15 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED MEMBER PREVIEW</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>5:45 PM, 7:30 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED MEMBER PREVIEW OVERFLOW</description>					
+			<description>ECLIPSE: THE SUN REVEALED MEMBER PREVIEW</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>7:30 PM</description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>OASIS IN SPACE</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
@@ -1166,7 +1166,7 @@
 								
 			<title>Combined_5:45 PM_TITLE</title>					
 								
-			<description>OASIS IN SPACE</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>OASIS IN SPACE</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_5:45 PM_TITLE</title>					
 								
-			<description>OASIS IN SPACE</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
