@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>5:45 PM, 7:30 PM</description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED MEMBER PREVIEW OVERFLOW</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1278,23 +1278,23 @@
 								
 			<title>Combined_Show15_TIME</title>					
 								
-			<description>7:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:30 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED MEMBER PREVIEW OVERFLOW</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:30 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1302,7 +1302,7 @@
 								
 			<title>Combined_Show15_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED MEMBER PREVIEW OVERFLOW</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description>7:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_7:30 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED MEMBER PREVIEW OVERFLOW</description>					
+			<description></description>					
 								
 		</item>						
 								
