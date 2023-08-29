@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:00 PM, 4:30 PM, 7:00 PM</description>					
+			<description>2:00 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1238,23 +1238,23 @@
 								
 			<title>Combined_Show14_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:00 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:00 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1262,7 +1262,7 @@
 								
 			<title>Combined_Show14_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2718,15 +2718,15 @@
 								
 			<title>Dome_Show7_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_7:00 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description></description>					
 								
 		</item>						
 								
