@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -734,7 +734,7 @@
 								
 			<title>Combined_9:00 AM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -742,7 +742,7 @@
 								
 			<title>Combined_Show1_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>BUILDING CLOSURE</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1878,15 +1878,15 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description>9:00 AM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_9:00 AM_TITLE</title>					
+			<title>IMAX__TITLE</title>					
 								
-			<description>BUILDING CLOSURE</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description></description>					
+			<description>BUILDING CLOSURE</description>					
 								
 		</item>						
 								
@@ -2574,15 +2574,15 @@
 								
 			<title>Dome_Show1_TIME</title>					
 								
-			<description></description>					
+			<description>9:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_9:00 AM_TITLE</title>					
 								
-			<description></description>					
+			<description>BUILDING CLOSURE</description>					
 								
 		</item>						
 								
