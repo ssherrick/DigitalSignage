@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>FLIGHT OF THE BUTTERFLIES 3D</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 3:30 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>BACKYARD WILDERNESS 3D</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:30 PM, 6:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>FLIGHT OF THE BUTTERFLIES 3D</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>FLIGHT OF THE BUTTERFLIES 3D</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>FLIGHT OF THE BUTTERFLIES 3D</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>FLIGHT OF THE BUTTERFLIES 3D</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
