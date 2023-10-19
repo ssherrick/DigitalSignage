@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>MEMBER PREVIEW - HOLD</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -1390,31 +1390,31 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>MEMBER PREVIEW - HOLD</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description></description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>MEMBER PREVIEW - HOLD</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1422,7 +1422,7 @@
 								
 			<title>Combined_Show18_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description>MEMBER PREVIEW - HOLD</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_8:00 PM_TITLE</title>					
+			<title>IMAX__TITLE</title>					
 								
-			<description>MEMBER PREVIEW - HOLD</description>					
+			<description></description>					
 								
 		</item>						
 								
