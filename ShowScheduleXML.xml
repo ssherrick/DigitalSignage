@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>12:00 PM, 2:15 PM, 4:45 PM</description>					
+			<description>12:00 PM, 2:15 PM</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM, 5:45 PM</description>					
+			<description>12:45 PM</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:00 PM, 3:30 PM, 6:00 PM</description>					
+			<description>1:00 PM, 3:30 PM</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:00 PM, 4:30 PM, 7:00 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description> </description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>4:30 PM, 4:45 PM, 5:45 PM, 6:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1086,7 +1086,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>DEEP SKY</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_4:45 PM_TITLE</title>					
 								
-			<description>DEEP SKY</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>OASIS IN SPACE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1166,7 +1166,7 @@
 								
 			<title>Combined_5:45 PM_TITLE</title>					
 								
-			<description>OASIS IN SPACE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>BLUE WHALES 3D</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>BLUE WHALES 3D</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -1990,7 +1990,7 @@
 								
 			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>DEEP SKY</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -2006,7 +2006,7 @@
 								
 			<title>IMAX_4:45 PM_TITLE</title>					
 								
-			<description>DEEP SKY</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>BLUE WHALES 3D</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -2030,7 +2030,7 @@
 								
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description>BLUE WHALES 3D</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>OASIS IN SPACE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_5:45 PM_TITLE</title>					
 								
-			<description>OASIS IN SPACE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>BUILDING RENTAL</description>					
 								
 		</item>						
 								
