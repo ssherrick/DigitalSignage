@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:30 AM, 3:15 PM</description>					
+			<description>9:30 AM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL WORLDS OF ICE</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>DOME MAINTENANCE</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>3:15 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL WORLDS OF ICE</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL WORLDS OF ICE</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>DOME MAINTENANCE</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>DOME MAINTENANCE</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL BIRTH OF PLANET EARTH</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>SCHOOL WORLDS OF ICE</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL WORLDS OF ICE</description>					
+			<description>SCHOOL BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>DOME MAINTENANCE</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>DOME MAINTENANCE</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
