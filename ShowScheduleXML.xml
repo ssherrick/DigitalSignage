@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:00 PM, 4:45 PM</description>					
+			<description>1:00 PM, 4:45 PM, 7:15 PM</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description></description>					
+			<description>JANE GOODALL: REASONS FOR HOPE (2D)</description>					
 								
 		</item>						
 								
@@ -1278,23 +1278,23 @@
 								
 			<title>Combined_Show15_TIME</title>					
 								
-			<description></description>					
+			<description>7:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_7:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>JANE GOODALL: REASONS FOR HOPE (2D)</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_7:15 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1302,7 +1302,7 @@
 								
 			<title>Combined_Show15_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description></description>					
+			<description>JANE GOODALL: REASONS FOR HOPE (2D)</description>					
 								
 		</item>						
 								
@@ -2046,15 +2046,15 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>7:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_7:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>JANE GOODALL: REASONS FOR HOPE (2D)</description>					
 								
 		</item>						
 								
