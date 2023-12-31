@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>11:00 AM, 2:15 PM, 6:00 PM</description>					
+			<description>11:00 AM, 2:15 PM, 6:00 PM, 8:30 PM</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:00 PM, 7:00 PM</description>					
+			<description>2:00 PM, 4:30 PM, 7:00 PM, 8:15 PM, 9:30 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>CLOSED NEW YRS EVE</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>5:45 PM</description>					
+			<description>10:30 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>8:15 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -1086,7 +1086,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -1326,7 +1326,7 @@
 								
 			<title>Combined_8:15 PM_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -1358,23 +1358,23 @@
 								
 			<title>Combined_Show17_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description>8:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:30 PM_TITLE</title>					
+			<title>Combined_8:30 PM_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:30 PM_THEATER</title>					
+			<title>Combined_8:30 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1382,7 +1382,7 @@
 								
 			<title>Combined_Show17_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1390,29 +1390,29 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description>9:30 PM</description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:45 PM_TITLE</title>					
+			<title>Combined_9:30 PM_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:45 PM_THEATER</title>					
+			<title>Combined_9:30 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description></description>					
+			<description>CLOSED NEW YRS EVE</description>					
 								
 		</item>						
 								
@@ -1438,23 +1438,23 @@
 								
 			<title>Combined_Show19_TIME</title>					
 								
-			<description></description>					
+			<description>10:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_10:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>CLOSED NEW YRS EVE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_10:30 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1462,7 +1462,7 @@
 								
 			<title>Combined_Show19_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>8:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_8:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>LET IT SNOW: A HOLIDAY MUSIC JOURNEY</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_8:15 PM_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_9:30 PM_TITLE</title>					
 								
-			<description>ROCK THE DOME</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>CLOSED NEW YRS EVE</description>					
 								
 		</item>						
 								
@@ -2790,15 +2790,15 @@
 								
 			<title>Dome_Show10_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description>10:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_10:45 PM_TITLE</title>					
+			<title>Dome_10:30 PM_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>CLOSED NEW YRS EVE</description>					
 								
 		</item>						
 								
