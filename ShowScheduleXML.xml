@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:30 AM, 11:30 AM, 12:45 PM</description>					
+			<description>10:30 AM, 11:30 AM, 12:30 PM</description>					
 								
 		</item>						
 								
@@ -878,13 +878,13 @@
 								
 			<title>Combined_Show5_TIME</title>					
 								
-			<description>12:45 PM</description>					
+			<description>12:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:45 PM_TITLE</title>					
+			<title>Combined_12:30 PM_TITLE</title>					
 								
 			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
 								
@@ -892,7 +892,7 @@
 								
 		<item>						
 								
-			<title>Combined_12:45 PM_THEATER</title>					
+			<title>Combined_12:30 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -2622,13 +2622,13 @@
 								
 			<title>Dome_Show3_TIME</title>					
 								
-			<description>12:45 PM</description>					
+			<description>12:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_12:45 PM_TITLE</title>					
+			<title>Dome_12:30 PM_TITLE</title>					
 								
 			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
 								
