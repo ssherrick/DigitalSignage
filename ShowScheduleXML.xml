@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:45 PM, 3:15 PM, 7:00 PM</description>					
+			<description>12:45 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>TRAIN TIME (2D)</description>					
+			<description>DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>3:15 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1086,7 +1086,7 @@
 								
 			<title>Combined_3:15 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1166,7 +1166,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_3:15 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>DOME MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>DOME MAINTENANCE</description>					
 								
 		</item>						
 								
