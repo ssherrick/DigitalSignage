@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>6:00 PM, 7:00 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>HOLD</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -1326,7 +1326,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>HOLD</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>HOLD</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>HOLD</description>					
+			<description>NO SHOW</description>					
 								
 		</item>						
 								
