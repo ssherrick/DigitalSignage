@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -1278,13 +1278,13 @@
 								
 			<title>Combined_Show15_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:00 PM_TITLE</title>					
+			<title>Combined_7:00 PM_TITLE</title>					
 								
 			<description>SLCC LECTURE</description>					
 								
@@ -1292,7 +1292,7 @@
 								
 		<item>						
 								
-			<title>Combined_6:00 PM_THEATER</title>					
+			<title>Combined_7:00 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -2046,13 +2046,13 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_6:00 PM_TITLE</title>					
+			<title>IMAX_7:00 PM_TITLE</title>					
 								
 			<description>SLCC LECTURE</description>					
 								
