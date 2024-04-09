@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:30 AM, 10:30 AM, 11:30 AM</description>					
+			<description>10:00 AM, 11:00 AM</description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>10:30 AM, 11:30 AM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>SCHOOL EXTREME WEATHER 3D</description>					
+			<description>SCHOOL HUBBLE 3D</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM</description>					
+			<description>12:45 PM, 3:15 PM</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:15 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>TRAIN TIME (2D)</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>LASER BEATLES</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>LASER BEATLES</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
@@ -718,23 +718,23 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description>9:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:30 AM_TITLE</title>					
+			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_9:30 AM_THEATER</title>					
+			<title>Combined_10:00 AM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -742,7 +742,7 @@
 								
 			<title>Combined_Show1_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL EXTREME WEATHER 3D</description>					
+			<description>SCHOOL HUBBLE 3D</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL EXTREME WEATHER 3D</description>					
+			<description>SCHOOL HUBBLE 3D</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_12:45 PM_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -990,7 +990,7 @@
 								
 			<title>Combined_Show8_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1006,7 +1006,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_5:45 PM_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1870,13 +1870,37 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>IMAX_Show1_TIME</title>					
+								
+			<description>10:00 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_10:00 AM_TITLE</title>					
+								
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show2_TITLE</title>					
+								
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show2_TIME</title>					
 								
 			<description>11:00 AM</description>					
 								
@@ -1886,21 +1910,21 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
+			<description>SCHOOL ISLAND OF LEMURS, MADAGASCAR 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show2_TITLE</title>					
+			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SCHOOL EXTREME WEATHER 3D</description>					
+			<description>SCHOOL HUBBLE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show2_TIME</title>					
+			<title>IMAX_Show3_TIME</title>					
 								
 			<description>12:00 PM</description>					
 								
@@ -1910,13 +1934,13 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL EXTREME WEATHER 3D</description>					
+			<description>SCHOOL HUBBLE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show3_TITLE</title>					
+			<title>IMAX_Show4_TITLE</title>					
 								
 			<description>JANE GOODALL: RFH</description>					
 								
@@ -1924,7 +1948,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show3_TIME</title>					
+			<title>IMAX_Show4_TIME</title>					
 								
 			<description>1:00 PM</description>					
 								
@@ -1940,7 +1964,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show4_TITLE</title>					
+			<title>IMAX_Show5_TITLE</title>					
 								
 			<description>SECRETS OF THE SEA 3D</description>					
 								
@@ -1948,7 +1972,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show4_TIME</title>					
+			<title>IMAX_Show5_TIME</title>					
 								
 			<description>2:15 PM</description>					
 								
@@ -1964,7 +1988,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show5_TITLE</title>					
+			<title>IMAX_Show6_TITLE</title>					
 								
 			<description>TRAIN TIME (2D)</description>					
 								
@@ -1972,7 +1996,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show5_TIME</title>					
+			<title>IMAX_Show6_TIME</title>					
 								
 			<description>3:30 PM</description>					
 								
@@ -1988,7 +2012,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show6_TITLE</title>					
+			<title>IMAX_Show7_TITLE</title>					
 								
 			<description>JANE GOODALL: RFH (2D)</description>					
 								
@@ -1996,7 +2020,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show6_TIME</title>					
+			<title>IMAX_Show7_TIME</title>					
 								
 			<description>4:45 PM</description>					
 								
@@ -2012,7 +2036,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show7_TITLE</title>					
+			<title>IMAX_Show8_TITLE</title>					
 								
 			<description>SECRETS OF THE SEA 3D</description>					
 								
@@ -2020,7 +2044,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show7_TIME</title>					
+			<title>IMAX_Show8_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -2031,30 +2055,6 @@
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
 			<description>SECRETS OF THE SEA 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show8_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show8_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
@@ -2566,37 +2566,13 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show1_TIME</title>					
-								
-			<description>9:30 AM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_9:30 AM_TITLE</title>					
-								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show2_TITLE</title>					
-								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show2_TIME</title>					
 								
 			<description>10:30 AM</description>					
 								
@@ -2606,13 +2582,13 @@
 								
 			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show3_TITLE</title>					
+			<title>Dome_Show2_TITLE</title>					
 								
 			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
@@ -2620,7 +2596,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show3_TIME</title>					
+			<title>Dome_Show2_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -2636,15 +2612,15 @@
 								
 		<item>						
 								
-			<title>Dome_Show4_TITLE</title>					
+			<title>Dome_Show3_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show4_TIME</title>					
+			<title>Dome_Show3_TIME</title>					
 								
 			<description>12:45 PM</description>					
 								
@@ -2654,21 +2630,21 @@
 								
 			<title>Dome_12:45 PM_TITLE</title>					
 								
-			<description>SCHOOL DESTINATION MARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show5_TITLE</title>					
+			<title>Dome_Show4_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show5_TIME</title>					
+			<title>Dome_Show4_TIME</title>					
 								
 			<description>2:00 PM</description>					
 								
@@ -2678,13 +2654,13 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show6_TITLE</title>					
+			<title>Dome_Show5_TITLE</title>					
 								
 			<description>SECRET LIVES OF STARS</description>					
 								
@@ -2692,7 +2668,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show6_TIME</title>					
+			<title>Dome_Show5_TIME</title>					
 								
 			<description>3:15 PM</description>					
 								
@@ -2708,7 +2684,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show7_TITLE</title>					
+			<title>Dome_Show6_TITLE</title>					
 								
 			<description>BIRTH OF PLANET EARTH</description>					
 								
@@ -2716,7 +2692,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show7_TIME</title>					
+			<title>Dome_Show6_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -2732,15 +2708,15 @@
 								
 		<item>						
 								
-			<title>Dome_Show8_TITLE</title>					
+			<title>Dome_Show7_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show8_TIME</title>					
+			<title>Dome_Show7_TIME</title>					
 								
 			<description>5:45 PM</description>					
 								
@@ -2750,13 +2726,13 @@
 								
 			<title>Dome_5:45 PM_TITLE</title>					
 								
-			<description>ECLIPSE: THE SUN REVEALED</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show9_TITLE</title>					
+			<title>Dome_Show8_TITLE</title>					
 								
 			<description>LASER BEATLES</description>					
 								
@@ -2764,7 +2740,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show9_TIME</title>					
+			<title>Dome_Show8_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -2775,6 +2751,30 @@
 			<title>Dome_7:00 PM_TITLE</title>					
 								
 			<description>LASER BEATLES</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome__TITLE</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
