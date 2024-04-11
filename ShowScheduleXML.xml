@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>SLCC LECTURE</description>					
+			<description>MEMBER PREVIEW 321</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>6:00 PM, 7:00 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>MEMBER PREVIEW 321</description>					
+			<description>SLCC LECTURE</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>7:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>SLCC LECTURE</description>					
+			<description>MEMBER PREVIEW 321</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>SLCC LECTURE</description>					
+			<description>MEMBER PREVIEW 321</description>					
 								
 		</item>						
 								
@@ -1254,7 +1254,7 @@
 								
 			<title>Combined_6:00 PM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1262,7 +1262,7 @@
 								
 			<title>Combined_Show14_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>MEMBER PREVIEW 321</description>					
+			<description>SLCC LECTURE</description>					
 								
 		</item>						
 								
@@ -1278,23 +1278,23 @@
 								
 			<title>Combined_Show15_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:00 PM_TITLE</title>					
+			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>MEMBER PREVIEW 321</description>					
+			<description>SLCC LECTURE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:00 PM_THEATER</title>					
+			<title>Combined_7:00 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1302,7 +1302,7 @@
 								
 			<title>Combined_Show15_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2022,13 +2022,13 @@
 								
 			<title>IMAX_Show7_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_6:00 PM_TITLE</title>					
+			<title>IMAX_7:00 PM_TITLE</title>					
 								
 			<description>SLCC LECTURE</description>					
 								
