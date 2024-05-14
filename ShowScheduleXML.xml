@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:30 AM, 10:30 AM, 11:30 AM</description>					
+			<description>9:30 AM, 10:30 AM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:00 AM</description>					
+			<description>10:00 AM, 12:00 PM</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>SCHOOL BORN TO BE WILD 3D</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
@@ -102,7 +102,7 @@
 								
 			<title>Grouped_Show4_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>SCHOOL SECRET LIVES OF STARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>STAFF SCREENING</description>					
+			<description>3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>4:30 PM, 5:45 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>5:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>LASER BEATLES</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>SCHOOL BORN TO BE WILD 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL BORN TO BE WILD 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>SCHOOL SECRET LIVES OF STARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -966,7 +966,7 @@
 								
 			<title>Combined_12:45 PM_TITLE</title>					
 								
-			<description>SCHOOL SECRET LIVES OF STARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>STAFF SCREENING</description>					
+			<description>3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
@@ -1046,7 +1046,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>STAFF SCREENING</description>					
+			<description>3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:45 PM_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>LASER BEATLES</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>LASER BEATLES</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SCHOOL BORN TO BE WILD 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL BORN TO BE WILD 3D</description>					
+			<description>SCHOOL A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM, GRAVITY, AND INERTIA</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
+			<description>SCHOOL ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>SCHOOL SECRET LIVES OF STARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -2654,7 +2654,7 @@
 								
 			<title>Dome_12:45 PM_TITLE</title>					
 								
-			<description>SCHOOL SECRET LIVES OF STARS</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>STAFF SCREENING</description>					
+			<description>3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>STAFF SCREENING</description>					
+			<description>3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_5:45 PM_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>LASER BEATLES</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>LASER BEATLES</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
