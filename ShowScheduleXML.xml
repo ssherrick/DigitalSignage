@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:15 PM, 4:45 PM, 7:00 PM</description>					
+			<description>2:15 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>5:45 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description> </description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1166,7 +1166,7 @@
 								
 			<title>Combined_4:45 PM_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2030,7 +2030,7 @@
 								
 			<title>IMAX_4:45 PM_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
