@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>11:00 AM, 1:00 PM</description>					
+			<description>11:00 AM, 1:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>MEMBER PREVIEW - HOLD</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1910,7 +1910,7 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1942,7 +1942,7 @@
 								
 			<title>IMAX_Show4_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1958,7 +1958,7 @@
 								
 			<title>IMAX_1:00 PM_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>THEATRE MAINTENANCE</description>					
 								
 		</item>						
 								
