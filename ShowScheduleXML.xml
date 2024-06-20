@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>11:00 AM, 1:00 PM, 6:00 PM</description>					
+			<description>11:00 AM, 1:00 PM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:15 PM, 7:00 PM</description>					
+			<description>2:15 PM, 4:45 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>THEATRE MAINTENANCE</description>					
+			<description>UNSEEN UNIVERSE</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>4:45 PM</description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>UNSEEN UNIVERSE</description>					
+			<description>MEMBER PREVIEW - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>5:45 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description> </description>					
+			<description>MEMBER PREVIEW - HOLD</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>THEATRE MAINTENANCE</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -1166,7 +1166,7 @@
 								
 			<title>Combined_4:45 PM_TITLE</title>					
 								
-			<description>THEATRE MAINTENANCE</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>MEMBER PREVIEW - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>MEMBER PREVIEW - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>MEMBER PREVIEW - HOLD</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>MEMBER PREVIEW - HOLD</description>					
 								
 		</item>						
 								
@@ -1294,7 +1294,7 @@
 								
 			<title>Combined_7:00 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1302,7 +1302,7 @@
 								
 			<title>Combined_Show15_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -1326,7 +1326,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -1334,7 +1334,7 @@
 								
 			<title>Combined_7:00 PM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1342,7 +1342,7 @@
 								
 			<title>Combined_Show16_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>THEATRE MAINTENANCE</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -2030,7 +2030,7 @@
 								
 			<title>IMAX_4:45 PM_TITLE</title>					
 								
-			<description>THEATRE MAINTENANCE</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>MEMBER PREVIEW - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2054,7 +2054,7 @@
 								
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>MEMBER PREVIEW - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>MEMBER PREVIEW - HOLD</description>					
 								
 		</item>						
 								
@@ -2078,7 +2078,7 @@
 								
 			<title>IMAX_7:00 PM_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>MEMBER PREVIEW - HOLD</description>					
 								
 		</item>						
 								
