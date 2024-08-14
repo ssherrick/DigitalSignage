@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM, 7:00 PM</description>					
+			<description>12:45 PM, 2:00 PM, 3:15 PM</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>3:15 PM, 5:45 PM</description>					
+			<description>5:45 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_12:45 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -990,7 +990,7 @@
 								
 			<title>Combined_Show8_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -1006,7 +1006,7 @@
 								
 			<title>Combined_3:15 PM_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_12:45 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
@@ -2654,7 +2654,7 @@
 								
 			<title>Dome_3:15 PM_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>THEATER MAINTENANCE</description>					
 								
 		</item>						
 								
