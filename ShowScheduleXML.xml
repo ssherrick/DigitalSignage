@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>11:30 AM, 12:45 PM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>1:00 PM, 6:00 PM</description>					
+			<description>12:45 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -102,7 +102,7 @@
 								
 			<title>Grouped_Show4_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>1:00 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>LASER TAYLOR SWIFT</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>3:15 PM, 5:45 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>3:15 PM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>3-2-1 LIFTOFF!</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_12:45 PM_TITLE</title>					
 								
-			<description>3-2-1 LIFTOFF!</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>3-2-1 LIFTOFF!</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_12:45 PM_TITLE</title>					
 								
-			<description>3-2-1 LIFTOFF!</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
