@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM, 7:00 PM</description>					
+			<description>12:45 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description> </description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM, 8:15 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1318,23 +1318,23 @@
 								
 			<title>Combined_Show16_TIME</title>					
 								
-			<description></description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_8:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_8:15 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1342,7 +1342,7 @@
 								
 			<title>Combined_Show16_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_8:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
