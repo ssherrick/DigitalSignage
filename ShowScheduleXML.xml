@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 1:00 PM, 3:30 PM, 7:15 PM</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>12:00 PM, 2:15 PM, 4:45 PM, 7:15 PM</description>					
+			<description>12:00 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:45 PM, 4:30 PM</description>					
+			<description>12:45 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:00 PM, 6:00 PM</description>					
+			<description>2:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>2:15 PM</description>					
 								
 		</item>						
 								
@@ -150,7 +150,7 @@
 								
 			<title>Grouped_Show6_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>3:15 PM</description>					
+			<description>3:15 PM, 5:45 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>SECRETS OF THE SEA 3D</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>5:45 PM, 7:00 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -966,7 +966,7 @@
 								
 			<title>Combined_2:15 PM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -1046,7 +1046,7 @@
 								
 			<title>Combined_3:30 PM_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1086,7 +1086,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SECRETS OF THE SEA 3D</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_4:45 PM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SECRETS OF THE SEA 3D</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1166,7 +1166,7 @@
 								
 			<title>Combined_5:45 PM_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_7:15 PM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_1:00 PM_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -1942,7 +1942,7 @@
 								
 			<title>IMAX_Show4_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -1958,7 +1958,7 @@
 								
 			<title>IMAX_2:15 PM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -1966,7 +1966,7 @@
 								
 			<title>IMAX_Show5_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -1982,7 +1982,7 @@
 								
 			<title>IMAX_3:30 PM_TITLE</title>					
 								
-			<description>SECRETS OF THE SEA 3D</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -1990,7 +1990,7 @@
 								
 			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SECRETS OF THE SEA 3D</description>					
 								
 		</item>						
 								
@@ -2006,7 +2006,7 @@
 								
 			<title>IMAX_4:45 PM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SECRETS OF THE SEA 3D</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2030,7 +2030,7 @@
 								
 			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description>DEEP SKY (2D)</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -2054,7 +2054,7 @@
 								
 			<title>IMAX_7:15 PM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>TRAIN TIME (2D)</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_5:45 PM_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
