@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>7:00 PM, 8:15 PM</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1390,31 +1390,31 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description></description>					
+			<description>8:15 PM</description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_8:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_8:15 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1422,7 +1422,7 @@
 								
 			<title>Combined_Show18_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2790,15 +2790,15 @@
 								
 			<title>Dome_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_8:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
