@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>BLUE WHALES 3D</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:05 PM, 4:20 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>BLUE WHALES 3D</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>4:20 PM</description>					
+			<description>5:25 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>A BEAUTIFUL PLANET 3D</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>5:25 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>BLUE WHALES 3D</description>					
 								
 		</item>						
 								
@@ -918,21 +918,21 @@
 								
 			<title>Combined_Show6_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:05 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:00 PM_TITLE</title>					
+			<title>Combined_1:05 PM_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>BLUE WHALES 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:00 PM_THEATER</title>					
+			<title>Combined_1:05 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>BLUE WHALES 3D</description>					
 								
 		</item>						
 								
@@ -1926,15 +1926,15 @@
 								
 			<title>IMAX_Show3_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:05 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_1:00 PM_TITLE</title>					
+			<title>IMAX_1:05 PM_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>BLUE WHALES 3D</description>					
 								
 		</item>						
 								
