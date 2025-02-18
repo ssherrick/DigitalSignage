@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:00 AM, 1:40 PM, 5:25 PM, 6:00 PM, 7:00 PM, 7:30 PM, 8:30 PM</description>					
+			<description>9:00 AM, 1:40 PM</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:00 PM, 2:10 PM, 4:20 PM</description>					
+			<description>12:00 PM, 2:10 PM, 4:20 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>1:05 PM, 3:15 PM</description>					
+			<description>1:05 PM, 3:15 PM, 5:25 PM</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>2:45 PM, 4:55 PM</description>					
+			<description>2:45 PM, 4:55 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description> </description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_5:25 PM_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1390,7 +1390,7 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>DOME PREP TIME</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1406,7 +1406,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>DOME PREP TIME</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1430,13 +1430,53 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - DOME CLOSED</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show19_TIME</title>					
+								
+			<description>6:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_TITLE</title>					
+								
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_TITLE</title>					
+								
+			<description>LIVING WORLDS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1446,7 +1486,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - DOME CLOSED</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -1460,7 +1500,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show19_THEATER</title>					
+			<title>Combined_Show20_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1468,49 +1508,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show20_TITLE</title>					
-								
-			<description>CLARK AFTER DARK - BLUE ANGELS 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TIME</title>					
-								
-			<description>7:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_7:30 PM_TITLE</title>					
-								
-			<description>CLARK AFTER DARK - BLUE ANGELS 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_7:30 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show21_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - BLUE ANGELS 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1518,23 +1518,23 @@
 								
 			<title>Combined_Show21_TIME</title>					
 								
-			<description>8:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:30 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>CLARK AFTER DARK - BLUE ANGELS 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:30 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1542,7 +1542,7 @@
 								
 			<title>Combined_Show21_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2078,7 +2078,7 @@
 								
 			<title>IMAX_5:25 PM_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2086,7 +2086,7 @@
 								
 			<title>IMAX_Show10_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - BLUE ANGELS 3D</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -2094,15 +2094,15 @@
 								
 			<title>IMAX_Show10_TIME</title>					
 								
-			<description>7:30 PM</description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_7:30 PM_TITLE</title>					
+			<title>IMAX_6:30 PM_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - BLUE ANGELS 3D</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -2110,7 +2110,7 @@
 								
 			<title>IMAX_Show11_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - BLUE ANGELS 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2118,15 +2118,15 @@
 								
 			<title>IMAX_Show11_TIME</title>					
 								
-			<description>8:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_8:30 PM_TITLE</title>					
+			<title>IMAX__TITLE</title>					
 								
-			<description>CLARK AFTER DARK - BLUE ANGELS 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>DOME PREP TIME</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>DOME PREP TIME</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - DOME CLOSED</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -2798,7 +2798,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - DOME CLOSED</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
