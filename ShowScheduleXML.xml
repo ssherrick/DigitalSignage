@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>DOME RENTAL</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>BLUE WHALES 3D</description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>7:30 PM</description>					
+			<description>7:00 PM, 10:45 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>BLUE WHALES 3D</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>8:15 PM</description>					
+			<description>7:30 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>LASER QUEEN</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>LASER QUEEN</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description>9:30 PM</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>DOME RENTAL</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>DOME RENTAL</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1310,13 +1310,53 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>BLUE WHALES 3D</description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show16_TIME</title>					
+								
+			<description>7:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_TITLE</title>					
+								
+			<description>DARK SIDE OF THE MOON</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>BLUE WHALES 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
 								
 			<description>7:30 PM</description>					
 								
@@ -1340,7 +1380,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show16_THEATER</title>					
+			<title>Combined_Show17_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1348,17 +1388,17 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_TITLE</title>					
+			<title>Combined_Show18_TITLE</title>					
 								
 			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
-								
-			<title>Combined_Show17_TIME</title>					
+			<title>Combined_Show18_TIME</title>					
 								
 			<description>8:15 PM</description>					
+								
 								
 		</item>						
 								
@@ -1380,7 +1420,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_THEATER</title>					
+			<title>Combined_Show18_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1388,17 +1428,17 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_TITLE</title>					
+			<title>Combined_Show19_TITLE</title>					
 								
 			<description>LASER QUEEN</description>					
 								
 		</item>						
 								
 		<item>						
-			<title>Combined_Show18_TIME</title>					
+								
+			<title>Combined_Show19_TIME</title>					
 								
 			<description>9:30 PM</description>					
-								
 								
 		</item>						
 								
@@ -1420,7 +1460,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_THEATER</title>					
+			<title>Combined_Show19_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1428,7 +1468,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show19_TITLE</title>					
+			<title>Combined_Show20_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
 								
@@ -1436,7 +1476,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show19_TIME</title>					
+			<title>Combined_Show20_TIME</title>					
 								
 			<description>10:45 PM</description>					
 								
@@ -1460,49 +1500,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show19_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show20_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>DOME RENTAL</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>DOME RENTAL</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2734,13 +2734,37 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show8_TIME</title>					
+								
+			<description>7:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_7:00 PM_TITLE</title>					
+								
+			<description>DARK SIDE OF THE MOON</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TITLE</title>					
+								
+			<description>LED ZEPPELIN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TIME</title>					
 								
 			<description>8:15 PM</description>					
 								
@@ -2756,7 +2780,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show9_TITLE</title>					
+			<title>Dome_Show10_TITLE</title>					
 								
 			<description>LASER QUEEN</description>					
 								
@@ -2764,7 +2788,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show9_TIME</title>					
+			<title>Dome_Show10_TIME</title>					
 								
 			<description>9:30 PM</description>					
 								
@@ -2780,7 +2804,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show10_TITLE</title>					
+			<title>Dome_Show11_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
 								
@@ -2788,7 +2812,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show10_TIME</title>					
+			<title>Dome_Show11_TIME</title>					
 								
 			<description>10:45 PM</description>					
 								
@@ -2799,30 +2823,6 @@
 			<title>Dome_10:45 PM_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show11_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show11_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
