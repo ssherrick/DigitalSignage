@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL ULTIMATE UNIVERSE</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:30 AM</description>					
+			<description>9:30 AM, 10:30 AM, 11:30 AM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SEASONS</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM, 12:35 PM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
@@ -54,7 +54,7 @@
 								
 			<title>Grouped_Show2_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM, 1:00 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>3-2-1 LIFTOFF!</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>12:35 PM, 2:45 PM, 4:55 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>1:05 PM, 3:15 PM, 5:25 PM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:10 PM, 4:20 PM</description>					
+			<description>2:10 PM, 4:20 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>LIVING WORLDS</description>					
+			<description>BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>2:45 PM, 4:55 PM</description>					
+			<description>3:50 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>3:15 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:50 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>5:25 PM, 6:00 PM, 6:30 PM, 7:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL ULTIMATE UNIVERSE</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL ULTIMATE UNIVERSE</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SEASONS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SEASONS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>3-2-1 LIFTOFF!</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>3-2-1 LIFTOFF!</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_12:35 PM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -958,21 +958,21 @@
 								
 			<title>Combined_Show7_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:05 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:00 PM_TITLE</title>					
+			<title>Combined_1:05 PM_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:00 PM_THEATER</title>					
+			<title>Combined_1:05 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:25 PM_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1326,7 +1326,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_6:30 PM_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -1390,7 +1390,7 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -1406,7 +1406,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>SCHOOL BACKYARD WILDERNESS 3D</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -1910,7 +1910,7 @@
 								
 			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL UNDER THE SEA 3D</description>					
+			<description>SCHOOL EXTREME WEATHER 3D</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1926,15 +1926,15 @@
 								
 			<title>IMAX_Show3_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:05 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_1:00 PM_TITLE</title>					
+			<title>IMAX_1:05 PM_TITLE</title>					
 								
-			<description>SCHOOL HUBBLE 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2030,7 +2030,7 @@
 								
 			<title>IMAX_5:25 PM_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -2054,7 +2054,7 @@
 								
 			<title>IMAX_6:30 PM_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL ULTIMATE UNIVERSE</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_9:30 AM_TITLE</title>					
 								
-			<description>SCHOOL ULTIMATE UNIVERSE</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SEASONS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_10:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SEASONS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>3-2-1 LIFTOFF!</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_11:30 AM_TITLE</title>					
 								
-			<description>3-2-1 LIFTOFF!</description>					
+			<description>SCHOOL SKYWATCH 4TH GRADE ASTRONOMY</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -2654,7 +2654,7 @@
 								
 			<title>Dome_12:35 PM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE SOLAR SYSTEM AND GRAVITY</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -2798,7 +2798,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>CLARK AFTER DARK - FLIGHT</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
