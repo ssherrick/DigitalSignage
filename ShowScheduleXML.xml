@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>12:00 PM, 2:00 PM, 6:00 PM, 7:15 PM</description>					
+			<description>12:00 PM, 2:00 PM, 4:00 PM, 6:00 PM, 7:15 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>SPECIAL SCREENING - BORN IN THE ABYSS</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>1:00 PM, 4:00 PM</description>					
+			<description>1:00 PM, 3:00 PM, 5:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>SPACE: THE NEW FRONTIER 3D</description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:00 PM, 5:00 PM</description>					
+			<description>7:00 PM, 9:30 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>LASER AC/DC</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>7:00 PM, 9:30 PM</description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>LED ZEPPELIN</description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>8:15 PM</description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SPECIAL SCREENING - BORN IN THE ABYSS</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>SPECIAL SCREENING - BORN IN THE ABYSS</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>SPECIAL SCREENING - BORN IN THE ABYSS</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>SPECIAL SCREENING - BORN IN THE ABYSS</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SPECIAL SCREENING - BORN IN THE ABYSS</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_1:00 PM_TITLE</title>					
 								
-			<description>SPECIAL SCREENING - BORN IN THE ABYSS</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -1990,7 +1990,7 @@
 								
 			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>SPECIAL SCREENING - BORN IN THE ABYSS</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -2006,7 +2006,7 @@
 								
 			<title>IMAX_4:00 PM_TITLE</title>					
 								
-			<description>SPECIAL SCREENING - BORN IN THE ABYSS</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
