@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:00 AM, 1:00 PM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SPACE: THE NEW FRONTIER 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>11:00 AM, 5:00 PM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM, 4:00 PM</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>SCHOOL SECRETS OF THE SEA 3D</description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>11:30 AM, 1:30 PM, 3:30 PM, 5:30 PM, 7:30 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>LIVING WORLDS</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM, 3:00 PM, 5:00 PM</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>12:30 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>VAST</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:30 PM, 3:30 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>SHARK KINGDOM 3D</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>2:00 PM, 4:00 PM, 6:00 PM</description>					
+			<description>2:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>2:30 PM</description>					
+			<description>6:00 PM, 7:15 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>THE BLUE ANGELS 3D</description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:00 PM</description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>RENTAL</description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>9:30 PM</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description> </description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -718,21 +718,21 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_TITLE</title>					
+			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_THEATER</title>					
+			<title>Combined_10:00 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SPACE: THE NEW FRONTIER 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -758,21 +758,21 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:00 AM_TITLE</title>					
+			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>SPACE: THE NEW FRONTIER 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:00 AM_THEATER</title>					
+			<title>Combined_10:30 AM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -798,21 +798,21 @@
 								
 			<title>Combined_Show3_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:30 AM_TITLE</title>					
+			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:30 AM_THEATER</title>					
+			<title>Combined_11:00 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>SCHOOL SECRETS OF THE SEA 3D</description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
@@ -838,21 +838,21 @@
 								
 			<title>Combined_Show4_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:00 PM_TITLE</title>					
+			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SECRETS OF THE SEA 3D</description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:00 PM_THEATER</title>					
+			<title>Combined_11:30 AM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>LIVING WORLDS</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
@@ -878,21 +878,21 @@
 								
 			<title>Combined_Show5_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:30 PM_TITLE</title>					
+			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>LIVING WORLDS</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:30 PM_THEATER</title>					
+			<title>Combined_12:00 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -918,21 +918,21 @@
 								
 			<title>Combined_Show6_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>12:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:00 PM_TITLE</title>					
+			<title>Combined_12:30 PM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:00 PM_THEATER</title>					
+			<title>Combined_12:30 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>VAST</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -958,21 +958,21 @@
 								
 			<title>Combined_Show7_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:30 PM_TITLE</title>					
+			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>VAST</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:30 PM_THEATER</title>					
+			<title>Combined_1:00 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -998,13 +998,13 @@
 								
 			<title>Combined_Show8_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>1:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_2:00 PM_TITLE</title>					
+			<title>Combined_1:30 PM_TITLE</title>					
 								
 			<description>SHARK KINGDOM 3D</description>					
 								
@@ -1012,7 +1012,7 @@
 								
 		<item>						
 								
-			<title>Combined_2:00 PM_THEATER</title>					
+			<title>Combined_1:30 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1038,13 +1038,13 @@
 								
 			<title>Combined_Show9_TIME</title>					
 								
-			<description>2:30 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_2:30 PM_TITLE</title>					
+			<title>Combined_2:00 PM_TITLE</title>					
 								
 			<description>DARK UNIVERSE</description>					
 								
@@ -1052,7 +1052,7 @@
 								
 		<item>						
 								
-			<title>Combined_2:30 PM_THEATER</title>					
+			<title>Combined_2:00 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1078,13 +1078,13 @@
 								
 			<title>Combined_Show10_TIME</title>					
 								
-			<description>3:00 PM</description>					
+			<description>2:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_3:00 PM_TITLE</title>					
+			<title>Combined_2:30 PM_TITLE</title>					
 								
 			<description>THE BLUE ANGELS 3D</description>					
 								
@@ -1092,7 +1092,7 @@
 								
 		<item>						
 								
-			<title>Combined_3:00 PM_THEATER</title>					
+			<title>Combined_2:30 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1118,13 +1118,13 @@
 								
 			<title>Combined_Show11_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>3:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_3:30 PM_TITLE</title>					
+			<title>Combined_3:00 PM_TITLE</title>					
 								
 			<description>VAST</description>					
 								
@@ -1132,7 +1132,7 @@
 								
 		<item>						
 								
-			<title>Combined_3:30 PM_THEATER</title>					
+			<title>Combined_3:00 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1158,13 +1158,13 @@
 								
 			<title>Combined_Show12_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:00 PM_TITLE</title>					
+			<title>Combined_3:30 PM_TITLE</title>					
 								
 			<description>SHARK KINGDOM 3D</description>					
 								
@@ -1172,7 +1172,7 @@
 								
 		<item>						
 								
-			<title>Combined_4:00 PM_THEATER</title>					
+			<title>Combined_3:30 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>RENTAL</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -1198,21 +1198,21 @@
 								
 			<title>Combined_Show13_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_TITLE</title>					
+			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>RENTAL</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_THEATER</title>					
+			<title>Combined_4:00 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1238,13 +1238,13 @@
 								
 			<title>Combined_Show14_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_TITLE</title>					
+			<title>Combined_4:30 PM_TITLE</title>					
 								
 			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
@@ -1252,7 +1252,7 @@
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_THEATER</title>					
+			<title>Combined_4:30 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1270,13 +1270,93 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>SHARK KINGDOM 3D</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show15_TIME</title>					
+								
+			<description>5:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:00 PM_TITLE</title>					
+								
+			<description>VAST</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_TITLE</title>					
+								
+			<description>SHARK KINGDOM 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_TIME</title>					
+								
+			<description>5:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:30 PM_TITLE</title>					
+								
+			<description>SHARK KINGDOM 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:30 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>BEAUTIFICA</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -1286,7 +1366,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>SHARK KINGDOM 3D</description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1294,87 +1374,7 @@
 								
 			<title>Combined_6:00 PM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1382,7 +1382,7 @@
 								
 			<title>Combined_Show17_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1390,31 +1390,31 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description></description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_6:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_6:30 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1422,7 +1422,7 @@
 								
 			<title>Combined_Show18_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1438,23 +1438,23 @@
 								
 			<title>Combined_Show19_TIME</title>					
 								
-			<description></description>					
+			<description>7:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_7:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_7:15 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1462,7 +1462,7 @@
 								
 			<title>Combined_Show19_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1470,7 +1470,7 @@
 								
 			<title>Combined_Show20_TITLE</title>					
 								
-			<description></description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
@@ -1478,23 +1478,23 @@
 								
 			<title>Combined_Show20_TIME</title>					
 								
-			<description></description>					
+			<description>7:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_7:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_7:30 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1502,7 +1502,7 @@
 								
 			<title>Combined_Show20_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1510,7 +1510,7 @@
 								
 			<title>Combined_Show21_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -1518,23 +1518,23 @@
 								
 			<title>Combined_Show21_TIME</title>					
 								
-			<description></description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_8:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_8:15 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1542,7 +1542,7 @@
 								
 			<title>Combined_Show21_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1550,7 +1550,7 @@
 								
 			<title>Combined_Show22_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -1558,23 +1558,23 @@
 								
 			<title>Combined_Show22_TIME</title>					
 								
-			<description></description>					
+			<description>9:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_9:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_9:30 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1582,7 +1582,7 @@
 								
 			<title>Combined_Show22_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1590,7 +1590,7 @@
 								
 			<title>Combined_Show23_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -1598,23 +1598,23 @@
 								
 			<title>Combined_Show23_TIME</title>					
 								
-			<description></description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_10:45 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_10:45 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1622,7 +1622,7 @@
 								
 			<title>Combined_Show23_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>SPACE: THE NEW FRONTIER 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1878,15 +1878,15 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_11:00 AM_TITLE</title>					
+			<title>IMAX_10:30 AM_TITLE</title>					
 								
-			<description>SPACE: THE NEW FRONTIER 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>SCHOOL SECRETS OF THE SEA 3D</description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
@@ -1902,15 +1902,15 @@
 								
 			<title>IMAX_Show2_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_12:00 PM_TITLE</title>					
+			<title>IMAX_11:30 AM_TITLE</title>					
 								
-			<description>SCHOOL SECRETS OF THE SEA 3D</description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -1926,15 +1926,15 @@
 								
 			<title>IMAX_Show3_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>12:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_1:00 PM_TITLE</title>					
+			<title>IMAX_12:30 PM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -1950,13 +1950,13 @@
 								
 			<title>IMAX_Show4_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>1:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_2:00 PM_TITLE</title>					
+			<title>IMAX_1:30 PM_TITLE</title>					
 								
 			<description>SHARK KINGDOM 3D</description>					
 								
@@ -1974,13 +1974,13 @@
 								
 			<title>IMAX_Show5_TIME</title>					
 								
-			<description>3:00 PM</description>					
+			<description>2:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_3:00 PM_TITLE</title>					
+			<title>IMAX_2:30 PM_TITLE</title>					
 								
 			<description>THE BLUE ANGELS 3D</description>					
 								
@@ -1998,13 +1998,13 @@
 								
 			<title>IMAX_Show6_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_4:00 PM_TITLE</title>					
+			<title>IMAX_3:30 PM_TITLE</title>					
 								
 			<description>SHARK KINGDOM 3D</description>					
 								
@@ -2022,13 +2022,13 @@
 								
 			<title>IMAX_Show7_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_5:00 PM_TITLE</title>					
+			<title>IMAX_4:30 PM_TITLE</title>					
 								
 			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
@@ -2046,13 +2046,13 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>5:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_6:00 PM_TITLE</title>					
+			<title>IMAX_5:30 PM_TITLE</title>					
 								
 			<description>SHARK KINGDOM 3D</description>					
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_6:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -2086,7 +2086,7 @@
 								
 			<title>IMAX_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
@@ -2094,15 +2094,15 @@
 								
 			<title>IMAX_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>7:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_7:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2574,15 +2574,15 @@
 								
 			<title>Dome_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_10:30 AM_TITLE</title>					
+			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -2598,15 +2598,15 @@
 								
 			<title>Dome_Show2_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_11:30 AM_TITLE</title>					
+			<title>Dome_11:00 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>LIVING WORLDS</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
@@ -2622,15 +2622,15 @@
 								
 			<title>Dome_Show3_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_12:30 PM_TITLE</title>					
+			<title>Dome_12:00 PM_TITLE</title>					
 								
-			<description>LIVING WORLDS</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>VAST</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2646,15 +2646,15 @@
 								
 			<title>Dome_Show4_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_1:30 PM_TITLE</title>					
+			<title>Dome_1:00 PM_TITLE</title>					
 								
-			<description>VAST</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2670,13 +2670,13 @@
 								
 			<title>Dome_Show5_TIME</title>					
 								
-			<description>2:30 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_2:30 PM_TITLE</title>					
+			<title>Dome_2:00 PM_TITLE</title>					
 								
 			<description>DARK UNIVERSE</description>					
 								
@@ -2694,13 +2694,13 @@
 								
 			<title>Dome_Show6_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>3:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_3:30 PM_TITLE</title>					
+			<title>Dome_3:00 PM_TITLE</title>					
 								
 			<description>VAST</description>					
 								
@@ -2710,13 +2710,37 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>RENTAL</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show7_TIME</title>					
+								
+			<description>4:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_4:00 PM_TITLE</title>					
+								
+			<description>LIVING WORLDS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TITLE</title>					
+								
+			<description>VAST</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TIME</title>					
 								
 			<description>5:00 PM</description>					
 								
@@ -2726,31 +2750,7 @@
 								
 			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>RENTAL</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show8_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show8_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2766,15 +2766,15 @@
 								
 			<title>Dome_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2790,15 +2790,15 @@
 								
 			<title>Dome_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>7:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_7:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -2806,7 +2806,7 @@
 								
 			<title>Dome_Show11_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -2814,15 +2814,15 @@
 								
 			<title>Dome_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_8:15 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LED ZEPPELIN</description>					
 								
 		</item>						
 								
@@ -2830,7 +2830,7 @@
 								
 			<title>Dome_Show12_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -2838,15 +2838,15 @@
 								
 			<title>Dome_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>9:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_9:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -2854,7 +2854,7 @@
 								
 			<title>Dome_Show13_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -2862,15 +2862,15 @@
 								
 			<title>Dome_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_10:45 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
