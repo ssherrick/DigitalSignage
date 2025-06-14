@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>SENSORY FRIENDLY - SECRET OF THE CARDBOARD ROCKET</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SENSORY FRIENDLY - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 4:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>LASER TAYLOR SWIFT VOL. 2</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>2:00 PM, 6:00 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>LIVE: GATEWAY TO THE STARS - SUMMER SKIES</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>5:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>LIVE: GATEWAY TO THE STARS - SUMMER SKIES</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>SENSORY FRIENDLY - SECRET OF THE CARDBOARD ROCKET</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>SENSORY FRIENDLY - SECRET OF THE CARDBOARD ROCKET</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SENSORY FRIENDLY - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SENSORY FRIENDLY - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>LASER TAYLOR SWIFT VOL. 2</description>					
 								
 		</item>						
 								
@@ -1046,7 +1046,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>LASER TAYLOR SWIFT VOL. 2</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SENSORY FRIENDLY - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:30 AM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SENSORY FRIENDLY - T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>SENSORY FRIENDLY - SECRET OF THE CARDBOARD ROCKET</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL BLACK HOLES</description>					
+			<description>SENSORY FRIENDLY - SECRET OF THE CARDBOARD ROCKET</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>LASER TAYLOR SWIFT VOL. 2</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>LASER TAYLOR SWIFT VOL. 2</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_4:00 PM_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
