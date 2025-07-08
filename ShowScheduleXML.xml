@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 4:00 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>SOS PLANET PRESENTATION (PLP)</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>4:15 PM</description>					
+			<description>5:00 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>THE BLUE ANGELS 3D</description>					
+			<description>LASER TAYLOR SWIFT VOL. 2</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>LASER TAYLOR SWIFT VOL. 2</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>SOS PLANET PRESENTATION (PLP)</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
@@ -1198,21 +1198,21 @@
 								
 			<title>Combined_Show13_TIME</title>					
 								
-			<description>4:15 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:15 PM_TITLE</title>					
+			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>SOS PLANET PRESENTATION (PLP)</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:15 PM_THEATER</title>					
+			<title>Combined_4:00 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>SOS PLANET PRESENTATION (PLP)</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
@@ -2718,15 +2718,15 @@
 								
 			<title>Dome_Show7_TIME</title>					
 								
-			<description>4:15 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_4:15 PM_TITLE</title>					
+			<title>Dome_4:00 PM_TITLE</title>					
 								
-			<description>SOS PLANET PRESENTATION (PLP)</description>					
+			<description>VAST</description>					
 								
 		</item>						
 								
