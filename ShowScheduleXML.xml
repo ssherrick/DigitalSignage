@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>CAMP LIVING WORLDS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:00 AM, 3:00 PM</description>					
+			<description>10:00 AM, 1:00 PM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>CAMP ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM, 2:00 PM, 6:00 PM</description>					
+			<description>12:00 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>CAMP 3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>CAMP DEEP SKY 2D</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>2:30 PM</description>					
+			<description>2:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>LIVING WORLDS</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>3:00 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>THE BLUE ANGELS 3D</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>5:00 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>CAMP LIVING WORLDS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>CAMP LIVING WORLDS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>CAMP ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>CAMP ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>CAMP 3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
@@ -1046,7 +1046,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>CAMP 3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>CAMP DEEP SKY 2D</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -1086,7 +1086,7 @@
 								
 			<title>Combined_2:30 PM_TITLE</title>					
 								
-			<description>CAMP DEEP SKY 2D</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>CAMP ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:30 AM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>CAMP ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -1966,7 +1966,7 @@
 								
 			<title>IMAX_Show5_TITLE</title>					
 								
-			<description>CAMP DEEP SKY 2D</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -1982,7 +1982,7 @@
 								
 			<title>IMAX_2:30 PM_TITLE</title>					
 								
-			<description>CAMP DEEP SKY 2D</description>					
+			<description>THE BLUE ANGELS 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>CAMP LIVING WORLDS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>CAMP LIVING WORLDS</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>CAMP 3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>CAMP 3-2-1 LIFTOFF!</description>					
 								
 		</item>						
 								
