@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:00 AM, 1:00 PM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM, 2:30 PM, 6:30 PM</description>					
+			<description>10:00 AM, 2:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM, 4:00 PM</description>					
+			<description>11:00 AM, 2:00 PM, 4:00 PM</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>11:30 AM, 1:30 PM, 3:30 PM, 5:30 PM</description>					
+			<description>11:00 AM, 1:00 PM, 3:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM, 3:00 PM, 6:00 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM, 3:00 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -150,7 +150,7 @@
 								
 			<title>Grouped_Show6_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>LASER HALLOWEEN</description>					
+			<description>ACCIDENTAL ASTRONAUTS</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>2:00 PM, 7:00 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description> </description>					
+			<description>LASER HALLOWEEN</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
 								
 		</item>						
 								
@@ -758,13 +758,13 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_TITLE</title>					
+			<title>Combined_10:00 AM_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -772,7 +772,7 @@
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_THEATER</title>					
+			<title>Combined_10:00 AM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -838,13 +838,13 @@
 								
 			<title>Combined_Show4_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:30 AM_TITLE</title>					
+			<title>Combined_11:00 AM_TITLE</title>					
 								
 			<description>WILD RESCUE 3D</description>					
 								
@@ -852,7 +852,7 @@
 								
 		<item>						
 								
-			<title>Combined_11:30 AM_THEATER</title>					
+			<title>Combined_11:00 AM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -870,13 +870,53 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show5_TIME</title>					
+								
+			<description>12:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_12:00 PM_TITLE</title>					
+								
+			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_12:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show5_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show6_TITLE</title>					
+								
+			<description>BIRTH OF PLANET EARTH</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show6_TIME</title>					
 								
 			<description>12:00 PM</description>					
 								
@@ -900,49 +940,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show5_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show6_TITLE</title>					
-								
-			<description>T. REX 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show6_TIME</title>					
-								
-			<description>12:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_12:30 PM_TITLE</title>					
-								
-			<description>T. REX 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_12:30 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show6_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -998,13 +998,13 @@
 								
 			<title>Combined_Show8_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:30 PM_TITLE</title>					
+			<title>Combined_1:00 PM_TITLE</title>					
 								
 			<description>WILD RESCUE 3D</description>					
 								
@@ -1012,7 +1012,7 @@
 								
 		<item>						
 								
-			<title>Combined_1:30 PM_THEATER</title>					
+			<title>Combined_1:00 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>LASER HALLOWEEN</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -1046,7 +1046,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>LASER HALLOWEEN</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -1878,13 +1878,13 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_10:30 AM_TITLE</title>					
+			<title>IMAX_10:00 AM_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -1902,13 +1902,13 @@
 								
 			<title>IMAX_Show2_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_11:30 AM_TITLE</title>					
+			<title>IMAX_11:00 AM_TITLE</title>					
 								
 			<description>WILD RESCUE 3D</description>					
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -1926,15 +1926,15 @@
 								
 			<title>IMAX_Show3_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_12:30 PM_TITLE</title>					
+			<title>IMAX_12:00 PM_TITLE</title>					
 								
-			<description>T. REX 3D</description>					
+			<description>SCHOOL ASTEROID HUNTERS 3D</description>					
 								
 		</item>						
 								
@@ -1950,13 +1950,13 @@
 								
 			<title>IMAX_Show4_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_1:30 PM_TITLE</title>					
+			<title>IMAX_1:00 PM_TITLE</title>					
 								
 			<description>WILD RESCUE 3D</description>					
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>ACCIDENTAL ASTRONAUTS</description>					
+			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>LASER HALLOWEEN</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>LASER HALLOWEEN</description>					
+			<description>WORLDS BEYOND EARTH</description>					
 								
 		</item>						
 								
