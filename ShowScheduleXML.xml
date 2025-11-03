@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM, 2:30 PM, 6:30 PM</description>					
+			<description>10:00 AM, 2:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>11:30 AM, 1:30 PM, 3:30 PM, 5:30 PM</description>					
+			<description>11:00 AM, 1:00 PM, 3:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
@@ -758,13 +758,13 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_TITLE</title>					
+			<title>Combined_10:00 AM_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -772,7 +772,7 @@
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_THEATER</title>					
+			<title>Combined_10:00 AM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -838,13 +838,13 @@
 								
 			<title>Combined_Show4_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:30 AM_TITLE</title>					
+			<title>Combined_11:00 AM_TITLE</title>					
 								
 			<description>WILD RESCUE 3D</description>					
 								
@@ -852,7 +852,7 @@
 								
 		<item>						
 								
-			<title>Combined_11:30 AM_THEATER</title>					
+			<title>Combined_11:00 AM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -918,13 +918,13 @@
 								
 			<title>Combined_Show6_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:30 PM_TITLE</title>					
+			<title>Combined_12:00 PM_TITLE</title>					
 								
 			<description>T. REX 3D</description>					
 								
@@ -932,7 +932,7 @@
 								
 		<item>						
 								
-			<title>Combined_12:30 PM_THEATER</title>					
+			<title>Combined_12:00 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -998,13 +998,13 @@
 								
 			<title>Combined_Show8_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:30 PM_TITLE</title>					
+			<title>Combined_1:00 PM_TITLE</title>					
 								
 			<description>WILD RESCUE 3D</description>					
 								
@@ -1012,7 +1012,7 @@
 								
 		<item>						
 								
-			<title>Combined_1:30 PM_THEATER</title>					
+			<title>Combined_1:00 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1878,13 +1878,13 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_10:30 AM_TITLE</title>					
+			<title>IMAX_10:00 AM_TITLE</title>					
 								
 			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
@@ -1902,13 +1902,13 @@
 								
 			<title>IMAX_Show2_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_11:30 AM_TITLE</title>					
+			<title>IMAX_11:00 AM_TITLE</title>					
 								
 			<description>WILD RESCUE 3D</description>					
 								
@@ -1926,13 +1926,13 @@
 								
 			<title>IMAX_Show3_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_12:30 PM_TITLE</title>					
+			<title>IMAX_12:00 PM_TITLE</title>					
 								
 			<description>T. REX 3D</description>					
 								
@@ -1950,13 +1950,13 @@
 								
 			<title>IMAX_Show4_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_1:30 PM_TITLE</title>					
+			<title>IMAX_1:00 PM_TITLE</title>					
 								
 			<description>WILD RESCUE 3D</description>					
 								
