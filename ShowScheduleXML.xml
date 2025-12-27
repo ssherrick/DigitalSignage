@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY FRIENDLY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:00 AM</description>					
+			<description>10:00 AM, 10:30 AM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY FRIENDLY - BORN TO BE WILD (2D)</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM, 2:30 PM, 6:30 PM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM, 2:00 PM, 4:00 PM, 5:00 PM, 7:15 PM</description>					
+			<description>12:00 PM, 2:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:00 PM</description>					
+			<description>2:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>SPACE: THE NEW FRONTIER 3D</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>3:00 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>LASER AC/DC</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>8:15 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>LASER MAESTRO PRESENTS RUSH</description>					
+			<description>LIVE: NIGHT VISION - WAVES IN NATURE</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description>5:30 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description> </description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description></description>					
+			<description>9:30 PM</description>					
 								
 		</item>						
 								
@@ -342,7 +342,7 @@
 								
 			<title>Grouped_Show14_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -350,7 +350,7 @@
 								
 			<title>Grouped_Show15_TITLE</title>					
 								
-			<description> </description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -358,7 +358,7 @@
 								
 			<title>Grouped_Show15_TIME</title>					
 								
-			<description></description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
@@ -366,7 +366,7 @@
 								
 			<title>Grouped_Show15_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY FRIENDLY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY FRIENDLY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY FRIENDLY - BORN TO BE WILD (2D)</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY FRIENDLY - BORN TO BE WILD (2D)</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
@@ -1198,21 +1198,21 @@
 								
 			<title>Combined_Show13_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:00 PM_TITLE</title>					
+			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:00 PM_THEATER</title>					
+			<title>Combined_4:30 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+			<description>LIVE: NIGHT VISION - WAVES IN NATURE</description>					
 								
 		</item>						
 								
@@ -1278,21 +1278,21 @@
 								
 			<title>Combined_Show15_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>5:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_TITLE</title>					
+			<title>Combined_5:30 PM_TITLE</title>					
 								
-			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+			<description>LIVE: NIGHT VISION - WAVES IN NATURE</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_THEATER</title>					
+			<title>Combined_5:30 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
 		</item>						
 								
@@ -1358,47 +1358,7 @@
 								
 			<title>Combined_Show17_TIME</title>					
 								
-			<description>6:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:00 PM_TITLE</title>					
-								
-			<description>BEAUTIFICA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:00 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show18_TITLE</title>					
-								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
-								
-		</item>						
-								
-		<item>						
-			<title>Combined_Show18_TIME</title>					
-								
 			<description>6:30 PM</description>					
-								
 								
 		</item>						
 								
@@ -1420,7 +1380,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_THEATER</title>					
+			<title>Combined_Show17_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1428,47 +1388,47 @@
 								
 		<item>						
 								
+			<title>Combined_Show18_TITLE</title>					
+								
+			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+								
+		</item>						
+								
+		<item>						
+			<title>Combined_Show18_TIME</title>					
+								
+			<description>7:00 PM</description>					
+								
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_TITLE</title>					
+								
+			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
 			<title>Combined_Show19_TITLE</title>					
-								
-			<description>BEAUTIFICA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TIME</title>					
-								
-			<description>7:15 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_7:15 PM_TITLE</title>					
-								
-			<description>BEAUTIFICA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_7:15 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TITLE</title>					
 								
 			<description>WILD RESCUE 3D</description>					
 								
@@ -1476,7 +1436,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show20_TIME</title>					
+			<title>Combined_Show19_TIME</title>					
 								
 			<description>7:30 PM</description>					
 								
@@ -1500,7 +1460,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show20_THEATER</title>					
+			<title>Combined_Show19_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1508,7 +1468,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show21_TITLE</title>					
+			<title>Combined_Show20_TITLE</title>					
 								
 			<description>LASER AC/DC</description>					
 								
@@ -1516,7 +1476,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show21_TIME</title>					
+			<title>Combined_Show20_TIME</title>					
 								
 			<description>8:15 PM</description>					
 								
@@ -1540,7 +1500,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show21_THEATER</title>					
+			<title>Combined_Show20_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1548,7 +1508,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show22_TITLE</title>					
+			<title>Combined_Show21_TITLE</title>					
 								
 			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
@@ -1556,7 +1516,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show22_TIME</title>					
+			<title>Combined_Show21_TIME</title>					
 								
 			<description>9:30 PM</description>					
 								
@@ -1580,7 +1540,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show22_THEATER</title>					
+			<title>Combined_Show21_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1588,7 +1548,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show23_TITLE</title>					
+			<title>Combined_Show22_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
 								
@@ -1596,7 +1556,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show23_TIME</title>					
+			<title>Combined_Show22_TIME</title>					
 								
 			<description>10:45 PM</description>					
 								
@@ -1620,9 +1580,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show23_THEATER</title>					
+			<title>Combined_Show22_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__THEATER</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_THEATER</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY FRIENDLY - BORN TO BE WILD (2D)</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:30 AM_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY FRIENDLY - BORN TO BE WILD (2D)</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY FRIENDLY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY FRIENDLY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
@@ -2718,15 +2718,15 @@
 								
 			<title>Dome_Show7_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_4:00 PM_TITLE</title>					
+			<title>Dome_4:30 PM_TITLE</title>					
 								
-			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+			<description>PREP TIME</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+			<description>LIVE: NIGHT VISION - WAVES IN NATURE</description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>5:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_5:00 PM_TITLE</title>					
+			<title>Dome_5:30 PM_TITLE</title>					
 								
-			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
+			<description>LIVE: NIGHT VISION - WAVES IN NATURE</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
 								
 		</item>						
 								
@@ -2766,15 +2766,15 @@
 								
 			<title>Dome_Show9_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_6:00 PM_TITLE</title>					
+			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
+			<description>LASER TRANS-SIBERIAN ORCHESTRA</description>					
 								
 		</item>						
 								
@@ -2782,37 +2782,13 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>BEAUTIFICA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show10_TIME</title>					
-								
-			<description>7:15 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_7:15 PM_TITLE</title>					
-								
-			<description>BEAUTIFICA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show11_TITLE</title>					
-								
 			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_Show11_TIME</title>					
+			<title>Dome_Show10_TIME</title>					
 								
 			<description>8:15 PM</description>					
 								
@@ -2828,7 +2804,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show12_TITLE</title>					
+			<title>Dome_Show11_TITLE</title>					
 								
 			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
@@ -2836,7 +2812,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show12_TIME</title>					
+			<title>Dome_Show11_TIME</title>					
 								
 			<description>9:30 PM</description>					
 								
@@ -2852,7 +2828,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show13_TITLE</title>					
+			<title>Dome_Show12_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
 								
@@ -2860,7 +2836,7 @@
 								
 		<item>						
 								
-			<title>Dome_Show13_TIME</title>					
+			<title>Dome_Show12_TIME</title>					
 								
 			<description>10:45 PM</description>					
 								
@@ -2871,6 +2847,30 @@
 			<title>Dome_10:45 PM_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show13_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show13_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome__TITLE</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
