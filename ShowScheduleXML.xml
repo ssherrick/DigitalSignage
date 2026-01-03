@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY SATURDAY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY SATURDAY - SHARK KINGDOM (2D)</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM, 2:30 PM, 6:30 PM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>BBC EARTH: ANTARCTICA 3D</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:00 PM</description>					
+			<description>2:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -198,7 +198,7 @@
 								
 			<title>Grouped_Show8_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>SPACE: THE NEW FRONTIER 3D</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>3:00 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>LASER AC/DC</description>					
+			<description>SPACE: THE NEW FRONTIER 3D</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>8:15 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>LASER MAESTRO PRESENTS RUSH</description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description>8:15 PM</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description>9:30 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY SATURDAY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY SATURDAY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY SATURDAY - SHARK KINGDOM (2D)</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY SATURDAY - SHARK KINGDOM (2D)</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY SATURDAY - SHARK KINGDOM (2D)</description>					
 								
 		</item>						
 								
@@ -1886,7 +1886,7 @@
 								
 			<title>IMAX_10:30 AM_TITLE</title>					
 								
-			<description>BBC EARTH: ANTARCTICA 3D</description>					
+			<description>SENSORY SATURDAY - SHARK KINGDOM (2D)</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY SATURDAY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>PERFECT LITTLE PLANET</description>					
+			<description>SENSORY SATURDAY - ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
