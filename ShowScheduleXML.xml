@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description> </description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>8:30 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>9:45 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description> </description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
@@ -342,7 +342,7 @@
 								
 			<title>Grouped_Show14_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1510,7 +1510,7 @@
 								
 			<title>Combined_Show21_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -1518,23 +1518,23 @@
 								
 			<title>Combined_Show21_TIME</title>					
 								
-			<description></description>					
+			<description>8:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_8:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_8:30 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1542,7 +1542,7 @@
 								
 			<title>Combined_Show21_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1550,7 +1550,7 @@
 								
 			<title>Combined_Show22_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
@@ -1558,23 +1558,23 @@
 								
 			<title>Combined_Show22_TIME</title>					
 								
-			<description></description>					
+			<description>9:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_9:45 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_9:45 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1582,7 +1582,7 @@
 								
 			<title>Combined_Show22_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1590,7 +1590,7 @@
 								
 			<title>Combined_Show23_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -1598,23 +1598,23 @@
 								
 			<title>Combined_Show23_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_11:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_11:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1622,7 +1622,7 @@
 								
 			<title>Combined_Show23_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2806,7 +2806,7 @@
 								
 			<title>Dome_Show11_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -2814,15 +2814,15 @@
 								
 			<title>Dome_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>8:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_8:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER AC/DC</description>					
 								
 		</item>						
 								
@@ -2830,7 +2830,7 @@
 								
 			<title>Dome_Show12_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
@@ -2838,15 +2838,15 @@
 								
 			<title>Dome_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>9:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_9:45 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
@@ -2854,7 +2854,7 @@
 								
 			<title>Dome_Show13_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -2862,15 +2862,15 @@
 								
 			<title>Dome_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>11:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_11:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
