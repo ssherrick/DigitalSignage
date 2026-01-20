@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:00 AM, 1:00 PM, 5:30 PM</description>					
+			<description>10:00 AM, 1:00 PM</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:00 PM, 2:30 PM, 4:30 PM, 6:30 PM</description>					
+			<description>12:00 PM, 2:30 PM, 4:30 PM</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>2:00 PM, 6:00 PM, 7:30 PM, 8:30 PM</description>					
+			<description>2:00 PM, 5:30 PM, 6:00 PM, 7:30 PM, 8:30 PM</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>BACKYARD WILDERNESS 3D</description>					
+			<description>CLARK AFTER DARK</description>					
 								
 		</item>						
 								
@@ -1326,7 +1326,7 @@
 								
 			<title>Combined_5:30 PM_TITLE</title>					
 								
-			<description>BACKYARD WILDERNESS 3D</description>					
+			<description>CLARK AFTER DARK</description>					
 								
 		</item>						
 								
@@ -1390,29 +1390,29 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>CLARK AFTER DARK - BBC EARTH ANTARCTICA 3D</description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>7:30 PM</description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:30 PM_TITLE</title>					
+			<title>Combined_7:30 PM_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>CLARK AFTER DARK - BBC EARTH ANTARCTICA 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:30 PM_THEATER</title>					
+			<title>Combined_7:30 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1438,46 +1438,6 @@
 								
 			<title>Combined_Show19_TIME</title>					
 								
-			<description>7:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_7:30 PM_TITLE</title>					
-								
-			<description>CLARK AFTER DARK - BBC EARTH ANTARCTICA 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_7:30 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TITLE</title>					
-								
-			<description>CLARK AFTER DARK - BBC EARTH ANTARCTICA 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TIME</title>					
-								
 			<description>8:30 PM</description>					
 								
 		</item>						
@@ -1500,9 +1460,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show20_THEATER</title>					
+			<title>Combined_Show19_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__THEATER</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_THEATER</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>BACKYARD WILDERNESS 3D</description>					
+			<description>CLARK AFTER DARK</description>					
 								
 		</item>						
 								
@@ -2054,7 +2054,7 @@
 								
 			<title>IMAX_5:30 PM_TITLE</title>					
 								
-			<description>BACKYARD WILDERNESS 3D</description>					
+			<description>CLARK AFTER DARK</description>					
 								
 		</item>						
 								
@@ -2062,37 +2062,13 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show9_TIME</title>					
-								
-			<description>6:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_6:30 PM_TITLE</title>					
-								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show10_TITLE</title>					
-								
 			<description>CLARK AFTER DARK - BBC EARTH ANTARCTICA 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show10_TIME</title>					
+			<title>IMAX_Show9_TIME</title>					
 								
 			<description>7:30 PM</description>					
 								
@@ -2108,7 +2084,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show11_TITLE</title>					
+			<title>IMAX_Show10_TITLE</title>					
 								
 			<description>CLARK AFTER DARK - BBC EARTH ANTARCTICA 3D</description>					
 								
@@ -2116,7 +2092,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show11_TIME</title>					
+			<title>IMAX_Show10_TIME</title>					
 								
 			<description>8:30 PM</description>					
 								
@@ -2127,6 +2103,30 @@
 			<title>IMAX_8:30 PM_TITLE</title>					
 								
 			<description>CLARK AFTER DARK - BBC EARTH ANTARCTICA 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show11_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show11_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX__TITLE</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
