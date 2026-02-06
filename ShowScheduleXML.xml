@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>WOMEN AND GIRLS IN SCIENCE - IMAX</description>					
+			<description>5000 EYES</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>5:30 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>5000 EYES</description>					
+			<description>WOMEN AND GIRLS IN SCIENCE - IMAX</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1310,53 +1310,13 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>WOMEN AND GIRLS IN SCIENCE - IMAX</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TIME</title>					
-								
-			<description>5:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_5:30 PM_TITLE</title>					
-								
-			<description>WOMEN AND GIRLS IN SCIENCE - IMAX</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_5:30 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TITLE</title>					
-								
 			<description>5000 EYES</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show17_TIME</title>					
+			<title>Combined_Show16_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -1380,9 +1340,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_THEATER</title>					
+			<title>Combined_Show16_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>WOMEN AND GIRLS IN SCIENCE - IMAX</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
+								
+			<description>6:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_TITLE</title>					
+								
+			<description>WOMEN AND GIRLS IN SCIENCE - IMAX</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2046,13 +2046,13 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description>5:30 PM</description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_5:30 PM_TITLE</title>					
+			<title>IMAX_6:30 PM_TITLE</title>					
 								
 			<description>WOMEN AND GIRLS IN SCIENCE - IMAX</description>					
 								
