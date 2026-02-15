@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM, 4:00 PM</description>					
+			<description>11:00 AM, 5:00 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -1190,53 +1190,13 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>RESERVED - QUALIA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show13_TIME</title>					
-								
-			<description>4:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_4:00 PM_TITLE</title>					
-								
-			<description>RESERVED - QUALIA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_4:00 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show13_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TITLE</title>					
-								
 			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show14_TIME</title>					
+			<title>Combined_Show13_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -1260,9 +1220,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show14_THEATER</title>					
+			<title>Combined_Show13_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TITLE</title>					
+								
+			<description>QUALIA</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TIME</title>					
+								
+			<description>5:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:00 PM_TITLE</title>					
+								
+			<description>QUALIA</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description></description>					
+			<description>QUALIA</description>					
 								
 		</item>						
 								
@@ -1358,23 +1358,23 @@
 								
 			<title>Combined_Show17_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_6:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>QUALIA</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_6:30 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1382,7 +1382,7 @@
 								
 			<title>Combined_Show17_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>RESERVED - QUALIA</description>					
+			<description>QUALIA</description>					
 								
 		</item>						
 								
@@ -2718,15 +2718,15 @@
 								
 			<title>Dome_Show7_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>5:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_4:00 PM_TITLE</title>					
+			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>RESERVED - QUALIA</description>					
+			<description>QUALIA</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description></description>					
+			<description>QUALIA</description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_6:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>QUALIA</description>					
 								
 		</item>						
 								
