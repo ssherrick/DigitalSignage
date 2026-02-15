@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>HOLD - EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 4:00 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>RESERVED - QUALIA</description>					
+			<description>SHARK KINGDOM 3D</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>SHARK KINGDOM 3D</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -246,7 +246,7 @@
 								
 			<title>Grouped_Show10_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>HOLD - EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>HOLD - EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>HOLD - EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_11:00 AM_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>HOLD - EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
 								
 		</item>						
 								
