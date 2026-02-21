@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>HOLD - 5000 EYES</description>					
+			<description>5000 EYES</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>9:30 PM</description>					
+			<description>9:30 PM, 10:45 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>HOLD - DARK SIDE OF THE MOON</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>10:45 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>HOLD - DARK UNIVERSE</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>HOLD - DARK UNIVERSE</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>HOLD - BIRTH OF PLANET EARTH</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:00 PM_TITLE</title>					
 								
-			<description>HOLD - BIRTH OF PLANET EARTH</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>HOLD - 5000 EYES</description>					
+			<description>5000 EYES</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>HOLD - 5000 EYES</description>					
+			<description>5000 EYES</description>					
 								
 		</item>						
 								
@@ -1590,7 +1590,7 @@
 								
 			<title>Combined_Show23_TITLE</title>					
 								
-			<description>HOLD - DARK SIDE OF THE MOON</description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
@@ -1606,7 +1606,7 @@
 								
 			<title>Combined_10:45 PM_TITLE</title>					
 								
-			<description>HOLD - DARK SIDE OF THE MOON</description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>HOLD - DARK UNIVERSE</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_4:00 PM_TITLE</title>					
 								
-			<description>HOLD - DARK UNIVERSE</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>HOLD - BIRTH OF PLANET EARTH</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>HOLD - BIRTH OF PLANET EARTH</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>HOLD - 5000 EYES</description>					
+			<description>5000 EYES</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>HOLD - 5000 EYES</description>					
+			<description>5000 EYES</description>					
 								
 		</item>						
 								
@@ -2854,7 +2854,7 @@
 								
 			<title>Dome_Show13_TITLE</title>					
 								
-			<description>HOLD - DARK SIDE OF THE MOON</description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
@@ -2870,7 +2870,7 @@
 								
 			<title>Dome_10:45 PM_TITLE</title>					
 								
-			<description>HOLD - DARK SIDE OF THE MOON</description>					
+			<description>LASER MAESTRO PRESENTS RUSH</description>					
 								
 		</item>						
 								
