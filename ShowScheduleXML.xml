@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:00 PM, 5:00 PM</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description>ARTEMIS II LAUNCH WINDOW</description>					
+			<description>5000 EYES</description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description>5:00 PM, 6:00 PM, 7:30 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -374,7 +374,7 @@
 								
 			<title>Grouped_Show16_TITLE</title>					
 								
-			<description> </description>					
+			<description>U OF U ASTRONOMY NIGHT</description>					
 								
 		</item>						
 								
@@ -390,7 +390,7 @@
 								
 			<title>Grouped_Show16_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>ARTEMIS II LAUNCH WINDOW</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1326,7 +1326,7 @@
 								
 			<title>Combined_5:00 PM_TITLE</title>					
 								
-			<description>ARTEMIS II LAUNCH WINDOW</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1390,7 +1390,7 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>ARTEMIS II LAUNCH WINDOW</description>					
+			<description>5000 EYES</description>					
 								
 		</item>						
 								
@@ -1406,7 +1406,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>ARTEMIS II LAUNCH WINDOW</description>					
+			<description>5000 EYES</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>Artemis II Launch Window</description>					
+			<description>Birth of Planet Earth</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>Artemis II Launch Window</description>					
+			<description>Birth of Planet Earth</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>Artemis II Launch Window</description>					
+			<description>5000 Eyes</description>					
 								
 		</item>						
 								
@@ -2798,7 +2798,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>Artemis II Launch Window</description>					
+			<description>5000 Eyes</description>					
 								
 		</item>						
 								
