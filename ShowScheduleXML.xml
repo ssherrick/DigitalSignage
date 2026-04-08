@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM, 2:00 PM</description>					
+			<description>11:00 AM, 1:00 PM, 3:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>WILD ASIA 3D</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>1:00 PM, 3:30 PM, 6:30 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
@@ -150,7 +150,7 @@
 								
 			<title>Grouped_Show6_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>Dark Universe</description>					
+			<description>Wild Asia 3D</description>					
 								
 		</item>						
 								
@@ -1910,7 +1910,7 @@
 								
 			<title>IMAX_11:00 AM_TITLE</title>					
 								
-			<description>Dark Universe</description>					
+			<description>Wild Asia 3D</description>					
 								
 		</item>						
 								
