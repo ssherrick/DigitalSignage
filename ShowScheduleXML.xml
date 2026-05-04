@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>STAR WARS TRIVIA</description>					
+			<description>STAR WARS TRIVIA BEGINS</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>5:00 PM, 6:00 PM</description>					
+			<description>5:00 PM, 8:00 PM</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>STAR WARS TRIVIA</description>					
+			<description>STAR WARS TRIVIA BEGINS</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:00 PM_TITLE</title>					
 								
-			<description>STAR WARS TRIVIA</description>					
+			<description>STAR WARS TRIVIA BEGINS</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>STAR WARS TRIVIA</description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -1358,47 +1358,7 @@
 								
 			<title>Combined_Show17_TIME</title>					
 								
-			<description>6:00 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:00 PM_TITLE</title>					
-								
-			<description>STAR WARS TRIVIA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_6:00 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show18_TITLE</title>					
-								
-			<description>WILD ASIA 3D</description>					
-								
-		</item>						
-								
-		<item>						
-			<title>Combined_Show18_TIME</title>					
-								
 			<description>6:30 PM</description>					
-								
 								
 		</item>						
 								
@@ -1420,9 +1380,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_THEATER</title>					
+			<title>Combined_Show17_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_TITLE</title>					
+								
+			<description>STAR WARS TRIVIA ENDS</description>					
+								
+		</item>						
+								
+		<item>						
+			<title>Combined_Show18_TIME</title>					
+								
+			<description>8:00 PM</description>					
+								
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_TITLE</title>					
+								
+			<description>STAR WARS TRIVIA ENDS</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:00 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>Star Wars Trivia</description>					
+			<description>Star Wars Trivia Begins</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>Star Wars Trivia</description>					
+			<description>Star Wars Trivia Begins</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>Star Wars Trivia</description>					
+			<description>Star Wars Trivia Ends</description>					
 								
 		</item>						
 								
@@ -2766,15 +2766,15 @@
 								
 			<title>Dome_Show9_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>8:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_6:00 PM_TITLE</title>					
+			<title>Dome_8:00 PM_TITLE</title>					
 								
-			<description>Star Wars Trivia</description>					
+			<description>Star Wars Trivia Ends</description>					
 								
 		</item>						
 								
