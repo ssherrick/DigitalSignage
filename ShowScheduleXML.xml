@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>8:00 AM</description>					
+			<description>8:00 AM, 9:00 AM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SUMER CAMP ASTEROID HUNTERS 3D</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:30 AM, 2:30 PM</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:30 PM, 2:30 PM, 5:30 PM</description>					
+			<description>12:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>INTO AMERICA'S WILD 3D</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SUMER CAMP ASTEROID HUNTERS 3D</description>					
+			<description>STAFF PREVIEW</description>					
 								
 		</item>						
 								
@@ -758,21 +758,21 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>9:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_TITLE</title>					
+			<title>Combined_9:00 AM_TITLE</title>					
 								
-			<description>SUMER CAMP ASTEROID HUNTERS 3D</description>					
+			<description>STAFF PREVIEW</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_THEATER</title>					
+			<title>Combined_9:00 AM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -790,13 +790,53 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>WILD ASIA 3D</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show3_TIME</title>					
+								
+			<description>10:30 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:30 AM_TITLE</title>					
+								
+			<description>A BEAUTIFUL PLANET 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_10:30 AM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show3_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show4_TITLE</title>					
+								
+			<description>WILD ASIA 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show4_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -820,7 +860,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show3_THEATER</title>					
+			<title>Combined_Show4_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -828,7 +868,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show4_TITLE</title>					
+			<title>Combined_Show5_TITLE</title>					
 								
 			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
 								
@@ -836,7 +876,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show4_TIME</title>					
+			<title>Combined_Show5_TIME</title>					
 								
 			<description>12:30 PM</description>					
 								
@@ -860,46 +900,6 @@
 								
 		<item>						
 								
-			<title>Combined_Show4_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show5_TITLE</title>					
-								
-			<description>INTO AMERICA'S WILD 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show5_TIME</title>					
-								
-			<description>1:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_1:30 PM_TITLE</title>					
-								
-			<description>INTO AMERICA'S WILD 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_1:30 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show5_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
@@ -918,21 +918,21 @@
 								
 			<title>Combined_Show6_TIME</title>					
 								
-			<description>2:30 PM</description>					
+			<description>1:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_2:30 PM_TITLE</title>					
+			<title>Combined_1:30 PM_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>T. REX 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_2:30 PM_THEATER</title>					
+			<title>Combined_1:30 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -950,13 +950,53 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>APOLLO 11: FIRST STEPS (2D)</description>					
+			<description>SUMMER CAMP A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show7_TIME</title>					
+								
+			<description>2:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_2:30 PM_TITLE</title>					
+								
+			<description>SUMMER CAMP A BEAUTIFUL PLANET 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_2:30 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show7_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show8_TITLE</title>					
+								
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show8_TIME</title>					
 								
 			<description>3:30 PM</description>					
 								
@@ -980,7 +1020,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show7_THEATER</title>					
+			<title>Combined_Show8_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -988,7 +1028,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show8_TITLE</title>					
+			<title>Combined_Show9_TITLE</title>					
 								
 			<description>WILD ASIA 3D</description>					
 								
@@ -996,7 +1036,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show8_TIME</title>					
+			<title>Combined_Show9_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -1020,7 +1060,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show8_THEATER</title>					
+			<title>Combined_Show9_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1028,7 +1068,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_TITLE</title>					
+			<title>Combined_Show10_TITLE</title>					
 								
 			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
 								
@@ -1036,7 +1076,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_TIME</title>					
+			<title>Combined_Show10_TIME</title>					
 								
 			<description>5:30 PM</description>					
 								
@@ -1060,7 +1100,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show9_THEATER</title>					
+			<title>Combined_Show10_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1068,7 +1108,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show10_TITLE</title>					
+			<title>Combined_Show11_TITLE</title>					
 								
 			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
@@ -1076,7 +1116,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show10_TIME</title>					
+			<title>Combined_Show11_TIME</title>					
 								
 			<description>6:30 PM</description>					
 								
@@ -1100,49 +1140,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show10_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show11_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show11_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show11_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1870,13 +1870,37 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>Sumer Camp Asteroid Hunters 3D</description>					
+			<description>Staff Preview</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>IMAX_Show1_TIME</title>					
+								
+			<description>9:00 AM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_9:00 AM_TITLE</title>					
+								
+			<description>Staff Preview</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show2_TITLE</title>					
+								
+			<description>A Beautiful Planet 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>IMAX_Show2_TIME</title>					
 								
 			<description>10:30 AM</description>					
 								
@@ -1886,13 +1910,13 @@
 								
 			<title>IMAX_10:30 AM_TITLE</title>					
 								
-			<description>Sumer Camp Asteroid Hunters 3D</description>					
+			<description>A Beautiful Planet 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show2_TITLE</title>					
+			<title>IMAX_Show3_TITLE</title>					
 								
 			<description>Wild Asia 3D</description>					
 								
@@ -1900,7 +1924,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show2_TIME</title>					
+			<title>IMAX_Show3_TIME</title>					
 								
 			<description>11:30 AM</description>					
 								
@@ -1916,7 +1940,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show3_TITLE</title>					
+			<title>IMAX_Show4_TITLE</title>					
 								
 			<description>Lost Wolves of Yellowstone (2D)</description>					
 								
@@ -1924,7 +1948,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show3_TIME</title>					
+			<title>IMAX_Show4_TIME</title>					
 								
 			<description>12:30 PM</description>					
 								
@@ -1940,15 +1964,15 @@
 								
 		<item>						
 								
-			<title>IMAX_Show4_TITLE</title>					
+			<title>IMAX_Show5_TITLE</title>					
 								
-			<description>Into America's Wild 3D</description>					
+			<description>T. Rex 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show4_TIME</title>					
+			<title>IMAX_Show5_TIME</title>					
 								
 			<description>1:30 PM</description>					
 								
@@ -1958,21 +1982,21 @@
 								
 			<title>IMAX_1:30 PM_TITLE</title>					
 								
-			<description>Into America's Wild 3D</description>					
+			<description>T. Rex 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show5_TITLE</title>					
+			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>Lost Wolves of Yellowstone (2D)</description>					
+			<description>Summer Camp A Beautiful Planet 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show5_TIME</title>					
+			<title>IMAX_Show6_TIME</title>					
 								
 			<description>2:30 PM</description>					
 								
@@ -1982,13 +2006,13 @@
 								
 			<title>IMAX_2:30 PM_TITLE</title>					
 								
-			<description>Lost Wolves of Yellowstone (2D)</description>					
+			<description>Summer Camp A Beautiful Planet 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_Show6_TITLE</title>					
+			<title>IMAX_Show7_TITLE</title>					
 								
 			<description>Apollo 11: First Steps (2D)</description>					
 								
@@ -1996,7 +2020,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show6_TIME</title>					
+			<title>IMAX_Show7_TIME</title>					
 								
 			<description>3:30 PM</description>					
 								
@@ -2012,7 +2036,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show7_TITLE</title>					
+			<title>IMAX_Show8_TITLE</title>					
 								
 			<description>Wild Asia 3D</description>					
 								
@@ -2020,7 +2044,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show7_TIME</title>					
+			<title>IMAX_Show8_TIME</title>					
 								
 			<description>4:30 PM</description>					
 								
@@ -2036,7 +2060,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show8_TITLE</title>					
+			<title>IMAX_Show9_TITLE</title>					
 								
 			<description>Lost Wolves of Yellowstone (2D)</description>					
 								
@@ -2044,7 +2068,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show8_TIME</title>					
+			<title>IMAX_Show9_TIME</title>					
 								
 			<description>5:30 PM</description>					
 								
@@ -2060,7 +2084,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show9_TITLE</title>					
+			<title>IMAX_Show10_TITLE</title>					
 								
 			<description>National Parks Adventure 3D</description>					
 								
@@ -2068,7 +2092,7 @@
 								
 		<item>						
 								
-			<title>IMAX_Show9_TIME</title>					
+			<title>IMAX_Show10_TIME</title>					
 								
 			<description>6:30 PM</description>					
 								
@@ -2079,30 +2103,6 @@
 			<title>IMAX_6:30 PM_TITLE</title>					
 								
 			<description>National Parks Adventure 3D</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show10_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX_Show10_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>IMAX__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
