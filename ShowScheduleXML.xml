@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>WORLDS BEYOND EARTH</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM, 4:00 PM</description>					
+			<description>12:00 PM, 4:00 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:00 PM, 5:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>INTO AMERICA'S WILD 3D</description>					
+			<description>SCHOOL T. REX 3D</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>2:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>SUMMER CAMP SKYWATCH</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>HOLD HYDRAULIC INSTITUTE RECEPTION</description>					
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>5:00 PM, 6:00 PM, 7:00 PM, 8:00 PM</description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>WORLDS BEYOND EARTH</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>WORLDS BEYOND EARTH</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -990,7 +990,7 @@
 								
 			<title>Combined_Show8_TITLE</title>					
 								
-			<description>INTO AMERICA'S WILD 3D</description>					
+			<description>SCHOOL T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1006,7 +1006,7 @@
 								
 			<title>Combined_1:30 PM_TITLE</title>					
 								
-			<description>INTO AMERICA'S WILD 3D</description>					
+			<description>SCHOOL T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>SUMMER CAMP SKYWATCH</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_3:00 PM_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>SUMMER CAMP SKYWATCH</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>HOLD HYDRAULIC INSTITUTE RECEPTION</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:00 PM_TITLE</title>					
 								
-			<description>HOLD HYDRAULIC INSTITUTE RECEPTION</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>HOLD HYDRAULIC INSTITUTE RECEPTION</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>HOLD HYDRAULIC INSTITUTE RECEPTION</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description>HOLD HYDRAULIC INSTITUTE RECEPTION</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1446,7 +1446,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>HOLD HYDRAULIC INSTITUTE RECEPTION</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1470,7 +1470,7 @@
 								
 			<title>Combined_Show20_TITLE</title>					
 								
-			<description>HOLD HYDRAULIC INSTITUTE RECEPTION</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1478,23 +1478,23 @@
 								
 			<title>Combined_Show20_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 PM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>HOLD HYDRAULIC INSTITUTE RECEPTION</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_8:00 PM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1502,7 +1502,7 @@
 								
 			<title>Combined_Show20_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1942,7 +1942,7 @@
 								
 			<title>IMAX_Show4_TITLE</title>					
 								
-			<description>Into America's Wild 3D</description>					
+			<description>SCHOOL T. REX 3D</description>					
 								
 		</item>						
 								
@@ -1958,7 +1958,7 @@
 								
 			<title>IMAX_1:30 PM_TITLE</title>					
 								
-			<description>Into America's Wild 3D</description>					
+			<description>SCHOOL T. REX 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>Worlds Beyond Earth</description>					
+			<description>Perfect Little Planet</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>Worlds Beyond Earth</description>					
+			<description>Perfect Little Planet</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>Black Holes</description>					
+			<description>Summer Camp Skywatch</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_3:00 PM_TITLE</title>					
 								
-			<description>Black Holes</description>					
+			<description>Summer Camp Skywatch</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>HOLD Hydraulic Institute Reception</description>					
+			<description>Birth of Planet Earth</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>HOLD Hydraulic Institute Reception</description>					
+			<description>Birth of Planet Earth</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>HOLD Hydraulic Institute Reception</description>					
+			<description>Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>HOLD Hydraulic Institute Reception</description>					
+			<description>Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>HOLD Hydraulic Institute Reception</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
@@ -2798,7 +2798,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>HOLD Hydraulic Institute Reception</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
@@ -2806,7 +2806,7 @@
 								
 			<title>Dome_Show11_TITLE</title>					
 								
-			<description>HOLD Hydraulic Institute Reception</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2814,15 +2814,15 @@
 								
 			<title>Dome_Show11_TIME</title>					
 								
-			<description>8:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_8:00 PM_TITLE</title>					
+			<title>Dome__TITLE</title>					
 								
-			<description>HOLD Hydraulic Institute Reception</description>					
+			<description></description>					
 								
 		</item>						
 								
