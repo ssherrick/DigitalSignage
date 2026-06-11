@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>SCHOOL ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>10:30 AM, 11:00 AM</description>					
 								
 		</item>						
 								
@@ -86,7 +86,7 @@
 								
 			<title>Grouped_Show4_TITLE</title>					
 								
-			<description>WILD ASIA 3D</description>					
+			<description>SCHOOL WILD RESCUE 3D</description>					
 								
 		</item>						
 								
@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>11:30 AM, 4:30 PM</description>					
+			<description>11:30 AM</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM, 4:00 PM, 6:00 PM</description>					
+			<description>12:00 PM, 4:00 PM</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:30 PM, 2:30 PM, 5:30 PM</description>					
+			<description>12:30 PM, 2:30 PM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM, 5:00 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>SCHOOL T. REX 3D</description>					
+			<description>INTO AMERICA'S WILD 3D</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>2:00 PM, 7:00 PM</description>					
+			<description>2:00 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>SUMMER CAMP SKYWATCH</description>					
+			<description>BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>4:45 PM, 6:00 PM, 7:15 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description> </description>					
+			<description>MEMBER EVENT - SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description></description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -342,7 +342,7 @@
 								
 			<title>Grouped_Show14_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -350,7 +350,7 @@
 								
 			<title>Grouped_Show15_TITLE</title>					
 								
-			<description> </description>					
+			<description>SCIUT LECTURE - BLACK HOLES: SCIENTIFIC DISCOVERY</description>					
 								
 		</item>						
 								
@@ -358,7 +358,7 @@
 								
 			<title>Grouped_Show15_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -366,7 +366,7 @@
 								
 			<title>Grouped_Show15_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>SCHOOL ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>SCHOOL ULTIMATE UNIVERSE</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>WILD ASIA 3D</description>					
+			<description>SCHOOL WILD RESCUE 3D</description>					
 								
 		</item>						
 								
@@ -846,7 +846,7 @@
 								
 			<title>Combined_11:30 AM_TITLE</title>					
 								
-			<description>WILD ASIA 3D</description>					
+			<description>SCHOOL WILD RESCUE 3D</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -926,7 +926,7 @@
 								
 			<title>Combined_12:30 PM_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -990,7 +990,7 @@
 								
 			<title>Combined_Show8_TITLE</title>					
 								
-			<description>SCHOOL T. REX 3D</description>					
+			<description>INTO AMERICA'S WILD 3D</description>					
 								
 		</item>						
 								
@@ -1006,7 +1006,7 @@
 								
 			<title>Combined_1:30 PM_TITLE</title>					
 								
-			<description>SCHOOL T. REX 3D</description>					
+			<description>INTO AMERICA'S WILD 3D</description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>SUMMER CAMP A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -1086,7 +1086,7 @@
 								
 			<title>Combined_2:30 PM_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>SUMMER CAMP A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>SUMMER CAMP SKYWATCH</description>					
+			<description>BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_3:00 PM_TITLE</title>					
 								
-			<description>SUMMER CAMP SKYWATCH</description>					
+			<description>BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1278,21 +1278,21 @@
 								
 			<title>Combined_Show15_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_TITLE</title>					
+			<title>Combined_4:45 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:00 PM_THEATER</title>					
+			<title>Combined_4:45 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1318,23 +1318,23 @@
 								
 			<title>Combined_Show16_TIME</title>					
 								
-			<description>5:30 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:30 PM_TITLE</title>					
+			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
+			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_5:30 PM_THEATER</title>					
+			<title>Combined_6:00 PM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1342,7 +1342,7 @@
 								
 			<title>Combined_Show16_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>MEMBER EVENT - SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>MEMBER EVENT - SUPERPOWER DOGS 3D</description>					
 								
 		</item>						
 								
@@ -1374,7 +1374,7 @@
 								
 			<title>Combined_6:00 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1382,7 +1382,7 @@
 								
 			<title>Combined_Show17_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1390,29 +1390,29 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description>SCIUT LECTURE - BLACK HOLES: SCIENTIFIC DISCOVERY</description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>7:00 PM</description>					
 								
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:30 PM_TITLE</title>					
+			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description>SCIUT LECTURE - BLACK HOLES: SCIENTIFIC DISCOVERY</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:30 PM_THEATER</title>					
+			<title>Combined_7:00 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description>LASER K-POP DEMON HUNTERS</description>					
+			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -1438,21 +1438,21 @@
 								
 			<title>Combined_Show19_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>7:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:00 PM_TITLE</title>					
+			<title>Combined_7:15 PM_TITLE</title>					
 								
-			<description>LASER K-POP DEMON HUNTERS</description>					
+			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:00 PM_THEATER</title>					
+			<title>Combined_7:15 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>Wild Asia 3D</description>					
+			<description>SCHOOL Wild Rescue 3D</description>					
 								
 		</item>						
 								
@@ -1910,7 +1910,7 @@
 								
 			<title>IMAX_11:30 AM_TITLE</title>					
 								
-			<description>Wild Asia 3D</description>					
+			<description>SCHOOL Wild Rescue 3D</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>Lost Wolves of Yellowstone (2D)</description>					
+			<description>A Beautiful Planet 3D</description>					
 								
 		</item>						
 								
@@ -1934,7 +1934,7 @@
 								
 			<title>IMAX_12:30 PM_TITLE</title>					
 								
-			<description>Lost Wolves of Yellowstone (2D)</description>					
+			<description>A Beautiful Planet 3D</description>					
 								
 		</item>						
 								
@@ -1942,7 +1942,7 @@
 								
 			<title>IMAX_Show4_TITLE</title>					
 								
-			<description>SCHOOL T. REX 3D</description>					
+			<description>Into America's Wild 3D</description>					
 								
 		</item>						
 								
@@ -1958,7 +1958,7 @@
 								
 			<title>IMAX_1:30 PM_TITLE</title>					
 								
-			<description>SCHOOL T. REX 3D</description>					
+			<description>Into America's Wild 3D</description>					
 								
 		</item>						
 								
@@ -1966,7 +1966,7 @@
 								
 			<title>IMAX_Show5_TITLE</title>					
 								
-			<description>Lost Wolves of Yellowstone (2D)</description>					
+			<description>Summer Camp A Beautiful Planet 3D</description>					
 								
 		</item>						
 								
@@ -1982,7 +1982,7 @@
 								
 			<title>IMAX_2:30 PM_TITLE</title>					
 								
-			<description>Lost Wolves of Yellowstone (2D)</description>					
+			<description>Summer Camp A Beautiful Planet 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>Lost Wolves of Yellowstone (2D)</description>					
+			<description>Member Event - Superpower Dogs 3D</description>					
 								
 		</item>						
 								
@@ -2046,15 +2046,15 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description>5:30 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_5:30 PM_TITLE</title>					
+			<title>IMAX_6:00 PM_TITLE</title>					
 								
-			<description>Lost Wolves of Yellowstone (2D)</description>					
+			<description>Member Event - Superpower Dogs 3D</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description>National Parks Adventure 3D</description>					
+			<description>SciUt Lecture - Black Holes: Scientific Discovery</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_6:30 PM_TITLE</title>					
+			<title>IMAX_7:00 PM_TITLE</title>					
 								
-			<description>National Parks Adventure 3D</description>					
+			<description>SciUt Lecture - Black Holes: Scientific Discovery</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>Dark Universe</description>					
+			<description>SCHOOL Ultimate Universe</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_11:00 AM_TITLE</title>					
 								
-			<description>Dark Universe</description>					
+			<description>SCHOOL Ultimate Universe</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>Summer Camp Skywatch</description>					
+			<description>Black Holes</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_3:00 PM_TITLE</title>					
 								
-			<description>Summer Camp Skywatch</description>					
+			<description>Black Holes</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>Birth of Planet Earth</description>					
+			<description>Private Event - Beautifica</description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description>5:00 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_5:00 PM_TITLE</title>					
+			<title>Dome_4:45 PM_TITLE</title>					
 								
-			<description>Birth of Planet Earth</description>					
+			<description>Private Event - Beautifica</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>Private Event - Beautifica</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>Private Event - Beautifica</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>Laser K-Pop Demon Hunters</description>					
+			<description>Private Event - Beautifica</description>					
 								
 		</item>						
 								
@@ -2790,15 +2790,15 @@
 								
 			<title>Dome_Show10_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>7:15 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_7:00 PM_TITLE</title>					
+			<title>Dome_7:15 PM_TITLE</title>					
 								
-			<description>Laser K-Pop Demon Hunters</description>					
+			<description>Private Event - Beautifica</description>					
 								
 		</item>						
 								
