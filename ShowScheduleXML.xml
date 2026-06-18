@@ -94,7 +94,7 @@
 								
 			<title>Grouped_Show4_TIME</title>					
 								
-			<description>12:00 PM, 2:00 PM, 4:00 PM, 6:00 PM</description>					
+			<description>12:00 PM, 2:00 PM</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>1:00 PM, 5:00 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>HOLD - BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:00 PM</description>					
+			<description>3:00 PM, 4:00 PM, 5:00 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>HOLD - BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_3:00 PM_TITLE</title>					
 								
-			<description>BLACK HOLES</description>					
+			<description>HOLD - BLACK HOLES</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>HOLD - FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>HOLD - FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>HOLD - BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:00 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>HOLD - BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>HOLD - FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>HOLD - FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>Black Holes</description>					
+			<description>HOLD - Black Holes</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_3:00 PM_TITLE</title>					
 								
-			<description>Black Holes</description>					
+			<description>HOLD - Black Holes</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>HOLD - Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_4:00 PM_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>HOLD - Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>Birth of Planet Earth</description>					
+			<description>HOLD - Birth of Planet Earth</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>Birth of Planet Earth</description>					
+			<description>HOLD - Birth of Planet Earth</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>HOLD - Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>HOLD - Faster Than Light</description>					
 								
 		</item>						
 								
