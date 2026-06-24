@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SUMMER CAMP FASTER THAN LIGHT</description>					
+			<description>SUMMER CAMP THE EDGE</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>9:00 AM, 4:00 PM</description>					
+			<description>9:00 AM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>SUMMER CAMP PERFECT LITTLE PLANET</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>LASER MAESTRO'S METAL MAYHEM</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>1:00 PM, 3:00 PM, 5:00 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>SUMMER CAMP DEEP SEA 3D</description>					
+			<description>SUMMER CAMP DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>APOLLO 11: FIRST STEPS (2D)</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>3:00 PM, 5:00 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>WILD ASIA 3D</description>					
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
@@ -342,7 +342,7 @@
 								
 			<title>Grouped_Show14_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -350,7 +350,7 @@
 								
 			<title>Grouped_Show15_TITLE</title>					
 								
-			<description> </description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -358,7 +358,7 @@
 								
 			<title>Grouped_Show15_TIME</title>					
 								
-			<description></description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -366,7 +366,7 @@
 								
 			<title>Grouped_Show15_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -374,7 +374,7 @@
 								
 			<title>Grouped_Show16_TITLE</title>					
 								
-			<description> </description>					
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
 		</item>						
 								
@@ -390,7 +390,7 @@
 								
 			<title>Grouped_Show16_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SUMMER CAMP FASTER THAN LIGHT</description>					
+			<description>SUMMER CAMP THE EDGE</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_9:00 AM_TITLE</title>					
 								
-			<description>SUMMER CAMP FASTER THAN LIGHT</description>					
+			<description>SUMMER CAMP THE EDGE</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>SUMMER CAMP PERFECT LITTLE PLANET</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -766,7 +766,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>SUMMER CAMP PERFECT LITTLE PLANET</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -990,7 +990,7 @@
 								
 			<title>Combined_Show8_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>LASER MAESTRO'S METAL MAYHEM</description>					
 								
 		</item>						
 								
@@ -1006,7 +1006,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>LASER MAESTRO'S METAL MAYHEM</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>SUMMER CAMP DEEP SEA 3D</description>					
+			<description>SUMMER CAMP DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_2:30 PM_TITLE</title>					
 								
-			<description>SUMMER CAMP DEEP SEA 3D</description>					
+			<description>SUMMER CAMP DEEP SKY (2D)</description>					
 								
 		</item>						
 								
@@ -1966,7 +1966,7 @@
 								
 			<title>IMAX_Show5_TITLE</title>					
 								
-			<description>Summer Camp Deep Sea 3D</description>					
+			<description>Summer Camp Deep Sky (2D)</description>					
 								
 		</item>						
 								
@@ -1982,7 +1982,7 @@
 								
 			<title>IMAX_2:30 PM_TITLE</title>					
 								
-			<description>Summer Camp Deep Sea 3D</description>					
+			<description>Summer Camp Deep Sky (2D)</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>Summer Camp Faster Than Light</description>					
+			<description>Summer Camp The Edge</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_9:00 AM_TITLE</title>					
 								
-			<description>Summer Camp Faster Than Light</description>					
+			<description>Summer Camp The Edge</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>Summer Camp Perfect Little Planet</description>					
+			<description>Perfect Little Planet</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>Summer Camp Perfect Little Planet</description>					
+			<description>Perfect Little Planet</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>Encounters in the Milky Way</description>					
+			<description>Laser Maestro's Metal Mayhem</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_1:00 PM_TITLE</title>					
 								
-			<description>Encounters in the Milky Way</description>					
+			<description>Laser Maestro's Metal Mayhem</description>					
 								
 		</item>						
 								
