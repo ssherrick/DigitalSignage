@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>HOLD - APOLLO 11: FIRST STEPS (2D)</description>					
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:30 PM, 4:00 PM, 4:30 PM, 5:00 PM, 5:30 PM, 6:00 PM, 6:30 PM, 7:00 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description> </description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>4:00 PM, 5:00 PM, 6:00 PM, 6:30 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description> </description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>HOLD - APOLLO 11: FIRST STEPS (2D)</description>					
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -1166,7 +1166,7 @@
 								
 			<title>Combined_3:30 PM_TITLE</title>					
 								
-			<description>HOLD - APOLLO 11: FIRST STEPS (2D)</description>					
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>HOLD - WILD ASIA 3D</description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>HOLD - WILD ASIA 3D</description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -1310,7 +1310,7 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>HOLD - HORSE POWER 3D</description>					
+			<description>HORSE POWER 3D</description>					
 								
 		</item>						
 								
@@ -1326,7 +1326,7 @@
 								
 			<title>Combined_5:30 PM_TITLE</title>					
 								
-			<description>HOLD - HORSE POWER 3D</description>					
+			<description>HORSE POWER 3D</description>					
 								
 		</item>						
 								
@@ -1390,7 +1390,7 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>HOLD - NATIONAL PARKS ADVENTURE 3D</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1406,7 +1406,7 @@
 								
 			<title>Combined_6:30 PM_TITLE</title>					
 								
-			<description>HOLD - NATIONAL PARKS ADVENTURE 3D</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1990,7 +1990,7 @@
 								
 			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>HOLD - Apollo 11: First Steps (2D)</description>					
+			<description>Apollo 11: First Steps (2D)</description>					
 								
 		</item>						
 								
@@ -2006,7 +2006,7 @@
 								
 			<title>IMAX_3:30 PM_TITLE</title>					
 								
-			<description>HOLD - Apollo 11: First Steps (2D)</description>					
+			<description>Apollo 11: First Steps (2D)</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>HOLD - Wild Asia 3D</description>					
+			<description>Wild Asia 3D</description>					
 								
 		</item>						
 								
@@ -2030,7 +2030,7 @@
 								
 			<title>IMAX_4:30 PM_TITLE</title>					
 								
-			<description>HOLD - Wild Asia 3D</description>					
+			<description>Wild Asia 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>HOLD - Horse Power 3D</description>					
+			<description>Horse Power 3D</description>					
 								
 		</item>						
 								
@@ -2054,7 +2054,7 @@
 								
 			<title>IMAX_5:30 PM_TITLE</title>					
 								
-			<description>HOLD - Horse Power 3D</description>					
+			<description>Horse Power 3D</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description>HOLD - National Parks Adventure 3D</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2078,7 +2078,7 @@
 								
 			<title>IMAX_6:30 PM_TITLE</title>					
 								
-			<description>HOLD - National Parks Adventure 3D</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
