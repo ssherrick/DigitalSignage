@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>LASER MAESTRO'S AMERICAN DREAM</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER MAESTRO'S AMERICAN DREAM</description>					
 								
 		</item>						
 								
@@ -1438,23 +1438,23 @@
 								
 			<title>Combined_Show19_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER MAESTRO'S AMERICAN DREAM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_7:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1462,7 +1462,7 @@
 								
 			<title>Combined_Show19_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>Laser Maestro's American Dream</description>					
 								
 		</item>						
 								
@@ -2790,15 +2790,15 @@
 								
 			<title>Dome_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>Laser Maestro's American Dream</description>					
 								
 		</item>						
 								
