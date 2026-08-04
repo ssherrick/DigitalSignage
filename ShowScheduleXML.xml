@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>MAINTENANCE</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:30 AM, 2:30 PM</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:30 PM, 2:30 PM, 5:30 PM</description>					
+			<description>12:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>SUMMER CAMP SECRET LIVES OF STARS</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>2:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description>LASER K-POP DEMON HUNTERS</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -342,7 +342,7 @@
 								
 			<title>Grouped_Show14_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>MAINTENANCE</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>MAINTENANCE</description>					
+			<description>PERFECT LITTLE PLANET</description>					
 								
 		</item>						
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>SUMMER CAMP SECRET LIVES OF STARS</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1046,7 +1046,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>SUMMER CAMP SECRET LIVES OF STARS</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1070,7 +1070,7 @@
 								
 			<title>Combined_Show10_TITLE</title>					
 								
-			<description>HORSE POWER 3D</description>					
+			<description>SUMMER CAMP A BEAUTIFUL PLANET</description>					
 								
 		</item>						
 								
@@ -1086,7 +1086,7 @@
 								
 			<title>Combined_2:30 PM_TITLE</title>					
 								
-			<description>HORSE POWER 3D</description>					
+			<description>SUMMER CAMP A BEAUTIFUL PLANET</description>					
 								
 		</item>						
 								
@@ -1966,7 +1966,7 @@
 								
 			<title>IMAX_Show5_TITLE</title>					
 								
-			<description>Horse Power 3D</description>					
+			<description>Summer Camp A Beautiful Planet</description>					
 								
 		</item>						
 								
@@ -1982,7 +1982,7 @@
 								
 			<title>IMAX_2:30 PM_TITLE</title>					
 								
-			<description>Horse Power 3D</description>					
+			<description>Summer Camp A Beautiful Planet</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>Maintenance</description>					
+			<description>Perfect Little Planet</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>Maintenance</description>					
+			<description>Perfect Little Planet</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>Summer Camp Secret Lives of Stars</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>Summer Camp Secret Lives of Stars</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
