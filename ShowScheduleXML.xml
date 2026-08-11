@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 12:00 PM, 1:00 PM, 2:00 PM, 3:00 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>HORSE POWER 3D</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>12:30 PM, 2:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -126,7 +126,7 @@
 								
 			<title>Grouped_Show5_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -134,7 +134,7 @@
 								
 			<title>Grouped_Show6_TITLE</title>					
 								
-			<description>HORSE POWER 3D</description>					
+			<description>INTO AMERICA'S WILD 3D</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:30 PM, 2:30 PM, 5:30 PM</description>					
+			<description>1:30 PM</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM, 3:00 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -174,7 +174,7 @@
 								
 			<title>Grouped_Show7_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>INTO AMERICA'S WILD 3D</description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>LASER K-POP DEMON HUNTERS</description>					
+			<description>PHOEBE BRIDGERS LOST WEEKEND PLANETARIUM EXPERIENCE</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>4:30 PM, 5:45 PM, 7:00 PM, 8:15 PM</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>APOLLO 11: FIRST STEPS (2D)</description>					
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>WILD ASIA 3D</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>PHOEBE BRIDGERS LOST WEEKEND PLANETARIUM EXPERIENCE</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>4:30 PM, 5:45 PM, 7:00 PM, 8:15 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>BIRTH OF PLANET EARTH</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -966,7 +966,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>LASER K-POP DEMON HUNTERS</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1046,7 +1046,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>LASER K-POP DEMON HUNTERS</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_3:00 PM_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>RENTAL</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>Dark Universe</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_11:00 AM_TITLE</title>					
 								
-			<description>Dark Universe</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>Birth of Planet Earth</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_12:00 PM_TITLE</title>					
 								
-			<description>Birth of Planet Earth</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>Encounters in the Milky Way</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2654,7 +2654,7 @@
 								
 			<title>Dome_1:00 PM_TITLE</title>					
 								
-			<description>Encounters in the Milky Way</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>Laser K-Pop Demon Hunters</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>Laser K-Pop Demon Hunters</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>Encounters in the Milky Way</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_3:00 PM_TITLE</title>					
 								
-			<description>Encounters in the Milky Way</description>					
+			<description>Rental</description>					
 								
 		</item>						
 								
