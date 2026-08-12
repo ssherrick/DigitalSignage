@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM, 5:30 PM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description> </description>					
+			<description>HORSE POWER 3D</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>5:30 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>HOLD - HORSE POWER 3D</description>					
+			<description>HORSE POWER 3D</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:30 PM_TITLE</title>					
 								
-			<description>HOLD - HORSE POWER 3D</description>					
+			<description>HORSE POWER 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description>HOLD - Horse Power 3D</description>					
+			<description>Horse Power 3D</description>					
 								
 		</item>						
 								
@@ -2054,7 +2054,7 @@
 								
 			<title>IMAX_5:30 PM_TITLE</title>					
 								
-			<description>HOLD - Horse Power 3D</description>					
+			<description>Horse Power 3D</description>					
 								
 		</item>						
 								
