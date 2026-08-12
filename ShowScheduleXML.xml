@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM, 3:30 PM, 5:30 PM</description>					
+			<description>10:30 AM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -142,7 +142,7 @@
 								
 			<title>Grouped_Show6_TIME</title>					
 								
-			<description>12:30 PM, 6:30 PM</description>					
+			<description>12:30 PM, 3:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -1150,7 +1150,7 @@
 								
 			<title>Combined_Show12_TITLE</title>					
 								
-			<description>HOLD - APOLLO 11: FIRST STEPS (2D)</description>					
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
 		</item>						
 								
@@ -1166,7 +1166,7 @@
 								
 			<title>Combined_3:30 PM_TITLE</title>					
 								
-			<description>HOLD - APOLLO 11: FIRST STEPS (2D)</description>					
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
 		</item>						
 								
@@ -1990,7 +1990,7 @@
 								
 			<title>IMAX_Show6_TITLE</title>					
 								
-			<description>HOLD - Apollo 11: First Steps (2D)</description>					
+			<description>National Parks Adventure 3D</description>					
 								
 		</item>						
 								
@@ -2006,7 +2006,7 @@
 								
 			<title>IMAX_3:30 PM_TITLE</title>					
 								
-			<description>HOLD - Apollo 11: First Steps (2D)</description>					
+			<description>National Parks Adventure 3D</description>					
 								
 		</item>						
 								
