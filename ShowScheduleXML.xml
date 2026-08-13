@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>HOLD - FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>4:00 PM, 5:30 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description>PREP TIME</description>					
+			<description>MEMBER ONLY - ASTEROID HUNTERS</description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description>5:30 PM, 7:00 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
@@ -350,7 +350,7 @@
 								
 			<title>Grouped_Show15_TITLE</title>					
 								
-			<description>MEMBER ONLY - ASTEROID HUNTERS</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -358,7 +358,7 @@
 								
 			<title>Grouped_Show15_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -366,7 +366,7 @@
 								
 			<title>Grouped_Show15_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>HOLD - FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>HOLD - FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>HOLD - Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_4:00 PM_TITLE</title>					
 								
-			<description>Faster Than Light</description>					
+			<description>HOLD - Faster Than Light</description>					
 								
 		</item>						
 								
