@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:00 PM, 3:00 PM</description>					
+			<description>1:00 PM, 3:00 PM, 5:00 PM</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>2:00 PM</description>					
+			<description>2:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>RENTAL DOME</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>4:00 PM, 5:00 PM, 6:00 PM, 7:00 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>RENTAL DOME</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>RENTAL DOME</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>RENTAL DOME</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:00 PM_TITLE</title>					
 								
-			<description>RENTAL DOME</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>RENTAL DOME</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>RENTAL DOME</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description>RENTAL DOME</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1446,7 +1446,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>RENTAL DOME</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>Rental Dome</description>					
+			<description>Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_4:00 PM_TITLE</title>					
 								
-			<description>Rental Dome</description>					
+			<description>Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>Rental Dome</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>Rental Dome</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>Rental Dome</description>					
+			<description>Dark Universe</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>Rental Dome</description>					
+			<description>Dark Universe</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>Rental Dome</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
@@ -2798,7 +2798,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>Rental Dome</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
