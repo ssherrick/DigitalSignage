@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description>DARK UNIVERSE</description>					
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description>6:00 PM</description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -342,7 +342,7 @@
 								
 			<title>Grouped_Show14_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>El Nacimiento de Nuestro Planeta Tierra</description>					
+			<description>Dark Universe</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_11:00 AM_TITLE</title>					
 								
-			<description>El Nacimiento de Nuestro Planeta Tierra</description>					
+			<description>Dark Universe</description>					
 								
 		</item>						
 								
