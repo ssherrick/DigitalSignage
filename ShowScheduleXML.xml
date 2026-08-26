@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:00 AM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -110,7 +110,7 @@
 								
 			<title>Grouped_Show5_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -118,7 +118,7 @@
 								
 			<title>Grouped_Show5_TIME</title>					
 								
-			<description>12:00 PM, 1:00 PM, 2:00 PM, 3:00 PM, 4:00 PM, 5:00 PM, 6:00 PM, 7:00 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
@@ -158,7 +158,7 @@
 								
 			<title>Grouped_Show7_TITLE</title>					
 								
-			<description>INTO AMERICA'S WILD 3D</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:00 PM, 3:00 PM, 5:00 PM</description>					
 								
 		</item>						
 								
@@ -174,7 +174,7 @@
 								
 			<title>Grouped_Show7_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -182,7 +182,7 @@
 								
 			<title>Grouped_Show8_TITLE</title>					
 								
-			<description>APOLLO 11: FIRST STEPS (2D)</description>					
+			<description>INTO AMERICA'S WILD 3D</description>					
 								
 		</item>						
 								
@@ -190,7 +190,7 @@
 								
 			<title>Grouped_Show8_TIME</title>					
 								
-			<description>3:30 PM</description>					
+			<description>1:30 PM</description>					
 								
 		</item>						
 								
@@ -206,7 +206,7 @@
 								
 			<title>Grouped_Show9_TITLE</title>					
 								
-			<description>WILD ASIA 3D</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -214,7 +214,7 @@
 								
 			<title>Grouped_Show9_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>2:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -222,7 +222,7 @@
 								
 			<title>Grouped_Show9_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -230,7 +230,7 @@
 								
 			<title>Grouped_Show10_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -238,7 +238,7 @@
 								
 			<title>Grouped_Show10_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description> </description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description></description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description> </description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description></description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -294,7 +294,7 @@
 								
 			<title>Grouped_Show12_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>BIRTH OF PLANET EARTH</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -966,7 +966,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -1030,7 +1030,7 @@
 								
 			<title>Combined_Show9_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1046,7 +1046,7 @@
 								
 			<title>Combined_2:00 PM_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1110,7 +1110,7 @@
 								
 			<title>Combined_Show11_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -1126,7 +1126,7 @@
 								
 			<title>Combined_3:00 PM_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1270,7 +1270,7 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -1286,7 +1286,7 @@
 								
 			<title>Combined_5:00 PM_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1366,7 +1366,7 @@
 								
 			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -1430,7 +1430,7 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1446,7 +1446,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>HOLD-DOME MAINTENANCE</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -2614,7 +2614,7 @@
 								
 			<title>Dome_Show3_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Birth of Planet Earth</description>					
 								
 		</item>						
 								
@@ -2630,7 +2630,7 @@
 								
 			<title>Dome_12:00 PM_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Birth of Planet Earth</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2654,7 +2654,7 @@
 								
 			<title>Dome_1:00 PM_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2662,7 +2662,7 @@
 								
 			<title>Dome_Show5_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
@@ -2678,7 +2678,7 @@
 								
 			<title>Dome_2:00 PM_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
@@ -2686,7 +2686,7 @@
 								
 			<title>Dome_Show6_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2702,7 +2702,7 @@
 								
 			<title>Dome_3:00 PM_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2726,7 +2726,7 @@
 								
 			<title>Dome_4:00 PM_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2750,7 +2750,7 @@
 								
 			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2758,7 +2758,7 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Dark Universe</description>					
 								
 		</item>						
 								
@@ -2774,7 +2774,7 @@
 								
 			<title>Dome_6:00 PM_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Dark Universe</description>					
 								
 		</item>						
 								
@@ -2782,7 +2782,7 @@
 								
 			<title>Dome_Show10_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
@@ -2798,7 +2798,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>Hold-DOME Maintenance</description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
