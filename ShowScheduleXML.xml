@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>4:30 AM, 4:30 AM, 3:30 PM</description>					
+			<description>4:30 AM, 4:30 AM</description>					
 								
 		</item>						
 								
@@ -166,7 +166,7 @@
 								
 			<title>Grouped_Show7_TIME</title>					
 								
-			<description>12:30 PM, 2:30 PM</description>					
+			<description>12:30 PM, 2:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -254,7 +254,7 @@
 								
 			<title>Grouped_Show11_TITLE</title>					
 								
-			<description>FASTER THAN LIGHT</description>					
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -262,7 +262,7 @@
 								
 			<title>Grouped_Show11_TIME</title>					
 								
-			<description>4:00 PM</description>					
+			<description>3:30 PM</description>					
 								
 		</item>						
 								
@@ -270,7 +270,7 @@
 								
 			<title>Grouped_Show11_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -278,7 +278,7 @@
 								
 			<title>Grouped_Show12_TITLE</title>					
 								
-			<description>PRIVATE EVENT - BEAUTIFICA</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -286,7 +286,7 @@
 								
 			<title>Grouped_Show12_TIME</title>					
 								
-			<description>4:45 PM, 6:00 PM, 7:15 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
@@ -302,7 +302,7 @@
 								
 			<title>Grouped_Show13_TITLE</title>					
 								
-			<description> </description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
@@ -310,7 +310,7 @@
 								
 			<title>Grouped_Show13_TIME</title>					
 								
-			<description></description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
@@ -318,7 +318,7 @@
 								
 			<title>Grouped_Show13_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -326,7 +326,7 @@
 								
 			<title>Grouped_Show14_TITLE</title>					
 								
-			<description> </description>					
+			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
 		</item>						
 								
@@ -334,7 +334,7 @@
 								
 			<title>Grouped_Show14_TIME</title>					
 								
-			<description></description>					
+			<description>4:45 PM, 6:00 PM, 7:15 PM</description>					
 								
 		</item>						
 								
@@ -342,7 +342,7 @@
 								
 			<title>Grouped_Show14_THEATER</title>					
 								
-			<description> </description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -350,7 +350,7 @@
 								
 			<title>Grouped_Show15_TITLE</title>					
 								
-			<description> </description>					
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
 		</item>						
 								
@@ -358,7 +358,7 @@
 								
 			<title>Grouped_Show15_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
@@ -366,7 +366,7 @@
 								
 			<title>Grouped_Show15_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>ROMAN SPACE TELESCOPE LAUNCH</description>					
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -1246,7 +1246,7 @@
 								
 			<title>Combined_3:30 PM_TITLE</title>					
 								
-			<description>ROMAN SPACE TELESCOPE LAUNCH</description>					
+			<description>APOLLO 11: FIRST STEPS (2D)</description>					
 								
 		</item>						
 								
@@ -1310,13 +1310,53 @@
 								
 			<title>Combined_Show16_TITLE</title>					
 								
-			<description>PRIVATE EVENT - BEAUTIFICA</description>					
+			<description>WILD ASIA 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show16_TIME</title>					
+								
+			<description>4:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:30 PM_TITLE</title>					
+								
+			<description>WILD ASIA 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:30 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>PRIVATE EVENT - BEAUTIFICA</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
 								
 			<description>4:45 PM</description>					
 								
@@ -1340,7 +1380,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show16_THEATER</title>					
+			<title>Combined_Show17_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1348,7 +1388,47 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_TITLE</title>					
+			<title>Combined_Show18_TITLE</title>					
+								
+			<description>HORSE POWER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+			<title>Combined_Show18_TIME</title>					
+								
+			<description>5:30 PM</description>					
+								
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:30 PM_TITLE</title>					
+								
+			<description>HORSE POWER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:30 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_TITLE</title>					
 								
 			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
@@ -1356,7 +1436,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_TIME</title>					
+			<title>Combined_Show19_TIME</title>					
 								
 			<description>6:00 PM</description>					
 								
@@ -1380,7 +1460,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show17_THEATER</title>					
+			<title>Combined_Show19_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1388,17 +1468,57 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_TITLE</title>					
+			<title>Combined_Show20_TITLE</title>					
+								
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_TIME</title>					
+								
+			<description>6:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_TITLE</title>					
+								
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show21_TITLE</title>					
 								
 			<description>PRIVATE EVENT - BEAUTIFICA</description>					
 								
 		</item>						
 								
 		<item>						
-			<title>Combined_Show18_TIME</title>					
+								
+			<title>Combined_Show21_TIME</title>					
 								
 			<description>7:15 PM</description>					
-								
 								
 		</item>						
 								
@@ -1420,129 +1540,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show21_THEATER</title>					
 								
-			<description></description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description>Roman Space Telescope Launch</description>					
+			<description>Apollo 11: First Steps (2D)</description>					
 								
 		</item>						
 								
@@ -2030,7 +2030,7 @@
 								
 			<title>IMAX_3:30 PM_TITLE</title>					
 								
-			<description>Roman Space Telescope Launch</description>					
+			<description>Apollo 11: First Steps (2D)</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description></description>					
+			<description>Wild Asia 3D</description>					
 								
 		</item>						
 								
@@ -2046,15 +2046,15 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_4:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>Wild Asia 3D</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>Horse Power 3D</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>5:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_5:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>Horse Power 3D</description>					
 								
 		</item>						
 								
@@ -2086,7 +2086,7 @@
 								
 			<title>IMAX_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>National Parks Adventure 3D</description>					
 								
 		</item>						
 								
@@ -2094,15 +2094,15 @@
 								
 			<title>IMAX_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_6:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>National Parks Adventure 3D</description>					
 								
 		</item>						
 								
