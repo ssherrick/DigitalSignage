@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>CLOSED - SWITCH GALAXY 8</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>7:00 AM</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description> </description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>CLOSED - SWITCH GALAXY 8</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -718,23 +718,23 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description>7:00 AM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:00 AM_TITLE</title>					
+			<title>Combined__TITLE</title>					
 								
-			<description>CLOSED - SWITCH GALAXY 8</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_7:00 AM_THEATER</title>					
+			<title>Combined__THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -742,7 +742,7 @@
 								
 			<title>Combined_Show1_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>CLOSED - switch Galaxy 8</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -1878,15 +1878,15 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description>7:00 AM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_7:00 AM_TITLE</title>					
+			<title>IMAX__TITLE</title>					
 								
-			<description>CLOSED - switch Galaxy 8</description>					
+			<description></description>					
 								
 		</item>						
 								
