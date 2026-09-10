@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description> </description>					
+			<description>TEST EVENT DOME</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description></description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description></description>					
+			<description>TEST EVENT DOME</description>					
 								
 		</item>						
 								
@@ -718,23 +718,23 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description></description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description></description>					
+			<description>TEST EVENT DOME</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_10:30 AM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -742,7 +742,7 @@
 								
 			<title>Combined_Show1_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description></description>					
+			<description>TEST EVENT DOME</description>					
 								
 		</item>						
 								
@@ -1878,15 +1878,15 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description></description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_10:30 AM_TITLE</title>					
 								
-			<description></description>					
+			<description>TEST EVENT DOME</description>					
 								
 		</item>						
 								
