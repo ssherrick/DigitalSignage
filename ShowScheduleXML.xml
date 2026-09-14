@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:00 PM, 3:00 PM, 4:30 PM, 5:45 PM, 7:00 PM</description>					
+			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:00 PM, 3:00 PM, 4:00 PM, 5:00 PM, 6:00 PM</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:30 AM, 11:30 AM, 12:30 PM, 1:30 PM, 2:30 PM, 3:30 PM, 4:30 PM, 5:30 PM, 6:30 PM</description>					
+			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:30 PM, 3:30 PM, 4:30 PM, 5:30 PM</description>					
 								
 		</item>						
 								
@@ -62,7 +62,7 @@
 								
 			<title>Grouped_Show3_TITLE</title>					
 								
-			<description> </description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -78,7 +78,7 @@
 								
 			<title>Grouped_Show3_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -758,13 +758,13 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_TITLE</title>					
+			<title>Combined_10:00 AM_TITLE</title>					
 								
 			<description>A BEAUTIFUL PLANET 3D</description>					
 								
@@ -772,7 +772,7 @@
 								
 		<item>						
 								
-			<title>Combined_10:30 AM_THEATER</title>					
+			<title>Combined_10:00 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>EL NACIMIENTO DE NUESTRO PLANETA TIERRA</description>					
+			<description>DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -838,13 +838,13 @@
 								
 			<title>Combined_Show4_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:30 AM_TITLE</title>					
+			<title>Combined_11:00 AM_TITLE</title>					
 								
 			<description>LOST WOLVES OF YELLOWSTONE (2D)</description>					
 								
@@ -852,7 +852,7 @@
 								
 		<item>						
 								
-			<title>Combined_11:30 AM_THEATER</title>					
+			<title>Combined_11:00 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -918,13 +918,13 @@
 								
 			<title>Combined_Show6_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:30 PM_TITLE</title>					
+			<title>Combined_12:00 PM_TITLE</title>					
 								
 			<description>HORSE POWER 3D</description>					
 								
@@ -932,7 +932,7 @@
 								
 		<item>						
 								
-			<title>Combined_12:30 PM_THEATER</title>					
+			<title>Combined_12:00 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -998,13 +998,13 @@
 								
 			<title>Combined_Show8_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:30 PM_TITLE</title>					
+			<title>Combined_1:00 PM_TITLE</title>					
 								
 			<description>INTO AMERICAS WILD 3D</description>					
 								
@@ -1012,7 +1012,7 @@
 								
 		<item>						
 								
-			<title>Combined_1:30 PM_THEATER</title>					
+			<title>Combined_1:00 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>PRIVATE EVENT - QUALIA</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
@@ -1198,21 +1198,21 @@
 								
 			<title>Combined_Show13_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:30 PM_TITLE</title>					
+			<title>Combined_4:00 PM_TITLE</title>					
 								
-			<description>PRIVATE EVENT - QUALIA</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:30 PM_THEATER</title>					
+			<title>Combined_4:00 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1270,13 +1270,53 @@
 								
 			<title>Combined_Show15_TITLE</title>					
 								
-			<description>HORSE POWER 3D</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show15_TIME</title>					
+								
+			<description>5:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:00 PM_TITLE</title>					
+								
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_TITLE</title>					
+								
+			<description>HORSE POWER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_TIME</title>					
 								
 			<description>5:30 PM</description>					
 								
@@ -1300,49 +1340,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show15_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TITLE</title>					
-								
-			<description>PRIVATE EVENT - QUALIA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TIME</title>					
-								
-			<description>5:45 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_5:45 PM_TITLE</title>					
-								
-			<description>PRIVATE EVENT - QUALIA</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_5:45 PM_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show16_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1350,7 +1350,7 @@
 								
 			<title>Combined_Show17_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -1358,23 +1358,23 @@
 								
 			<title>Combined_Show17_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description>6:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:30 PM_TITLE</title>					
+			<title>Combined_6:00 PM_TITLE</title>					
 								
-			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_6:30 PM_THEATER</title>					
+			<title>Combined_6:00 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1382,7 +1382,7 @@
 								
 			<title>Combined_Show17_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1390,7 +1390,7 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>PRIVATE EVENT - QUALIA</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1406,7 +1406,7 @@
 								
 			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description>PRIVATE EVENT - QUALIA</description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -1878,13 +1878,13 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description>10:30 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_10:30 AM_TITLE</title>					
+			<title>IMAX_10:00 AM_TITLE</title>					
 								
 			<description>A Beautiful Planet 3D</description>					
 								
@@ -1902,13 +1902,13 @@
 								
 			<title>IMAX_Show2_TIME</title>					
 								
-			<description>11:30 AM</description>					
+			<description>11:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_11:30 AM_TITLE</title>					
+			<title>IMAX_11:00 AM_TITLE</title>					
 								
 			<description>Lost Wolves of Yellowstone (2D)</description>					
 								
@@ -1926,13 +1926,13 @@
 								
 			<title>IMAX_Show3_TIME</title>					
 								
-			<description>12:30 PM</description>					
+			<description>12:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_12:30 PM_TITLE</title>					
+			<title>IMAX_12:00 PM_TITLE</title>					
 								
 			<description>Horse Power 3D</description>					
 								
@@ -1950,13 +1950,13 @@
 								
 			<title>IMAX_Show4_TIME</title>					
 								
-			<description>1:30 PM</description>					
+			<description>1:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_1:30 PM_TITLE</title>					
+			<title>IMAX_1:00 PM_TITLE</title>					
 								
 			<description>Into Americas Wild 3D</description>					
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description>National Parks Adventure 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description>6:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_6:30 PM_TITLE</title>					
+			<title>IMAX__TITLE</title>					
 								
-			<description>National Parks Adventure 3D</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>El Nacimiento de Nuestro Planeta Tierra</description>					
+			<description>Dark Universe</description>					
 								
 		</item>						
 								
@@ -2606,7 +2606,7 @@
 								
 			<title>Dome_11:00 AM_TITLE</title>					
 								
-			<description>El Nacimiento de Nuestro Planeta Tierra</description>					
+			<description>Dark Universe</description>					
 								
 		</item>						
 								
@@ -2710,7 +2710,7 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>Private Event - Qualia</description>					
+			<description>Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2718,15 +2718,15 @@
 								
 			<title>Dome_Show7_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>4:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_4:30 PM_TITLE</title>					
+			<title>Dome_4:00 PM_TITLE</title>					
 								
-			<description>Private Event - Qualia</description>					
+			<description>Faster Than Light</description>					
 								
 		</item>						
 								
@@ -2734,7 +2734,7 @@
 								
 			<title>Dome_Show8_TITLE</title>					
 								
-			<description>Private Event - Qualia</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2742,15 +2742,15 @@
 								
 			<title>Dome_Show8_TIME</title>					
 								
-			<description>5:45 PM</description>					
+			<description>5:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_5:45 PM_TITLE</title>					
+			<title>Dome_5:00 PM_TITLE</title>					
 								
-			<description>Private Event - Qualia</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2758,13 +2758,37 @@
 								
 			<title>Dome_Show9_TITLE</title>					
 								
-			<description>Private Event - Qualia</description>					
+			<description>Secret Lives of Stars</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show9_TIME</title>					
+								
+			<description>6:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_6:00 PM_TITLE</title>					
+								
+			<description>Secret Lives of Stars</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show10_TITLE</title>					
+								
+			<description>Laser K-Pop Demon Hunters</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show10_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -2774,31 +2798,7 @@
 								
 			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description>Private Event - Qualia</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show10_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show10_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
