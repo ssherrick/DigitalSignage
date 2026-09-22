@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:00 PM, 3:00 PM, 7:00 PM</description>					
+			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:00 PM, 3:00 PM, 4:00 PM, 5:00 PM, 6:00 PM, 7:00 PM</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:30 PM, 3:30 PM</description>					
+			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:30 PM, 3:30 PM, 4:30 PM, 5:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -1190,13 +1190,253 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>U OF U CELESTIAL NAVIGATION NIGHT 1</description>					
+			<description>FASTER THAN LIGHT</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show13_TIME</title>					
+								
+			<description>4:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:00 PM_TITLE</title>					
+								
+			<description>FASTER THAN LIGHT</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show13_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TITLE</title>					
+								
+			<description>WILD RESCUE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_TIME</title>					
+								
+			<description>4:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:30 PM_TITLE</title>					
+								
+			<description>WILD RESCUE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_4:30 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show14_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_TITLE</title>					
+								
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_TIME</title>					
+								
+			<description>5:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:00 PM_TITLE</title>					
+								
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show15_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_TITLE</title>					
+								
+			<description>HORSE POWER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_TIME</title>					
+								
+			<description>5:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:30 PM_TITLE</title>					
+								
+			<description>HORSE POWER 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_5:30 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show16_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TITLE</title>					
+								
+			<description>HOLD - PREP TIME</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_TIME</title>					
+								
+			<description>6:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:00 PM_TITLE</title>					
+								
+			<description>HOLD - PREP TIME</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show17_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_TITLE</title>					
+								
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+			<title>Combined_Show18_TIME</title>					
+								
+			<description>6:30 PM</description>					
+								
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_TITLE</title>					
+								
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_TITLE</title>					
+								
+			<description>U OF U CELESTIAL NAVIGATION NIGHT 1</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -1220,249 +1460,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show13_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show14_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show15_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show16_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show17_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show18_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-			<title>Combined_Show18_TIME</title>					
-								
-			<description></description>					
-								
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show18_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show19_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2014,7 +2014,7 @@
 								
 			<title>IMAX_Show7_TITLE</title>					
 								
-			<description></description>					
+			<description>Wild Rescue 3D</description>					
 								
 		</item>						
 								
@@ -2022,15 +2022,15 @@
 								
 			<title>IMAX_Show7_TIME</title>					
 								
-			<description></description>					
+			<description>4:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_4:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>Wild Rescue 3D</description>					
 								
 		</item>						
 								
@@ -2038,7 +2038,7 @@
 								
 			<title>IMAX_Show8_TITLE</title>					
 								
-			<description></description>					
+			<description>Horse Power 3D</description>					
 								
 		</item>						
 								
@@ -2046,15 +2046,15 @@
 								
 			<title>IMAX_Show8_TIME</title>					
 								
-			<description></description>					
+			<description>5:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_5:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>Horse Power 3D</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>National Parks Adventure 3D</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_6:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>National Parks Adventure 3D</description>					
 								
 		</item>						
 								
@@ -2710,13 +2710,85 @@
 								
 			<title>Dome_Show7_TITLE</title>					
 								
-			<description>U of U Celestial Navigation Night 1</description>					
+			<description>Faster Than Light</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show7_TIME</title>					
+								
+			<description>4:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_4:00 PM_TITLE</title>					
+								
+			<description>Faster Than Light</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TITLE</title>					
+								
+			<description>Encounters in the Milky Way</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show8_TIME</title>					
+								
+			<description>5:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_5:00 PM_TITLE</title>					
+								
+			<description>Encounters in the Milky Way</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TITLE</title>					
+								
+			<description>HOLD - Prep Time</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show9_TIME</title>					
+								
+			<description>6:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_6:00 PM_TITLE</title>					
+								
+			<description>HOLD - Prep Time</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show10_TITLE</title>					
+								
+			<description>U of U Celestial Navigation Night 1</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show10_TIME</title>					
 								
 			<description>7:00 PM</description>					
 								
@@ -2727,78 +2799,6 @@
 			<title>Dome_7:00 PM_TITLE</title>					
 								
 			<description>U of U Celestial Navigation Night 1</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show8_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show8_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show9_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show9_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show10_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show10_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
