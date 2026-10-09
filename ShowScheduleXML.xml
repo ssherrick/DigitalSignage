@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:30 PM, 3:30 PM, 4:30 PM, 5:30 PM</description>					
+			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:30 PM, 3:30 PM, 4:30 PM, 5:30 PM, 6:30 PM, 7:30 PM</description>					
 								
 		</item>						
 								
@@ -70,7 +70,7 @@
 								
 			<title>Grouped_Show3_TIME</title>					
 								
-			<description>2:00 PM, 6:00 PM, 10:45 PM</description>					
+			<description>2:00 PM, 6:00 PM, 7:00 PM, 8:15 PM, 9:30 PM, 10:45 PM</description>					
 								
 		</item>						
 								
@@ -1430,13 +1430,213 @@
 								
 			<title>Combined_Show19_TITLE</title>					
 								
-			<description>DARK SIDE OF THE MOON</description>					
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Combined_Show19_TIME</title>					
+								
+			<description>6:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_TITLE</title>					
+								
+			<description>NATIONAL PARKS ADVENTURE 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_TITLE</title>					
+								
+			<description>LASER HALLOWEEN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_TIME</title>					
+								
+			<description>7:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_TITLE</title>					
+								
+			<description>LASER HALLOWEEN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:00 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show20_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show21_TITLE</title>					
+								
+			<description>RUNNING WILD 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show21_TIME</title>					
+								
+			<description>7:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:30 PM_TITLE</title>					
+								
+			<description>RUNNING WILD 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_7:30 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show21_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show22_TITLE</title>					
+								
+			<description>LASER MAESTRO PRESENTS DECADES</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show22_TIME</title>					
+								
+			<description>8:15 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:15 PM_TITLE</title>					
+								
+			<description>LASER MAESTRO PRESENTS DECADES</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_8:15 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show22_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TITLE</title>					
+								
+			<description>LASER MAESTRO'S METAL MAYHEM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TIME</title>					
+								
+			<description>9:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_9:30 PM_TITLE</title>					
+								
+			<description>LASER MAESTRO'S METAL MAYHEM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_9:30 PM_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_THEATER</title>					
+								
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show24_TITLE</title>					
+								
+			<description>DARK SIDE OF THE MOON</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show24_TIME</title>					
 								
 			<description>10:45 PM</description>					
 								
@@ -1460,209 +1660,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show19_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show22_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show22_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show22_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show23_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show23_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show23_THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show24_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show24_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show24_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>National Parks Adventure 3D</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_6:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>National Parks Adventure 3D</description>					
 								
 		</item>						
 								
@@ -2086,7 +2086,7 @@
 								
 			<title>IMAX_Show10_TITLE</title>					
 								
-			<description></description>					
+			<description>Running Wild 3D</description>					
 								
 		</item>						
 								
@@ -2094,15 +2094,15 @@
 								
 			<title>IMAX_Show10_TIME</title>					
 								
-			<description></description>					
+			<description>7:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_7:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>Running Wild 3D</description>					
 								
 		</item>						
 								
@@ -2806,13 +2806,85 @@
 								
 			<title>Dome_Show11_TITLE</title>					
 								
-			<description>Dark Side of the Moon</description>					
+			<description>Laser Halloween</description>					
 								
 		</item>						
 								
 		<item>						
 								
 			<title>Dome_Show11_TIME</title>					
+								
+			<description>7:00 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_7:00 PM_TITLE</title>					
+								
+			<description>Laser Halloween</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show12_TITLE</title>					
+								
+			<description>Laser Maestro Presents DECADES</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show12_TIME</title>					
+								
+			<description>8:15 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_8:15 PM_TITLE</title>					
+								
+			<description>Laser Maestro Presents DECADES</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show13_TITLE</title>					
+								
+			<description>Laser Maestro's Metal Mayhem</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show13_TIME</title>					
+								
+			<description>9:30 PM</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_9:30 PM_TITLE</title>					
+								
+			<description>Laser Maestro's Metal Mayhem</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show14_TITLE</title>					
+								
+			<description>Dark Side of the Moon</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Dome_Show14_TIME</title>					
 								
 			<description>10:45 PM</description>					
 								
@@ -2823,78 +2895,6 @@
 			<title>Dome_10:45 PM_TITLE</title>					
 								
 			<description>Dark Side of the Moon</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show12_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show12_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show13_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show13_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show14_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome_Show14_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Dome__TITLE</title>					
-								
-			<description></description>					
 								
 		</item>						
 								
