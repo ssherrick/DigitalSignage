@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:30 PM, 3:30 PM, 4:30 PM, 5:30 PM</description>					
+			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:30 PM, 3:30 PM, 4:30 PM, 5:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -1390,15 +1390,55 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>LASER HALLOWEEN</description>					
+			<description>RUNNING WILD 3D</description>					
 								
 		</item>						
 								
 		<item>						
 			<title>Combined_Show18_TIME</title>					
 								
-			<description>7:00 PM</description>					
+			<description>6:30 PM</description>					
 								
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_TITLE</title>					
+								
+			<description>RUNNING WILD 3D</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_6:30 PM_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show18_THEATER</title>					
+								
+			<description>HANSEN DOME THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_TITLE</title>					
+								
+			<description>LASER HALLOWEEN</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show19_TIME</title>					
+								
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -1420,49 +1460,9 @@
 								
 		<item>						
 								
-			<title>Combined_Show18_THEATER</title>					
-								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show19_TIME</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__TITLE</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined__THEATER</title>					
-								
-			<description></description>					
-								
-		</item>						
-								
-		<item>						
-								
 			<title>Combined_Show19_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description></description>					
+			<description>Running Wild 3D</description>					
 								
 		</item>						
 								
@@ -2070,15 +2070,15 @@
 								
 			<title>IMAX_Show9_TIME</title>					
 								
-			<description></description>					
+			<description>6:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX__TITLE</title>					
+			<title>IMAX_6:30 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>Running Wild 3D</description>					
 								
 		</item>						
 								
