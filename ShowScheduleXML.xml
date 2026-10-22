@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 3:00 PM, 4:30 PM, 6:00 PM, 7:15 PM</description>					
+			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 3:00 PM, 4:45 PM, 6:00 PM, 7:15 PM</description>					
 								
 		</item>						
 								
@@ -1190,7 +1190,7 @@
 								
 			<title>Combined_Show13_TITLE</title>					
 								
-			<description>PRIVATE EVENT - DSM</description>					
+			<description>HORSE POWER 3D</description>					
 								
 		</item>						
 								
@@ -1206,7 +1206,7 @@
 								
 			<title>Combined_4:30 PM_TITLE</title>					
 								
-			<description>PRIVATE EVENT - DSM</description>					
+			<description>HORSE POWER 3D</description>					
 								
 		</item>						
 								
@@ -1214,7 +1214,7 @@
 								
 			<title>Combined_4:30 PM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1222,7 +1222,7 @@
 								
 			<title>Combined_Show13_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -1230,7 +1230,7 @@
 								
 			<title>Combined_Show14_TITLE</title>					
 								
-			<description>HORSE POWER 3D</description>					
+			<description>PRIVATE EVENT - DSM</description>					
 								
 		</item>						
 								
@@ -1238,23 +1238,23 @@
 								
 			<title>Combined_Show14_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:30 PM_TITLE</title>					
+			<title>Combined_4:45 PM_TITLE</title>					
 								
-			<description>HORSE POWER 3D</description>					
+			<description>PRIVATE EVENT - DSM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_4:30 PM_THEATER</title>					
+			<title>Combined_4:45 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -1262,7 +1262,7 @@
 								
 			<title>Combined_Show14_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2718,13 +2718,13 @@
 								
 			<title>Dome_Show7_TIME</title>					
 								
-			<description>4:30 PM</description>					
+			<description>4:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_4:30 PM_TITLE</title>					
+			<title>Dome_4:45 PM_TITLE</title>					
 								
 			<description>Private Event - DSM</description>					
 								
