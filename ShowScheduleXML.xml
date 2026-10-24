@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>SCHOOL PERFECT LITTLE PLANET</description>					
+			<description>SENSORY FRIENDLY - DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>A BEAUTIFUL PLANET 3D</description>					
+			<description>SENSORY FRIENDLY - RUNNING WILD (2D)</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM, 2:30 PM, 3:30 PM, 4:30 PM, 5:30 PM, 6:30 PM, 7:30 PM</description>					
+			<description>10:30 AM, 11:29 AM, 12:30 PM, 1:30 PM, 2:30 PM, 3:30 PM, 4:30 PM, 5:30 PM, 6:30 PM</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>SCHOOL PERFECT LITTLE PLANET</description>					
+			<description>SENSORY FRIENDLY - DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -726,7 +726,7 @@
 								
 			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL PERFECT LITTLE PLANET</description>					
+			<description>SENSORY FRIENDLY - DARK UNIVERSE</description>					
 								
 		</item>						
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>A BEAUTIFUL PLANET 3D</description>					
+			<description>SENSORY FRIENDLY - RUNNING WILD (2D)</description>					
 								
 		</item>						
 								
@@ -758,21 +758,21 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>10:00 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:00 AM_TITLE</title>					
+			<title>Combined_10:30 AM_TITLE</title>					
 								
-			<description>A BEAUTIFUL PLANET 3D</description>					
+			<description>SENSORY FRIENDLY - RUNNING WILD (2D)</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_10:00 AM_THEATER</title>					
+			<title>Combined_10:30 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>SCHOOL FLIGHT OF THE BUTTERFLIES 3D</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -806,7 +806,7 @@
 								
 			<title>Combined_11:00 AM_TITLE</title>					
 								
-			<description>SCHOOL FLIGHT OF THE BUTTERFLIES 3D</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -814,7 +814,7 @@
 								
 			<title>Combined_11:00 AM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -822,7 +822,7 @@
 								
 			<title>Combined_Show3_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -830,7 +830,7 @@
 								
 			<title>Combined_Show4_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>UN PLANETA HERMOSA 3D</description>					
 								
 		</item>						
 								
@@ -838,23 +838,23 @@
 								
 			<title>Combined_Show4_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:29 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:00 AM_TITLE</title>					
+			<title>Combined_11:29 AM_TITLE</title>					
 								
-			<description>ENCOUNTERS IN THE MILKY WAY</description>					
+			<description>UN PLANETA HERMOSA 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_11:00 AM_THEATER</title>					
+			<title>Combined_11:29 AM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -862,7 +862,7 @@
 								
 			<title>Combined_Show4_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -870,7 +870,7 @@
 								
 			<title>Combined_Show5_TITLE</title>					
 								
-			<description>SCHOOL EXTREME WEATHER 3D</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -886,7 +886,7 @@
 								
 			<title>Combined_12:00 PM_TITLE</title>					
 								
-			<description>SCHOOL EXTREME WEATHER 3D</description>					
+			<description>SECRET LIVES OF STARS</description>					
 								
 		</item>						
 								
@@ -894,7 +894,7 @@
 								
 			<title>Combined_12:00 PM_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -902,7 +902,7 @@
 								
 			<title>Combined_Show5_THEATER</title>					
 								
-			<description>HANSEN DOME THEATER</description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -910,7 +910,7 @@
 								
 			<title>Combined_Show6_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>RUNNING WILD 3D</description>					
 								
 		</item>						
 								
@@ -918,23 +918,23 @@
 								
 			<title>Combined_Show6_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>12:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:00 PM_TITLE</title>					
+			<title>Combined_12:30 PM_TITLE</title>					
 								
-			<description>SECRET LIVES OF STARS</description>					
+			<description>RUNNING WILD 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:00 PM_THEATER</title>					
+			<title>Combined_12:30 PM_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -942,7 +942,7 @@
 								
 			<title>Combined_Show6_THEATER</title>					
 								
-			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+			<description>HANSEN DOME THEATER</description>					
 								
 		</item>						
 								
@@ -950,7 +950,7 @@
 								
 			<title>Combined_Show7_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -966,7 +966,7 @@
 								
 			<title>Combined_1:00 PM_TITLE</title>					
 								
-			<description>SCHOOL SKYWATCH 6TH GRADE MOON PHASES AND ECLIPSES</description>					
+			<description>ENCOUNTERS IN THE MILKY WAY</description>					
 								
 		</item>						
 								
@@ -998,13 +998,13 @@
 								
 			<title>Combined_Show8_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_1:00 PM_TITLE</title>					
+			<title>Combined_1:30 PM_TITLE</title>					
 								
 			<description>HORSE POWER 3D</description>					
 								
@@ -1012,7 +1012,7 @@
 								
 		<item>						
 								
-			<title>Combined_1:00 PM_THEATER</title>					
+			<title>Combined_1:30 PM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -1390,7 +1390,7 @@
 								
 			<title>Combined_Show18_TITLE</title>					
 								
-			<description>RUNNING WILD 3D</description>					
+			<description>SCIFI - TWISTERS</description>					
 								
 		</item>						
 								
@@ -1406,7 +1406,7 @@
 								
 			<title>Combined_6:30 PM_TITLE</title>					
 								
-			<description>RUNNING WILD 3D</description>					
+			<description>SCIFI - TWISTERS</description>					
 								
 		</item>						
 								
@@ -1470,53 +1470,13 @@
 								
 			<title>Combined_Show20_TITLE</title>					
 								
-			<description>STORMBOUND (2D)</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_TIME</title>					
-								
-			<description>7:30 PM</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_7:30 PM_TITLE</title>					
-								
-			<description>STORMBOUND (2D)</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_7:30 PM_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show20_THEATER</title>					
-								
-			<description>HANSEN DOME THEATER</description>					
-								
-		</item>						
-								
-		<item>						
-								
-			<title>Combined_Show21_TITLE</title>					
-								
 			<description>LASER MAESTRO PRESENTS DECADES</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_Show21_TIME</title>					
+			<title>Combined_Show20_TIME</title>					
 								
 			<description>8:15 PM</description>					
 								
@@ -1540,7 +1500,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show21_THEATER</title>					
+			<title>Combined_Show20_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1548,7 +1508,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show22_TITLE</title>					
+			<title>Combined_Show21_TITLE</title>					
 								
 			<description>LASER MAESTRO'S METAL MAYHEM</description>					
 								
@@ -1556,7 +1516,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show22_TIME</title>					
+			<title>Combined_Show21_TIME</title>					
 								
 			<description>9:30 PM</description>					
 								
@@ -1580,7 +1540,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show22_THEATER</title>					
+			<title>Combined_Show21_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1588,7 +1548,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show23_TITLE</title>					
+			<title>Combined_Show22_TITLE</title>					
 								
 			<description>DARK SIDE OF THE MOON</description>					
 								
@@ -1596,7 +1556,7 @@
 								
 		<item>						
 								
-			<title>Combined_Show23_TIME</title>					
+			<title>Combined_Show22_TIME</title>					
 								
 			<description>10:45 PM</description>					
 								
@@ -1620,9 +1580,49 @@
 								
 		<item>						
 								
-			<title>Combined_Show23_THEATER</title>					
+			<title>Combined_Show22_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_TIME</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__TITLE</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined__THEATER</title>					
+								
+			<description></description>					
+								
+		</item>						
+								
+		<item>						
+								
+			<title>Combined_Show23_THEATER</title>					
+								
+			<description></description>					
 								
 		</item>						
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>A Beautiful Planet 3D</description>					
+			<description>Sensory Friendly - Running Wild (2D)</description>					
 								
 		</item>						
 								
@@ -1878,15 +1878,15 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description>10:00 AM</description>					
+			<description>10:30 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_10:00 AM_TITLE</title>					
+			<title>IMAX_10:30 AM_TITLE</title>					
 								
-			<description>A Beautiful Planet 3D</description>					
+			<description>Sensory Friendly - Running Wild (2D)</description>					
 								
 		</item>						
 								
@@ -1894,7 +1894,7 @@
 								
 			<title>IMAX_Show2_TITLE</title>					
 								
-			<description>SCHOOL Flight of the Butterflies 3D</description>					
+			<description>Un Planeta Hermosa 3D</description>					
 								
 		</item>						
 								
@@ -1902,15 +1902,15 @@
 								
 			<title>IMAX_Show2_TIME</title>					
 								
-			<description>11:00 AM</description>					
+			<description>11:29 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_11:00 AM_TITLE</title>					
+			<title>IMAX_11:29 AM_TITLE</title>					
 								
-			<description>SCHOOL Flight of the Butterflies 3D</description>					
+			<description>Un Planeta Hermosa 3D</description>					
 								
 		</item>						
 								
@@ -1918,7 +1918,7 @@
 								
 			<title>IMAX_Show3_TITLE</title>					
 								
-			<description>SCHOOL Extreme Weather 3D</description>					
+			<description>Running Wild 3D</description>					
 								
 		</item>						
 								
@@ -1926,15 +1926,15 @@
 								
 			<title>IMAX_Show3_TIME</title>					
 								
-			<description>12:00 PM</description>					
+			<description>12:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_12:00 PM_TITLE</title>					
+			<title>IMAX_12:30 PM_TITLE</title>					
 								
-			<description>SCHOOL Extreme Weather 3D</description>					
+			<description>Running Wild 3D</description>					
 								
 		</item>						
 								
@@ -1950,13 +1950,13 @@
 								
 			<title>IMAX_Show4_TIME</title>					
 								
-			<description>1:00 PM</description>					
+			<description>1:30 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_1:00 PM_TITLE</title>					
+			<title>IMAX_1:30 PM_TITLE</title>					
 								
 			<description>Horse Power 3D</description>					
 								
@@ -2062,7 +2062,7 @@
 								
 			<title>IMAX_Show9_TITLE</title>					
 								
-			<description>Running Wild 3D</description>					
+			<description>SciFi - Twisters</description>					
 								
 		</item>						
 								
@@ -2078,7 +2078,7 @@
 								
 			<title>IMAX_6:30 PM_TITLE</title>					
 								
-			<description>Running Wild 3D</description>					
+			<description>SciFi - Twisters</description>					
 								
 		</item>						
 								
@@ -2086,7 +2086,7 @@
 								
 			<title>IMAX_Show10_TITLE</title>					
 								
-			<description>Stormbound (2D)</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2094,15 +2094,15 @@
 								
 			<title>IMAX_Show10_TIME</title>					
 								
-			<description>7:30 PM</description>					
+			<description></description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_7:30 PM_TITLE</title>					
+			<title>IMAX__TITLE</title>					
 								
-			<description>Stormbound (2D)</description>					
+			<description></description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>SCHOOL Perfect Little Planet</description>					
+			<description>Sensory Friendly - Dark Universe</description>					
 								
 		</item>						
 								
@@ -2582,7 +2582,7 @@
 								
 			<title>Dome_10:00 AM_TITLE</title>					
 								
-			<description>SCHOOL Perfect Little Planet</description>					
+			<description>Sensory Friendly - Dark Universe</description>					
 								
 		</item>						
 								
@@ -2638,7 +2638,7 @@
 								
 			<title>Dome_Show4_TITLE</title>					
 								
-			<description>SCHOOL Skywatch 6th Grade Moon Phases and Eclipses</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
@@ -2654,7 +2654,7 @@
 								
 			<title>Dome_1:00 PM_TITLE</title>					
 								
-			<description>SCHOOL Skywatch 6th Grade Moon Phases and Eclipses</description>					
+			<description>Encounters in the Milky Way</description>					
 								
 		</item>						
 								
