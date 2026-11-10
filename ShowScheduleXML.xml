@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description> </description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
@@ -30,7 +30,7 @@
 								
 			<title>Grouped_Show1_THEATER</title>					
 								
-			<description> </description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
@@ -718,23 +718,23 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__TITLE</title>					
+			<title>Combined_7:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>LASER K-POP DEMON HUNTERS</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined__THEATER</title>					
+			<title>Combined_7:00 PM_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -742,7 +742,7 @@
 								
 			<title>Combined_Show1_THEATER</title>					
 								
-			<description></description>					
+			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description></description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
@@ -2574,15 +2574,15 @@
 								
 			<title>Dome_Show1_TIME</title>					
 								
-			<description></description>					
+			<description>7:00 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome__TITLE</title>					
+			<title>Dome_7:00 PM_TITLE</title>					
 								
-			<description></description>					
+			<description>Laser K-Pop Demon Hunters</description>					
 								
 		</item>						
 								
