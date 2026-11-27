@@ -14,7 +14,7 @@
 								
 			<title>Grouped_Show1_TITLE</title>					
 								
-			<description>CLOSED - THANKSGIVING DAY</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -22,7 +22,7 @@
 								
 			<title>Grouped_Show1_TIME</title>					
 								
-			<description>12:01 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
@@ -38,7 +38,7 @@
 								
 			<title>Grouped_Show2_TITLE</title>					
 								
-			<description>CLOSED - THANKSGIVING DAY</description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -46,7 +46,7 @@
 								
 			<title>Grouped_Show2_TIME</title>					
 								
-			<description>12:01 AM, 12:01 AM</description>					
+			<description>10:45 PM, 10:45 PM</description>					
 								
 		</item>						
 								
@@ -710,7 +710,7 @@
 								
 			<title>Combined_Show1_TITLE</title>					
 								
-			<description>CLOSED - THANKSGIVING DAY</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
@@ -718,21 +718,21 @@
 								
 			<title>Combined_Show1_TIME</title>					
 								
-			<description>12:01 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:01 AM_TITLE</title>					
+			<title>Combined_10:00 AM_TITLE</title>					
 								
-			<description>CLOSED - THANKSGIVING DAY</description>					
+			<description>A BEAUTIFUL PLANET 3D</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:01 AM_THEATER</title>					
+			<title>Combined_10:00 AM_THEATER</title>					
 								
 			<description>HANSEN DOME THEATER</description>					
 								
@@ -750,7 +750,7 @@
 								
 			<title>Combined_Show2_TITLE</title>					
 								
-			<description>CLOSED - THANKSGIVING DAY</description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -758,21 +758,21 @@
 								
 			<title>Combined_Show2_TIME</title>					
 								
-			<description>12:01 AM</description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:01 AM_TITLE</title>					
+			<title>Combined_10:45 PM_TITLE</title>					
 								
-			<description>CLOSED - THANKSGIVING DAY</description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:01 AM_THEATER</title>					
+			<title>Combined_10:45 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -790,7 +790,7 @@
 								
 			<title>Combined_Show3_TITLE</title>					
 								
-			<description>CLOSED - THANKSGIVING DAY</description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
@@ -798,21 +798,21 @@
 								
 			<title>Combined_Show3_TIME</title>					
 								
-			<description>12:01 AM</description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:01 AM_TITLE</title>					
+			<title>Combined_10:45 PM_TITLE</title>					
 								
-			<description>CLOSED - THANKSGIVING DAY</description>					
+			<description>DARK SIDE OF THE MOON</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Combined_12:01 AM_THEATER</title>					
+			<title>Combined_10:45 PM_THEATER</title>					
 								
 			<description>NORTHROP GRUMMAN IMAX THEATER</description>					
 								
@@ -1870,7 +1870,7 @@
 								
 			<title>IMAX_Show1_TITLE</title>					
 								
-			<description>Closed - Thanksgiving Day</description>					
+			<description>A Beautiful Planet 3D</description>					
 								
 		</item>						
 								
@@ -1878,15 +1878,15 @@
 								
 			<title>IMAX_Show1_TIME</title>					
 								
-			<description>12:01 AM</description>					
+			<description>10:00 AM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>IMAX_12:01 AM_TITLE</title>					
+			<title>IMAX_10:00 AM_TITLE</title>					
 								
-			<description>Closed - Thanksgiving Day</description>					
+			<description>A Beautiful Planet 3D</description>					
 								
 		</item>						
 								
@@ -2566,7 +2566,7 @@
 								
 			<title>Dome_Show1_TITLE</title>					
 								
-			<description>Closed - Thanksgiving Day</description>					
+			<description>Dark Side of the Moon</description>					
 								
 		</item>						
 								
@@ -2574,15 +2574,15 @@
 								
 			<title>Dome_Show1_TIME</title>					
 								
-			<description>12:01 AM</description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_12:01 AM_TITLE</title>					
+			<title>Dome_10:45 PM_TITLE</title>					
 								
-			<description>Closed - Thanksgiving Day</description>					
+			<description>Dark Side of the Moon</description>					
 								
 		</item>						
 								
@@ -2590,7 +2590,7 @@
 								
 			<title>Dome_Show2_TITLE</title>					
 								
-			<description>Closed - Thanksgiving Day</description>					
+			<description>Dark Side of the Moon</description>					
 								
 		</item>						
 								
@@ -2598,15 +2598,15 @@
 								
 			<title>Dome_Show2_TIME</title>					
 								
-			<description>12:01 AM</description>					
+			<description>10:45 PM</description>					
 								
 		</item>						
 								
 		<item>						
 								
-			<title>Dome_12:01 AM_TITLE</title>					
+			<title>Dome_10:45 PM_TITLE</title>					
 								
-			<description>Closed - Thanksgiving Day</description>					
+			<description>Dark Side of the Moon</description>					
 								
 		</item>						
 								
